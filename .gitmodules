@@ -1,0 +1,6 @@
+[submodule "themes/omega-hugo"]
+	path = themes/omega-hugo
+	url = ../omega-hugo/
+[submodule "themes/twenty-twenty-hugo"]
+	path = themes/twenty-twenty-hugo
+	url = ../twenty-twenty-hugo/
