@@ -1,9 +1,11 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
-title = "Twenty Twenty Hugo"
+title = '安迪艾倫咖啡小館'
 theme = "twenty-twenty-hugo"
 languageName = "En"
 languageCode = "en-us"
+defaultContentLanguageInSubdir = true 
+hasCJKLanguage = true
 # post pagination
 paginate = "6"
 # post excerpt
@@ -34,7 +36,7 @@ author = "author"
 
 # main menu
 [[menu.main]]
-name = "Home"
+name = "首頁"
 URL = "/"
 weight = 1
 
@@ -44,23 +46,23 @@ URL = "about"
 weight = 2
 
 [[menu.main]]
-name = "Blog"
+name = "菜單"
 URL = "blog"
 weight = 3
 
 [[menu.main]]
-name = "Contact"
+name = "聯絡資訊"
 URL = "contact"
 weight = 4
 
 [[menu.main]]
-name = "Sample Page"
+name = "其他"
 URL = "sample-page"
 weight = 5
 
 # only desktop menu
 [[menu.desktop]]
-name = "Contact"
+name = "聯絡資訊"
 URL = "contact"
 weight = 1
 
@@ -77,23 +79,23 @@ favicon = "images/favicon.png"
 
 # cookies
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
-
+        
 # banner
 [params.banner]
-heading = "The New UMoMA Opens its Doors"
-image = "images/2020-landscape-1-2.png"
+image = "images/2021-aeicafe-landscape.jpg"
 
 # blog
 [params.blog]
-heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+heading ="今日菜單"
 
 # call to action
 [params.call_to_action]
-enable = true
+enable = false
 title = "Contact us for more information."
-content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
+picture = "images/traffic.png"
+content = "https://g.page/Thtea?share Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
 button_label = "Contact Us"
 button_url = "contact"
 
@@ -102,25 +104,22 @@ button_url = "contact"
 enable = true
 
 [[params.gallery.gallery_item ]]
-image = "images/2020-square-2.png"
-
-[[params.gallery.gallery_item ]]
-image = "images/2020-square-1.png"
+image = "images/traffic.png"
 
 
 # footer
 [params.footer]
-title = "About This Site"
+title = "關於我們"
 content = "This may be a good place to introduce yourself and your site or include some credits."
-address = "123 Main Street <br> New York, NY 10001"
-hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
+address = "新北市淡水區北新路117-2號"
+hours = "Monday–Friday: 12:00AM–9:00PM <br> Saturday & Sunday: 12:00AM–9:00PM"
 copyright = "Copyright &copy; 2021 a hugo theme by [themefisher](https://themefisher.com/hugo-themes/) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
 
 ############################# social site ########################
 [params.social]
-yelp = "#"
-facebook = "#"
+
+facebook = "https://www.facebook.com/aeicafe"
 twitter = "#"
 instagram = "#"
-email = "#"
-linkedin = "#"
+email = "aeicafe@gmail.com"
+
