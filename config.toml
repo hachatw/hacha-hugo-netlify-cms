@@ -41,24 +41,34 @@ URL = "/"
 weight = 1
 
 [[menu.main]]
-name = "About"
-URL = "about"
+name = "餐點菜單"
+URL = "food-menu"
 weight = 2
 
 [[menu.main]]
-name = "菜單"
-URL = "blog"
+name = "飲品菜單"
+URL = "drink-menu"
 weight = 3
+
+[[menu.main]]
+name = "About"
+URL = "about"
+weight = 4
+
+[[menu.main]]
+name = "菜單 blog"
+URL = "blog"
+weight = 5
 
 [[menu.main]]
 name = "聯絡資訊"
 URL = "contact"
-weight = 4
+weight = 6
 
 [[menu.main]]
 name = "其他"
 URL = "sample-page"
-weight = 5
+weight = 7
 
 # only desktop menu
 [[menu.desktop]]
