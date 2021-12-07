@@ -3,6 +3,7 @@
 title: " 主廚私房菜 Taiwan chef's cuisine "
 date: 2020-12-01T15:40:24+06:00
 image : "images/estern-meal.jpg"
+weight: 1
 # categories
 categories: ["lifestyle"]
 tags: ["lifestyle" , "fashion"]

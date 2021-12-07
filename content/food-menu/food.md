@@ -2,6 +2,7 @@
 title: "西餐"
 date: 2020-03-14T15:40:24+06:00
 image : "images/western-meal.jpeg"
+weight: 1
 # categories
 categories: ["西餐"]
 tags: ["meal","visit"]

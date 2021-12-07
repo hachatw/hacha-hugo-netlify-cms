@@ -1,6 +1,7 @@
 ---
 title: "Blended"
 date: 2021-12-01T18:46:00+08:00
+image : "images/blended-drink.jpg"
 draft: true
 ---
 

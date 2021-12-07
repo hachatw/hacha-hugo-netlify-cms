@@ -1,6 +1,7 @@
 ---
 title: "Alcohol"
 date: 2021-12-01T18:42:26+08:00
+image : "images/alcohol.jpg"
 draft: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Tea"
 date: 2021-12-01T18:41:34+08:00
+image : "images/tea.jpg"
 draft: true
 ---
 
