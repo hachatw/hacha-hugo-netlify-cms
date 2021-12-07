@@ -1,5 +1,5 @@
 ---
-title: "咖啡"
+title: "咖啡 coffee"
 date: 2020-03-14T15:40:24+06:00
 image : "images/coffee.jpg"
 # author
