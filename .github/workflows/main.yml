@@ -22,7 +22,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.TOKEN }}
+          personal_token: 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 
           external_repository: aaeic.github.io/AAEIC-HUGO
           publish_dir: ./public
           #   keep_files: true
