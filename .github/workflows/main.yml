@@ -28,7 +28,7 @@ jobs:
           external_repository: aaeic.github.io/AAEIC-HUGO
           publish_dir: ./public
           #   keep_files: true
-          user_name: <username>
-          user_email: <username@email.com>
+          user_name: jyza11
+          user_email: junyiza11@gmail.com
           publish_branch: master
         #   cname: example.com
