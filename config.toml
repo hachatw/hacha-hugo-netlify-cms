@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://aaeic.github.io/AAEIC-HUGO-public/"
+baseURL = "https://aeicafe.github.io/"
 title = '安迪艾倫咖啡小館'
 theme = "twenty-twenty-hugo"
 languageName = "En"
