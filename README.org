@@ -1,2 +1,40 @@
  a hugo theme by [themefisher](https://themefisher.com/hugo-themes/) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)
 
+ TODO
+
+ dir
+ search
+ tag description vs categories 
+ price tag
+ font 
+ i18n 
+ google SEO
+ map 
+
+* site index
+
+** home
+
+given better view of index
+
+** 餐點 food-menu 
+   主廚私房菜 Taiwan chef's cuisine 
+   義大利麵pasta
+   燉飯risotto ?
+   點心Refreshment
+       法式鹹派 quiche
+   甜點 dessert 
+
+** 飲品 drink 
+   茶 tea
+   咖啡 coffee
+   特調 blended drink
+   酒類 alchole  
+
+** traffic
+
+** contact
+
+** blog
+
+** order 

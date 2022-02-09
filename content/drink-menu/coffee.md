@@ -2,13 +2,14 @@
 title: "咖啡 coffee"
 date: 2020-03-14T15:40:24+06:00
 image : "images/coffee.jpg"
+weight: 6
 # author
 author : ["Andy"]
 # categories
 categories: ["咖啡"]
 tage: ["coffee"]
 # meta description
-description: "This is meta description"
+description: "This is aeicafe coffee menu"
 # save as draft
 draft: false
 ---

@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://aeicafe.github.io/"
+baseURL = "https://aeicafe.com"
 title = '安迪艾倫咖啡小館'
 theme = "twenty-twenty-hugo"
 languageName = "En"
@@ -89,8 +89,8 @@ image = "images/2021-aeicafe-landscape.jpg"
 
 # blog
 [params.blog]
-heading ="今日菜單 Menu Today"
-heading2 ="今日飲品 Drinks Today "
+heading="餐點 Meals"
+heading2 ="飲品 Drinks"
 
 # call to action
 [params.call_to_action]
