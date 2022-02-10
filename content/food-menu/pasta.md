@@ -7,7 +7,7 @@ weight: 2
 categories: ["西餐"]
 tags: ["meal","visit"]
 # meta description
-description: "This is meta description"
+description: "This is aeicafe pasta menu"
 # save as draft
 draft: false
 ---
@@ -37,7 +37,7 @@ draft: false
 + 酥炸黃金花枝圈佐塔塔醬 fried squid rings  NT$99 
 + 酥炸檸檬雞柳條 NT$99
 + 拉絲起司 70g 焗烤 gratin NT$60
-+ 麵+20 /+甜品折30
++ 麵+20 
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "酒精飲料 Alcohol"
-date: 2021-12-01T18:42:26+08:00
+date: 2022-02-10T18:42:26+08:00
 image : "images/alcohol.jpg"
 draft: false
 ---
@@ -29,7 +29,9 @@ Duvel Tripel Hop  330ml  9.5%   NT 200
 Kasteel Rouge  330ml  8%    NT 200
 - 比利時 馬勒12 濃厚頂層發酵黑啤酒   NT 200
 MALHEUR12  Belgian-Style Dark Strong ale  330ml  12% 
-
+- 比利時海盜啤酒 Piraat 330ml 10.5% NT 200
+- 比利時強亨利四重發酵黑啤酒 Straffe Hendrik Quadrupel 330ml 11% NT 200
+- 侯旭弗10號正宗修道院黑啤酒 Trappistes Rochefort 10 330ml 11.3% NT 230
 
 ## 調酒cocktail
 

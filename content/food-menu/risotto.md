@@ -22,8 +22,3 @@ draft: false
 - 焗烤奶汁起司鮭魚燉飯 risotto with Salmon  & cheese sauce NT380 
 
 #### 附濃湯 / 紅茶 / 美式咖啡3選1
-+ 辣味卡拉雞腿排 NT$99
-+ 酥炸魚排佐塔塔醬 NT$99
-+ 酥炸黃金花枝圈佐塔塔醬 fried squid rings  NT$99 
-+ 酥炸檸檬雞柳條 NT$99 
-+ 甜品折30
