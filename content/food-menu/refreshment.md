@@ -1,6 +1,6 @@
 ---
 title: "點心 Refreshment"
-date: 2020-03-14T15:40:24+06:00
+date: 2022-02-12T15:40:24+06:00
 image : "images/refreshment-6.jpg"
 weight: 4
 # categories
@@ -21,10 +21,15 @@ draft: false
 - 蝦沙拉生菜三明治shrimp salad sandwich  NT 120
 - 黑胡椒牛肉三明治  beef pastrami sandwich  NT 150
 
+
 ## 炸物 Fried food
 - 馬鈴薯條 French fries   NT 120
 - 雞塊 chicken nuggets  NT 120
 - 洋蔥圈 Onion rings  NT 120
+- 辣味卡拉雞腿排 NT 150
+- 酥炸魚排佐塔塔醬 NT 150
+- 酥炸黃金花枝圈佐塔塔醬 fried squid rings  NT 150 
+- 酥炸檸檬雞柳條 NT 150
 
 ## 法式鹹派 quiche   NT 140片 /  NT 560  6吋
 

@@ -1,6 +1,6 @@
 ---
 title: "咖啡 coffee"
-date: 2020-03-14T15:40:24+06:00
+date: 2022-02-12T15:40:24+06:00
 image : "images/coffee.jpg"
 weight: 6
 # author
@@ -30,10 +30,11 @@ draft: false
 - 榛果拿鐵 hazelnut café latte   NT 140
 - 椰香拿鐵 coconut café latte   NT 140
 - 漂浮冰黑咖啡 café float   NT160
+- 黑糖拿鐵 Brown Sugar Latte  NT 140
 - 威士忌拿鐵 whisky latte  NT180
 
 ### 手沖黑咖啡  Pour over coffee 
-- 今日特選手沖綜合黑咖啡   NT 120
+- 今日特選手沖綜合黑咖啡 NT 120
 
 - 哥倫比亞 日曬 / 中烘焙 克菈菈 低咖啡因 NT 150 (紅棗/核桃/黑糖)
 - 瓜地馬拉 水洗 / 中烘焙 安提瓜 花神 貝拉卡摩娜 波旁種 NT 150 (榛果/紅肉李/紅糖)
@@ -48,4 +49,23 @@ draft: false
 - 衣索比亞 水洗 / 淺焙 希達馬 娜法莎 NT 188 (香吉士/檸檬馬鞭草/蜂蜜)
 - 肯亞 水洗 / 淺中焙 冽里 吉肯達合作社 加查坦妮處理廠 AB TOP NT 188 (金銀花/紅醋栗/黑巧克力)
 - 坦尚尼亞 水洗 / 中烘焙 吉力馬扎羅 TANZANIA AAA KILIMANJARO NT 168
+
+### 咖啡冰沙 café smoothies
+
+- 卡布奇諾冰沙 cappuccino smoothies   NT 150
+- 拿鐵冰沙 café latte smoothies   NT 150
+- 摩卡冰沙 mocha café smoothies  NT 150
+- 香草拿鐵冰沙 vanilla café latte smoothies  NT 160
+- 愛爾蘭煉乳拿鐵冰沙 Irish cream café latte smoothies  NT 160
+- 榛果拿鐵冰沙 hazelnut café latte smoothies  NT 160
+- 椰香拿鐵冰沙 coconut café latte smoothies  NT 160
+- 焦糖瑪奇亞朵冰沙 caramel macchiato smoothies  NT 160
+- 可可瑪奇亞朵冰沙 cocoa macchiato smoothies  NT 160
+- 黑森林咖啡冰沙 black forest smoothies  NT 180
+- 巧克力碎片咖啡冰沙 chocolate café smoothies  NT 180
+- 草莓康寶藍冰沙 strawberry con panna smoothies  NT 220
+- 香蕉康寶藍冰沙 banana con panna smoothies  NT 220
+- 二見鍾情 fall in love   NT 260
+- 墨西哥冰咖啡 Mexican café mist  NT 260
+- 牙買加霜凍咖啡 Jamaican frosty  NT 260
 

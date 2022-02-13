@@ -21,4 +21,4 @@ draft: false
 - 焗烤咖哩海鮮燉飯 risotto with seafood & curry sauce NT380 *
 - 焗烤奶汁起司鮭魚燉飯 risotto with Salmon  & cheese sauce NT380 
 
-#### 附濃湯 / 紅茶 / 美式咖啡3選1
+#### 附例湯 / 紅茶 / 美式咖啡 3選1

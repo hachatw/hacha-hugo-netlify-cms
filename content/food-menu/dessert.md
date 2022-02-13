@@ -1,6 +1,6 @@
 ---
 title: "甜點 Dessert"
-date: 2021-11-14T15:40:24+06:00
+date: 2022-02-12T15:40:24+06:00
 image : "images/dessert.jpg"
 author : ["Ellen"]
 # categories
@@ -24,8 +24,8 @@ weight: 5
 
 - 巴斯克乳酪蛋糕  Basque cheese cake  ( S )  NT120
 
-##### 預定
 - 小山園抹茶巴斯克乳酪蛋糕 Koyamaen Matcha  Basque cheese cake  ( S )  NT140
+
 - 提拉米蘇  Tiramisù    ( 10cm方/ 500ml )  NT380
 - 小山園抹茶提拉米蘇 Koyamaen Matcha  Tiramisù（10cm方/500ml）  NT 380
 
