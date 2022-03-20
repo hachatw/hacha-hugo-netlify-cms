@@ -12,16 +12,18 @@ description: "This is aeicafe cuisine menu"
 # save as draft
 draft: false
 ---
-
-## 主廚私房菜 Eating with the chefs 
 ### 海鮮類seafood 
-
 - 蛤蜊絲瓜 clam with loofah NT 280
 - 滑蛋蝦仁 scrambled eggs fry with shrimp NT 320
 - 蝦仁豆腐 shrimp & tofu NT 320
-- 紅燒魚 stew in soy sauce with Taiwan tilapia NT 360 (預定)
-- 糖醋魚 sweet & sour sauce with Taiwan tilapia NT 360
-- 豆瓣魚 spicy yellow bean sauce with Taiwan tilapia NT 360
+- 腰果蝦仁 fried shrimp with cashew NT380
+- 豆苗蝦仁 fried shrimp with pea sprouts NT380
+- 清炒蝦仁 fried shrimp with vegetables NT320
+- 宮保蝦仁 kong-pqo shrimp NT320
+- 果律蝦球 deep fried shrimp with pineapple sala NT460 (預定)
+- 紅燒魚 stew in soy sauce with Taiwan tilapia NT360
+- 糖醋魚 sweet & sour sauce with Taiwan tilapia NT360
+- 豆瓣魚 spicy yellow bean sauce with Taiwan tilapia NT360
 - 清蒸鱈魚steamed Cod Fish NT 360
 - 炒三鮮 fried 3 seafood NT 320
 - 咖哩粉絲蝦 braised prawn & Chinese vermicelli with curry sauce NT 460 (預定)
@@ -65,7 +67,7 @@ draft: false
 ### 蔬菜/豆腐tofu / vegetables（蛋奶素/Vegetarian）
 
 - 絲瓜麵線 loofah with noodles NT 280
-- 豆皮絲瓜 loofah with soybean milk film NT 80
+- 豆皮絲瓜 loofah with soybean milk film NT 280
 - 鹹蛋苦瓜 bitter gourd & salted egg NT 280
 - 麻婆豆腐 spicy (ma-po) tofu NT 260
 - 家常豆腐 tofu with home style NT 320

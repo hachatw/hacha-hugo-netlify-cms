@@ -13,8 +13,6 @@ description: "This is aeicafe coffee menu"
 # save as draft
 draft: false
 ---
-
-## 咖啡
 ### 義式咖啡  Café Espresso
 
 - 美式咖啡 americano   NT 100

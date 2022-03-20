@@ -12,7 +12,6 @@ description: "This is Refreshment"
 draft: false
 ---
 
-# 點心 Refreshment
 
 ## 三明治 Sandwich
 - 法式起司火腿脆餅ham & cheese baguette NT 120 

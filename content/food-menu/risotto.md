@@ -12,7 +12,6 @@ description: "This is aeicafe risotto menu"
 draft: false
 ---
 
-## 燉飯risotto
 - 焗烤奶汁牛／豬肉／田園（蛋奶素）菘菇燉飯   risotto with beef / pork/ seasonal vegetables（Vegetarian） & cheese sauce NT320 
 - 焗烤茄汁牛／豬肉／田園（蛋奶素）菘菇燉飯   risotto with beef / pork/ seasonal vegetables（Vegetarian） & tomato sauce NT320 
 - 焗烤咖哩牛／豬肉／田園（蛋奶素）菘菇燉飯   risotto with beef / pork/ seasonal vegetables（Vegetarian） & curry sauce  NT320  *

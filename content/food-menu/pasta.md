@@ -11,7 +11,6 @@ description: "This is aeicafe pasta menu"
 # save as draft
 draft: false
 ---
-## 義大利麵pasta
 ###### 圓直面spaghetti / 寬麵fettuccine/ 筆管麵 Penne
 
 - 白酒蛤蜊義大利麵 pasta with clams & white wine sauce   NT230 

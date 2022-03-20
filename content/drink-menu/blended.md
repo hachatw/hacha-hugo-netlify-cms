@@ -4,8 +4,6 @@ date: 2022-02-12T18:46:00+08:00
 image : "images/blended-drink.jpg"
 draft: false
 ---
-
-## 特調飲料 Blended drinks
 ### 牛奶冰沙 Milk smoothies
 
 - 愛爾蘭煉乳牛奶冰沙 Irish cream milk smoothies NT 160
@@ -19,23 +17,23 @@ draft: false
 
 ### 特調冰沙/聖代 special smoothies/ sundae
 
-- 水蜜桃冰砂 peach smoothies   NT 120
-- 情人果冰砂 lover mango smoothies   NT 120
-- 百香果冰砂 passion fruit smoothies   NT 120
-- 漂浮汽水 soda float   NT150
-- 極品草莓爽 strawberry smoothies with ice cream   NT 220
-- 極品芒果爽 mango smoothies with ice cream   NT 220
-- 日落紐約 New York sunset  NT 260
-- 情定巴黎 French kiss  NT 260
-- 蔚藍海岸 la cote d’azur  NT 260
-- 麗都銷魂夜 a gauche de la mour  NT 260
-- 香蕉船 banana ship  NT 260
-- 巧克力聖代 chocolate sundae  NT 200
-- 時鮮水果聖代 season fruit sundae  NT 200
-- 香草冰淇淋(單球) vanilla iced cream   NT 90
-- 草莓冰淇淋(單球)strawberry iced cream   NT 90
-- 芒果冰淇淋(單球) mango iced cream   NT 90
-- 巧克力冰淇淋(單球) chocolate iced cream   NT 90
+- 水蜜桃冰砂 peach smoothies NT 120
+- 情人果冰砂 lover mango smoothies NT 120
+- 百香果冰砂 passion fruit smoothies NT 120
+- 漂浮汽水 soda float NT150
+- 極品草莓爽 strawberry smoothies with ice cream NT 260
+- 極品芒果爽 mango smoothies with ice cream NT 260
+- 日落紐約 New York sunset NT 260
+- 情定巴黎 French kiss NT 260
+- 蔚藍海岸 la cote d’azur NT 260
+- 麗都銷魂夜 a gauche de la mour NT 260
+- 香蕉船 banana ship NT 260
+- 巧克力聖代 chocolate sundae NT 220
+- 時鮮水果聖代 season fruit sundae NT 260
+- 香草冰淇淋(單球) vanilla iced cream NT 90
+- 草莓冰淇淋(單球)strawberry iced cream NT 90
+- 芒果冰淇淋(單球) mango iced cream NT 90
+- 巧克力冰淇淋(單球) chocolate iced cream NT 90
 
 ### 果汁/牛奶  Juice/ Milk
 
