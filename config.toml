@@ -41,14 +41,9 @@ URL = "/"
 weight = 1
 
 [[menu.main]]
-name = "餐點菜單 food menu"
-URL = "food-menu"
+name = "菜單 menus"
+URL = "menus"
 weight = 2
-
-[[menu.main]]
-name = "飲品菜單 drink menu"
-URL = "drink-menu"
-weight = 3
 
 [[menu.main]]
 name = "交通資訊 Traffic info"
