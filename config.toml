@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://aeicafe.com"
-title='安迪艾倫咖啡小館'
+baseURL = "https://hacha.tw"
+title='黑客茶舖'
 theme = "twenty-twenty-hugo"
 languageName = "En"
 languageCode = "en-us"
@@ -80,7 +80,12 @@ expire_days = 2
         
 # banner
 [params.banner]
-image = "images/2021-aeicafe-landscape.jpg"
+image = "images/hacha-landscape.png"
+
+
+# banner
+[params.logo]
+image = "images/favicon.png"
 
 # blog
 [params.blog]
@@ -107,10 +112,10 @@ image = "images/traffic.png"
 # footer
 [params.footer]
 title = "關於我們"
-content = "安迪艾倫咖啡小館  Andy Ellen Icafe "
+content = "黑客茶舖"
 address = "新北市淡水區北新路117-2號"
 hours = "Monday–Friday: 12:00AM–9:00PM <br> Saturday & Sunday: 12:00AM–9:00PM"
-copyright = "Copyright &copy; 2022 安迪艾倫咖啡小館 Andy Ellen I cafe "
+copyright = "Copyright &copy; 2022 黑客茶舖 "
 
 ############################# social site ########################
 [params.social]
