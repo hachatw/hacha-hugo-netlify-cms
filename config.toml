@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://hacha.tw"
 title='黑客茶舖'
-theme = "twenty-twenty-hugo"
+theme ="twenty-twenty-hugo"
 languageName = "En"
 languageCode = "en-us"
 defaultContentLanguageInSubdir = true 
@@ -106,7 +106,7 @@ button_url = "contact"
 enable = true
 
 [[params.gallery.gallery_item ]]
-image = "images/traffic.png"
+image = "images/hacha-landscape.png"
 
 
 # footer
