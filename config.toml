@@ -1,11 +1,9 @@
 ######################## default configuration ####################
 baseURL = "https://hacha.tw"
-title='黑客茶舖'
+
 theme ="twenty-twenty-hugo"
-languageName = "En"
-languageCode = "en-us"
-defaultContentLanguageInSubdir = true 
-hasCJKLanguage = true
+defaultContentLanguage = 'en'
+
 # post pagination
 paginate = "6"
 # post excerpt
@@ -19,6 +17,17 @@ googleAnalytics = "" # example : UA-123-45
 
 
 
+[languages]
+    [languages.en]
+        languagedirection = "eng"
+        title="hacker's casa de cha"
+        contentDir = "content/en"
+    [languages.zh]
+        languagedirection = "zhu"
+        title='黑客茶舖'
+
+
+        
 ############################## Output ###############################
 [outputs]
 home = ["HTML", "RSS", "JSON"]
@@ -120,8 +129,8 @@ copyright = "Copyright &copy; 2022 黑客茶舖 "
 ############################# social site ########################
 [params.social]
 
-facebook = "https://www.facebook.com/aeicafe"
+facebook = "https://www.facebook.com/"
 twitter = "#"
 instagram = "#"
-email = "aeicafe@gmail.com"
+email = "@gmail.com"
 
