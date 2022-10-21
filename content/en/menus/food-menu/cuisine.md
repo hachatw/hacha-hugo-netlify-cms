@@ -1,38 +1,60 @@
 
 ---
-title: " 主廚私房菜 "
-date: 2022-10-21T11:46:24+06:00
+title: "Taiwan chef's cuisine "
+date: 2022-02-10T15:40:24+06:00
 image : "images/estern-meal.jpg"
 weight: 1
 # categories
-categories: ["台灣菜"]
-tags: ["餐點" , "台灣菜"]
+categories: ["cuisine"]
+tags: ["meal" , "cuisine"]
 # meta description
-description: "黑客茶舖"
+description: "This is aeicafe cuisine menu"
 # save as draft
 draft: false
 ---
-### 海鮮類seafood 
-蛤蜊絲瓜 NT 280
-滑蛋蝦仁 NT 320
-蝦仁豆腐 NT 320
-腰果蝦仁 NT380
-清炒蝦仁 NT320
-宮保蝦仁 NT320
-果律蝦球 NT460 (預定)
-（未上線）鼓汁蒸小卷  NT 320
-（未上線）蔭鼓鮮蚵豆腐  NT 320
-（未上線）蚵仔酥  NT320
-紅燒魚 NT360
-糖醋魚 NT360
-豆瓣魚  NT360
-清蒸鱈魚 NT 360
-（未上線）豆酥鱈魚 NT 380
-炒三鮮  NT 320 
-咖哩粉絲蝦  NT 460 (預定)
-鹹酥蝦  NT 360
-蛤蜊薑絲湯  NT 220
-（未上線）紫菜鮮蚵湯  NT 260
+##  Eating with the chefs 
+
+### seafood 
+
+- clam with loofah  NT 280
+
+scrambled eggs fry with shrimp NT 320
+
+shrimp & tofu  NT 320
+
+fried shrimp with cashew   NT380
+
+fried shrimp with vegetables   NT320
+
+kong-pqo shrimp    NT320
+
+deep fried shrimp with pineapple sala   NT460 (預定)
+
+steamed Neritic Squid Neritic Squid with fermented bean & soy sauce  NT 320
+
+stir-fried oyster with fermented bean & tofu  NT 320
+
+deep fried oyster    NT320
+
+stew in soy sauce with Taiwan tilapia   NT360
+
+sweet & sour sauce with Taiwan tilapia   NT360
+
+spicy yellow bean sauce with Taiwan tilapia    NT360
+
+steamed Cod Fish NT 360
+
+steamed codfish with savory crisbean NT 380
+
+fried 3 seafood   NT 320 
+
+braised prawn & Chinese vermicelli with curry sauce  NT 460 (預定)
+
+spiced salt fried shrimp    NT 360
+
+soup with clam & ginger   NT 220
+
+soup with Oyster &  Seaweed    NT 260
 
 ### 雞肉poultry
 - 宮保雞丁 kong -pao chicken NT 320 *
