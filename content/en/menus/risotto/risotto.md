@@ -12,12 +12,23 @@ description: "This is aeicafe risotto menu"
 draft: false
 ---
 
-- 焗烤奶汁牛／豬肉／田園（蛋奶素）菘菇燉飯   risotto with beef / pork/ seasonal vegetables（Vegetarian） & cheese sauce NT320 
-- 焗烤茄汁牛／豬肉／田園（蛋奶素）菘菇燉飯   risotto with beef / pork/ seasonal vegetables（Vegetarian） & tomato sauce NT320 
-- 焗烤咖哩牛／豬肉／田園（蛋奶素）菘菇燉飯   risotto with beef / pork/ seasonal vegetables（Vegetarian） & curry sauce  NT320  *
-- 焗烤奶汁起司海鮮燉飯 risotto with seafood & cheese sauce NT380 
-- 焗烤茄汁海鮮燉飯 risotto with seafood & tomato sauce NT380
-- 焗烤咖哩海鮮燉飯 risotto with seafood & curry sauce NT380 *
-- 焗烤奶汁起司鮭魚燉飯 risotto with Salmon  & cheese sauce NT380 
+## risotto
 
-#### 附例湯 / 紅茶 / 美式咖啡 3選1
+
+- risotto with beef  & cheese sauce NT320 
+- risotto with pork & cheese sauce NT320 
+- risotto with seasonal vegetables（Vegetarian） & cheese sauce NT320 
+- risotto with Chicken tender & white cream sauce  NT320 
+- risotto with seafood & cheese sauce NT380
+- risotto with Salmon  & cheese sauce  NT380
+- risotto with beef  &  tomato sauce  NT320 
+- risotto with pork &  tomato sauce  NT320 
+- risotto with seasonal vegetables（Vegetarian） &  tomato sauce  NT320 
+- risotto with seafood & tomato sauce  NT380 
+- risotto with beef  & curry sauce  NT320 
+- risotto with pork & curry sauce  NT320 
+- risotto with seasonal vegetables（Vegetarian） & curry sauce  NT320 
+- risotto with seafood & curry sauce  NT380 
+
+
+- 附例湯 / 紅茶 / 美式咖啡 3選1

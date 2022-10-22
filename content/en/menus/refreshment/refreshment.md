@@ -13,27 +13,28 @@ draft: false
 ---
 
 
-## 三明治 Sandwich
-- 法式起司火腿脆餅ham & cheese baguette NT 120 
-- 起司火腿三明治 ham & cheese sandwich  NT 120
-- 三明蛋治 omelette sandwich  NT 120
-- 蝦沙拉生菜三明治shrimp salad sandwich  NT 120
-- 黑胡椒牛肉三明治  beef pastrami sandwich  NT 150
+## Refreshment
 
+- ham & cheese baguette NT 120 
+- ham & cheese sandwich  NT 120
+- omelette sandwich  NT 120
+- shrimp salad sandwich  NT 150
+- beef pastrami sandwich  NT 150
 
-## 炸物 Fried food
-- 馬鈴薯條 French fries   NT 120
-- 雞塊 chicken nuggets  NT 120
-- 洋蔥圈 Onion rings  NT 120
+## Fried food
+
+- French fries   NT 120
+- chicken nuggets  NT 120
+- Onion rings  NT 120
 - 辣味卡拉雞腿排 NT 150
 - 酥炸魚排佐塔塔醬 NT 150
-- 酥炸黃金花枝圈佐塔塔醬 fried squid rings  NT 150 
+- fried squid rings  NT 150 
 - 酥炸檸檬雞柳條 NT 150
 
-## 法式鹹派 quiche   NT 140片 /  NT 560  6吋
+##  quiche   NT 140片 /  NT 560  6吋  (預定)
 
-- 起司培根野菇鹹派  Mushroom & Bacon Cheese Quiche 
-- 田園野菇鹹派 (奶蛋素Vegetarian) Mushroom and seasonal vegetables Quiche 
-- 法蘭克福腸鹹派 Frankfurter sausage Quiche 
-- 鮭魚波菜鹹派 Salmon & Spinach Quiche  
-- 海鮮總匯鹹派  Seasonal Seafood Quiche 
+- Mushroom & Bacon Cheese Quiche 
+- (Vegetarian) Mushroom and seasonal vegetables Quiche 
+- Frankfurter sausage Quiche 
+- Salmon & Spinach Quiche  
+- Seasonal Seafood Quiche 
