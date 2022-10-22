@@ -1,8 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://hacha.tw"
 
 theme ="twenty-twenty-hugo"
-defaultContentLanguage = 'en'
+defaultContentLanguage = 'zh'
 
 # post pagination
 paginate = "6"
@@ -19,14 +18,58 @@ googleAnalytics = "" # example : UA-123-45
 
 [languages]
     [languages.en]
+        baseURL = "https://hacha.tw/en" 
+        languageName = 'English'
         languagedirection = "eng"
         title="hacker's casa de cha"
         contentDir = "content/en"
+
+        [[languages.en.menu.main]]
+        name = "home"
+        URL = "/"
+        weight = 1
+
+        [[languages.en.menu.main]]
+        name = "menus"
+        URL = "menus"
+        weight = 2
+
+        [[languages.en.menu.main]]
+        name = "Traffic info"
+        URL = "traffic"
+        weight = 4
+
+        [[languages.en.menu.main]]
+        name = "Contact"
+        URL = "contact"
+        weight = 5
+
     [languages.zh]
+        baseURL = "https://hacha.tw/zh"
+        languageName = '中文'
         languagedirection = "zhu"
         title='黑客茶舖'
+        contentDir = "content/zh"
 
+        [[languages.zh.menu.main]]
+        name = "首頁"
+        URL = "/"
+        weight = 1
 
+        [[languages.zh.menu.main]]
+        name = "菜單"
+        URL = "menus"
+        weight = 2
+
+        [[languages.zh.menu.main]]
+        name = "交通資訊"
+        URL = "traffic"
+        weight = 4
+
+        [[languages.zh.menu.main]]
+        name = "聯絡資訊"
+        URL = "contact"
+        weight = 5
         
 ############################## Output ###############################
 [outputs]
@@ -42,34 +85,6 @@ tag = "tags"
 author = "author"
 
 ############################## navigation ###############################
-
-# main menu
-[[menu.main]]
-name = "首頁 home"
-URL = "/"
-weight = 1
-
-[[menu.main]]
-name = "菜單 menus"
-URL = "menus"
-weight = 2
-
-[[menu.main]]
-name = "交通資訊 Traffic info"
-URL = "traffic"
-weight = 4
-
-[[menu.main]]
-name = "聯絡資訊 Contact"
-URL = "contact"
-weight = 5
-
-
-# only desktop menu
-[[menu.desktop]]
-name = "聯絡資訊"
-URL = "contact"
-weight = 1
 
 
 #################### default parameters ################################
@@ -89,7 +104,6 @@ expire_days = 2
         
 # banner
 [params.banner]
-image = "images/hacha-landscape.png"
 
 
 # banner
