@@ -10,7 +10,7 @@ tags: ["growonairtw" , "sell","GA","GA4","tech"]
 # meta description
 description: "This is google event "
 # save as draft
-draft: false
+draft: true 
 ---
 
 報名連結:

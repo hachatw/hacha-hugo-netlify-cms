@@ -21,6 +21,7 @@ googleAnalytics = "" # example : UA-123-45
         languagedirection = "zhu"
         title='黑客茶舖'
         contentDir = "content/zh"
+        
 
 ############################## navigation zh ###############################
         [[languages.zh.menu.main]]
@@ -139,8 +140,8 @@ expire_days = 2
 [params.logo]
 image = "images/favicon.png"
 
-# blog
-[params.blog]
+# event
+[params.event]
 heading="活動 event"
 heading2 ="店內菜單 menus"
 
