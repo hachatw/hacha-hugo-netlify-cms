@@ -2,7 +2,6 @@
 
 theme ="twenty-twenty-hugo"
 defaultContentLanguage = 'zh'
-
 # post pagination
 paginate = "6"
 # post excerpt
@@ -15,7 +14,51 @@ disableLanguages = [] # desable language from here
 googleAnalytics = "" # example : UA-123-45
 
 
+############################## ZH config ###############################
+    [languages.zh]
+        baseURL = "https://hacha.tw/" 
+        languageName = '中文'
+        languagedirection = "zhu"
+        title='黑客茶舖'
+        contentDir = "content/zh"
 
+############################## navigation zh ###############################
+        [[languages.zh.menu.main]]
+        name = "首頁"
+        URL = "zh"
+        weight = 1
+
+        [[languages.zh.menu.main]]
+        name = "菜單"
+        URL = "menus"
+        weight = 2
+
+        [[languages.zh.menu.main]]
+        name = "交通資訊"
+        URL = "traffic"
+        weight = 4
+
+        [[languages.zh.menu.main]]
+        name = "聯絡資訊"
+        URL = "contact"
+        weight = 5
+        
+
+        [[languages.zh.menu.main]]
+        name = "English"
+        URL = "../en"
+        weight = 6
+
+        # footer
+        [languages.zh.params.footer]
+        title = "關於我們"
+        content = "黑客茶舖"
+        address = "新北市淡水區北新路117-2號"
+        hours = "Monday–Friday: 12:30AM–9:00PM <br> Saturday & Sunday: 12:30AM–9:00PM"
+        copyright = "Copyright &copy; 2022 黑客茶舖 "
+
+
+############################## English config ###############################
 [languages]
     [languages.en]
         baseURL = "https://hacha.tw/en" 
@@ -24,6 +67,7 @@ googleAnalytics = "" # example : UA-123-45
         title="hacker's casa de cha"
         contentDir = "content/en"
 
+############################## navigation en ###############################
         [[languages.en.menu.main]]
         name = "home"
         URL = "/"
@@ -44,33 +88,20 @@ googleAnalytics = "" # example : UA-123-45
         URL = "contact"
         weight = 5
 
-    [languages.zh]
-        baseURL = "https://hacha.tw/zh"
-        languageName = '中文'
-        languagedirection = "zhu"
-        title='黑客茶舖'
-        contentDir = "content/zh"
 
-        [[languages.zh.menu.main]]
-        name = "首頁"
-        URL = "/"
-        weight = 1
+        [[languages.en.menu.main]]
+        name = "中文頁面"
+        URL = "../zh"
+        weight = 6
 
-        [[languages.zh.menu.main]]
-        name = "菜單"
-        URL = "menus"
-        weight = 2
+        # footer
+        [languages.en.params.footer]
+        title = "about us"
+        content = "hacker's casa de cha"
+        address = "No. 117-2, Beixin Rd, Tamsui District"
+        hours = "Monday–Friday: 12:30AM–9:00PM <br> Saturday & Sunday: 12:30AM–9:00PM"
+        copyright = "Copyright &copy; 2022 hacker's casa de cha "
 
-        [[languages.zh.menu.main]]
-        name = "交通資訊"
-        URL = "traffic"
-        weight = 4
-
-        [[languages.zh.menu.main]]
-        name = "聯絡資訊"
-        URL = "contact"
-        weight = 5
-        
 ############################## Output ###############################
 [outputs]
 home = ["HTML", "RSS", "JSON"]
@@ -84,14 +115,13 @@ category = "categories"
 tag = "tags"
 author = "author"
 
-############################## navigation ###############################
 
 
 #################### default parameters ################################
 [params]
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "This is hacha.tw"
+author = "Junyiza"
 
 # favicon
 [params.favicon]
@@ -105,24 +135,23 @@ expire_days = 2
 # banner
 [params.banner]
 
-
 # banner
 [params.logo]
 image = "images/favicon.png"
 
 # blog
 [params.blog]
-heading="餐點 Meals"
-heading2 ="飲品 Drinks"
+heading="活動 event"
+heading2 ="店內菜單 menus"
 
 # call to action
 [params.call_to_action]
-enable = false
-title = "Contact us for more information."
+enable = true
+title = "黑客茶舖臉書社團"
 picture = "images/traffic.png"
-content = "https://g.page/Thtea?share Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
-button_label = "Contact Us"
-button_url = "contact"
+content = "更多黑客茶舖相關活動，優惠，技術文章與討論，加入黑客茶舖臉書社團，獲得更多。"
+button_label = "點此加入"
+button_url = "https://www.facebook.com/groups/828300348362972"
 
 # gallery
 [params.gallery]
@@ -143,8 +172,9 @@ copyright = "Copyright &copy; 2022 黑客茶舖 "
 ############################# social site ########################
 [params.social]
 
-facebook = "https://www.facebook.com/"
-twitter = "#"
-instagram = "#"
-email = "@gmail.com"
+facebook = "https://www.facebook.com/profile.php?id=100064148673968"
+twitter = "https://twitter.com/hacha_tw"
+instagram = "https://www.instagram.com/taiwan_hack_tea/"
+line = "https://lin.ee/AE1OJ2k"
+email = "hachataiwan@gmail.comgit "
 

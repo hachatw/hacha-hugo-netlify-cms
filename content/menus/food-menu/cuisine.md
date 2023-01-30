@@ -1,7 +1,7 @@
 
 ---
 title: " 主廚私房菜 "
-date: 2022-10-21T11:46:24+06:00
+date: 2022-10-20T11:46:24+06:00
 image : "images/estern-meal.jpg"
 weight: 1
 # categories
@@ -13,94 +13,96 @@ description: "黑客茶舖"
 draft: false
 ---
 ### 海鮮類seafood 
-蛤蜊絲瓜 NT 280
-滑蛋蝦仁 NT 320
-蝦仁豆腐 NT 320
-腰果蝦仁 NT380
-清炒蝦仁 NT320
-宮保蝦仁 NT320
-果律蝦球 NT460 (預定)
-（未上線）鼓汁蒸小卷  NT 320
-（未上線）蔭鼓鮮蚵豆腐  NT 320
-（未上線）蚵仔酥  NT320
-紅燒魚 NT360
-糖醋魚 NT360
-豆瓣魚  NT360
-清蒸鱈魚 NT 360
-（未上線）豆酥鱈魚 NT 380
-炒三鮮  NT 320 
-咖哩粉絲蝦  NT 460 (預定)
-鹹酥蝦  NT 360
-蛤蜊薑絲湯  NT 220
-（未上線）紫菜鮮蚵湯  NT 260
 
-### 雞肉poultry
-- 宮保雞丁 kong -pao chicken NT 320 *
-- 醬爆雞丁 stir fry chicken & sweet soybean sauce  NT 320
-- 油蔥水晶雞chicken & green onion sauce  NT 280
-- 糖醋雞丁sweet & sour sauce chicken  NT 320
-- 玉米雞柳 Chicken Fillet with Corn   NT 280
+### 海鮮類
 
-### 豬肉meat
-- 螞蟻上樹 chinese vermicelli with spicy sauce NT 280 * *
-- 瓜仔蒸肉餅 steamed minced pork cake with pickled cucumber in soy sauce NT 320
-- 客家小炒 haken fries NT280 *
-- 干絲豬柳 pork strips fry with dried bean curd NT 320
-- 竹筍炒肉絲 pork strips & bamboo shoot NT 320
-- 培根高麗菜 cabbage with bacon bits NT 260
-- 京醬肉絲pork strips & sweet soybean sauce NT 280
-- 黃瓜肉絲 pork strips & cucumber NT280
-- 芹菜肉絲 pork strips & celery NT280
-- 木須肉 pork strips & tree Mushrooms & egg NT 320
-- 酸菜四季豆肉絲 Sauted french beans & pickled cabbage NT 320
-- 魚香肉絲 pork strips & szechuan style NT280 * *
-- 魚香茄子 eggplant ground pork with Szechuan style NT 280
-- 魚香烘蛋 egg cake with Szechuan style NT 280
-- 回鍋肉 spicy sliced meat & cabbage NT 320 *
-- 台式滷肉 braised pork in Taiwanese style NT 360
-- 椒鹽排骨 peppered spareribs NT 360
-- 糖醋排骨 sweet & sour sauce with spareribs NT 360
-
-### 牛肉beef
-- 蔥爆牛柳beef fillet stir fry with green chives NT 320
-- 滑蛋牛柳 scrambled eggs with beef fillet NT 320
-- 干絲牛柳 beef fillet fry with dried bean curd NT 320
-- 沙茶牛肉 fried beef with bar-B-Q sauce NT 320 *
-- 青椒牛柳 beef fillet stir fry with green peppers NT 360
-
-### 蔬菜/豆腐tofu / vegetables（蛋奶素/Vegetarian）
-
-- 絲瓜麵線 loofah with noodles NT 280
-- 豆皮絲瓜 loofah with soybean milk film NT 280
-- 鹹蛋苦瓜 bitter gourd & salted egg NT 280
-- 麻婆豆腐 spicy (ma-po) tofu NT 260
-- 家常豆腐 tofu with home style NT 320
-- 牛番茄豆腐 tomato fry with tofu NT280
-- 菜脯蛋 egg cake with dried radish NT 220
-- 蔥花蛋 egg cake with green chives NT 220
-- 九層塔烘蛋 egg cake with basil NT 220
-- 蛋炒牛番茄 scrambled eggs fry with tomato NT 280
-- 塔香茄子 eggplant fry with basil NT 260
-- 醬爆雙茄 eggplant & tomato with sweet soybean sauce NT 280
-- 宮保杏鮑菇 kong -pao king oyster mushroom NT 320 *
-- 宮保高麗菜 kong-pao cabbage NT 260
-- 清炒豆苗 pea sprouts NT 220
-- 蕃茄時蔬豆腐湯 soup with tofu & vegetables NT 260
-- 台式炒米粉 Taiwanese Stir-Fried Rice Noodle NT 280
+- 蛤蜊絲瓜 NT 280
+- 滑蛋蝦仁 NT 320
+- 蝦仁豆腐 NT 320
+- 腰果蝦仁 NT380
+- 清炒蝦仁 NT320
+- 宮保蝦仁 NT320
+- 果律蝦球 NT460 (預定)
+- 紅燒魚 NT360
+- 糖醋魚 NT360
+- 豆瓣魚  NT360
+- 清蒸鱈魚 NT 360
+- 炒三鮮  NT 320 
+- 咖哩粉絲蝦  NT 460 (預定)
+- 鹹酥蝦  NT 360
+- 蛤蜊薑絲湯  NT 220
 
 
-### 炒時蔬 vegetables 
+### 雞肉
 
-- 空心菜 water celery NT 100
-- 高麗菜 cabbage NT 100
-- A菜 Fushan lettuce NT 100
-- 山茼蒿 NT 100
-- 菠菜 spinach  NT 100
-- 水蓮 white water snowflake   NT 100
-- 綜合 fried salad NT 100  
+- 宮保雞丁  NT 320 
+- 醬爆雞丁 NT 320
+- 油蔥水晶雞 NT 280
+- 糖醋雞丁 NT 320
+- 玉米雞柳  NT 280
+
+### 豬肉
+
+- 螞蟻上樹 NT280
+- 瓜仔蒸肉餅 NT 320
+- 客家小炒 NT280 
+- 干絲豬柳 NT 320
+- 培根高麗菜  NT 260
+- 京醬肉絲 NT280
+- 黃瓜肉絲  NT280
+- 芹菜肉絲  NT280
+- 木須肉  NT320
+- 酸菜四季豆肉絲 NT320
+- 魚香肉絲  NT280 
+- 魚香茄子  NT280
+- 魚香烘蛋  NT280
+- 回鍋肉 NT 320 
+- 台式滷肉  NT360
+- 椒鹽里脊  NT360
+- 糖醋肉  NT360
+
+### 牛肉
+
+- 蔥爆牛柳 NT 320 
+- 滑蛋牛柳 NT 320
+- 干絲牛柳 NT 320
+- 沙茶牛肉 NT 320 
+- 青椒牛柳 NT 360
+
+
+### 蔬菜/豆腐/ （蛋奶素/）
+
+
+- 絲瓜麵線 NT 280
+- 豆皮絲瓜  NT 280
+- 鹹蛋苦瓜  NT 280
+- 麻婆豆腐  NT 280
+- 家常豆腐  NT 320
+- 牛番茄豆腐  NT280
+- 菜脯蛋  NT 220
+- 蔥花蛋  NT220
+- 九層塔烘蛋  NT220
+- 蛋炒牛番茄  NT 280
+- 塔香茄子 NT 260
+- 醬爆雙茄   NT280
+- 宮保杏鮑菇  NT 320 
+- 宮保高麗菜  NT 260
+- 清炒豆苗  NT 220
+- 蕃茄時蔬豆腐湯  NT260
+- 台式炒米粉   NT 280
+
+### 炒時蔬 
+
+- 空心菜 NT 120
+- 高麗菜 NT 120
+- A菜 NT 120
+- 山茼蒿 NT 120
+- 菠菜 NT 120
+- 水蓮 NT 120
+- 綜合青菜 NT 120
 
 - 白飯 NT 15
 - 例湯 NT 30
-- 紅茶 NT 50
+- 紅茶  NT 50
 - 美式咖啡 NT 50
 - 可樂 NT 50
