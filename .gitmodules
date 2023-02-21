@@ -1,6 +1,3 @@
 [submodule "themes/twenty-twenty-hugo"]
 	path = themes/twenty-twenty-hugo
-	url = ../twenty-twenty-hugo/
-[submodule "twenty-twenty-hugo"]
-	path = twenty-twenty-hugo
 	url = git@github.com:hachatw/twenty-twenty-hugo.git
