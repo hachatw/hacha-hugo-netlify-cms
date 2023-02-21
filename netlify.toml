@@ -1,16 +1,35 @@
 [build]
-  publish = "public"
-  command = "hugo --minify --gc"
-  
-[build.environment]
-  HUGO_VERSION = "0.87.0"
-  HUGO_BASEURL = "/"
+publish = "public"
+command = "hugo --gc --minify"
 
-[[headers]]
-  for = "/*" # This defines which paths this specific [[headers]] block will cover.
+[context.production.environment]
+HUGO_VERSION = "0.110.0"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
 
-[headers.values]
-  X-Frame-Options = "DENY"
-  X-XSS-Protection = "1; mode=block"
-  Referrer-Policy = "same-origin"
-  Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
+[context.split1]
+command = "hugo --gc --minify --enableGitInfo"
+
+[context.split1.environment]
+HUGO_VERSION = "0.110.0"
+HUGO_ENV = "production"
+
+[context.deploy-preview]
+command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+
+[context.deploy-preview.environment]
+HUGO_VERSION = "0.110.0"
+
+[context.branch-deploy]
+command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+
+[context.branch-deploy.environment]
+HUGO_VERSION = "0.110.0"
+
+[context.next.environment]
+HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+from = "/npmjs/*"
+to = "/npmjs/"
+status = 200
