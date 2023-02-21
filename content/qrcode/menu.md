@@ -6,7 +6,7 @@ draft: false
 
 
 <head>
-    <meta HTTP-EQUIV="REFRESH" content="0; url=../..">
+    <meta HTTP-EQUIV="REFRESH" content="0; url='https://hacha.tw'">
 </head>
 
 qrcode redirecting you to menu page 

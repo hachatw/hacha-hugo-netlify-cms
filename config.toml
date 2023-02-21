@@ -13,15 +13,13 @@ disableLanguages = [] # desable language from here
 # google analytics
 googleAnalytics = "" # example : UA-123-45
 
-
+[languages]
 ############################## ZH config ###############################
     [languages.zh]
-        baseURL = "https://hacha.tw/" 
+        baseURL = "https://hacha.tw/zh" 
         languageName = '中文'
-        languagedirection = "zhu"
         title='黑客茶舖'
         contentDir = "content/zh"
-        
 
 ############################## navigation zh ###############################
         [[languages.zh.menu.main]]
@@ -44,11 +42,15 @@ googleAnalytics = "" # example : UA-123-45
         URL = "contact"
         weight = 5
         
-
         [[languages.zh.menu.main]]
         name = "English"
         URL = "../en"
         weight = 6
+
+# subtitles
+[languages.zh.params.event]
+heading="活動"
+heading2 ="店內菜單"
 
         # footer
         [languages.zh.params.footer]
@@ -60,11 +62,10 @@ googleAnalytics = "" # example : UA-123-45
 
 
 ############################## English config ###############################
-[languages]
+
     [languages.en]
         baseURL = "https://hacha.tw/en" 
         languageName = 'English'
-        languagedirection = "eng"
         title="hacker's casa de cha"
         contentDir = "content/en"
 
@@ -94,6 +95,11 @@ googleAnalytics = "" # example : UA-123-45
         name = "中文頁面"
         URL = "../zh"
         weight = 6
+
+# subtitles
+[languages.en.params.event]
+heading="event"
+heading2 ="menus"
 
         # footer
         [languages.en.params.footer]
@@ -140,10 +146,6 @@ expire_days = 2
 [params.logo]
 image = "images/favicon.png"
 
-# event
-[params.event]
-heading="活動 event"
-heading2 ="店內菜單 menus"
 
 # call to action
 [params.call_to_action]
