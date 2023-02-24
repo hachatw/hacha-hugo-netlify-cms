@@ -5,7 +5,7 @@ media_folder: static/img
 public_folder: /img
 collections:
     # EN editor exam 
-  - name: 'Event'
+  - name: 'event'
     label: 'Event'
     folder: 'content/en/event'
     create: true
@@ -17,6 +17,7 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
     #menus alcohol 
     - name: 'alcohol'
     label: 'alcohol'
@@ -30,6 +31,7 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
     # menus blended
     - name: 'blended'
     label: 'blended'
@@ -43,6 +45,7 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
     # menus coffee 
     - name: 'coffee'
     label: 'coffee'
@@ -56,6 +59,7 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
     # menus dessert 
     - name: 'dessert'
     label: 'dessert'
@@ -69,6 +73,7 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
     # menus food-menu 
     - name: 'food-menu'
     label: 'food-menu'
@@ -82,6 +87,7 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
     # menus pasta 
     - name: 'pasta'
     label: 'pasta'
@@ -95,6 +101,7 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
     # menus refreshment 
     - name: 'refreshment'
     label: 'refreshment'
@@ -108,6 +115,7 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
     # menus risotto 
     - name: 'risotto'
     label: 'risotto'
@@ -121,6 +129,7 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      
     # menus tea 
     - name: 'tea'
     label: 'tea'
