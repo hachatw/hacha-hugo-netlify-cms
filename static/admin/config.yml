@@ -19,7 +19,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
     #menus alcohol 
-    - label: 'alcohol'
+  - label: 'alcohol'
     name: 'alcohol'
     folder: 'content/en/menus/alcohol'
     create: true
@@ -33,7 +33,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
     # menus blended
-    - label: 'blended'
+  - label: 'blended'
     name: 'blended'
     folder: 'content/en/menus/blended'
     create: true
@@ -47,7 +47,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
     # menus coffee 
-    - label: 'coffee'
+  - label: 'coffee'
     name: 'coffee'
     folder: 'content/en/menus/coffee'
     create: true
@@ -61,7 +61,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
     # menus dessert 
-    - label: 'dessert'
+   - label: 'dessert'
     name: 'dessert'
     folder: 'content/en/menus/dessert'
     create: true
@@ -75,7 +75,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
     # menus food-menu 
-    - label: 'food-menu'
+   - label: 'food-menu'
     name: 'food-menu'
     folder: 'content/en/menus/food-menu'
     create: true
@@ -89,7 +89,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
     # menus pasta 
-    - label: 'pasta'
+   - label: 'pasta'
     name: 'pasta'
     folder: 'content/en/menus/pasta'
     create: true
@@ -103,7 +103,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
     # menus refreshment 
-    - label: 'refreshment'
+   - label: 'refreshment'
     name: 'refreshment'
     folder: 'content/en/menus/refreshment'
     create: true
@@ -117,7 +117,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
     # menus risotto 
-    - label: 'risotto'
+  - label: 'risotto'
     name: 'risotto'
     folder: 'content/en/menus/risotto'
     create: true
@@ -131,7 +131,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
       
     # menus tea 
-    - label: 'tea'
+   - label: 'tea'
     name: 'tea'
     folder: 'content/en/menus/tea'
     create: true
