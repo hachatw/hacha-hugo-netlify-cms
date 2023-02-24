@@ -16,6 +16,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Image', name: 'image', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: 'menus-zh'
@@ -30,6 +31,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Image', name: 'image', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
     # EN editor exam 
@@ -44,6 +46,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Image', name: 'image', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: 'menus-en'
@@ -58,4 +61,5 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Image', name: 'image', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
