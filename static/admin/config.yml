@@ -5,8 +5,8 @@ media_folder: static/img
 public_folder: /img
 collections:
     # EN editor exam 
-  - name: 'event'
-    label: 'Event'
+  - label: 'Event'
+    name: 'Event'
     folder: 'content/en/event'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
@@ -19,8 +19,8 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
     #menus alcohol 
-    - name: 'alcohol'
-    label: 'alcohol'
+    - label: 'alcohol'
+    name: 'alcohol'
     folder: 'content/en/menus/alcohol'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
@@ -33,8 +33,8 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
     # menus blended
-    - name: 'blended'
-    label: 'blended'
+    - label: 'blended'
+    name: 'blended'
     folder: 'content/en/menus/blended'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
@@ -47,8 +47,8 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
     # menus coffee 
-    - name: 'coffee'
-    label: 'coffee'
+    - label: 'coffee'
+    name: 'coffee'
     folder: 'content/en/menus/coffee'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
@@ -61,8 +61,8 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
     # menus dessert 
-    - name: 'dessert'
-    label: 'dessert'
+    - label: 'dessert'
+    name: 'dessert'
     folder: 'content/en/menus/dessert'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
@@ -75,8 +75,8 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
     # menus food-menu 
-    - name: 'food-menu'
-    label: 'food-menu'
+    - label: 'food-menu'
+    name: 'food-menu'
     folder: 'content/en/menus/food-menu'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
@@ -89,8 +89,8 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
     # menus pasta 
-    - name: 'pasta'
-    label: 'pasta'
+    - label: 'pasta'
+    name: 'pasta'
     folder: 'content/en/menus/pasta'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
@@ -103,8 +103,8 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
     # menus refreshment 
-    - name: 'refreshment'
-    label: 'refreshment'
+    - label: 'refreshment'
+    name: 'refreshment'
     folder: 'content/en/menus/refreshment'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
@@ -117,8 +117,8 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
     # menus risotto 
-    - name: 'risotto'
-    label: 'risotto'
+    - label: 'risotto'
+    name: 'risotto'
     folder: 'content/en/menus/risotto'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
@@ -131,8 +131,8 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
       
     # menus tea 
-    - name: 'tea'
-    label: 'tea'
+    - label: 'tea'
+    name: 'tea'
     folder: 'content/en/menus/tea'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
