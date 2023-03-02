@@ -13,7 +13,7 @@ disableLanguages = [] # desable language from here
 # google analytics
 googleAnalytics = "" # example : UA-123-45
 
-baseURL = "https://63fb671a83ec7f0008ab1c15--brilliant-syrniki-297892.netlify.app/" 
+baseURL = "/" 
 
 
 [languages]
