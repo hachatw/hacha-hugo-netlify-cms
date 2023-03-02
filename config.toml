@@ -13,10 +13,12 @@ disableLanguages = [] # desable language from here
 # google analytics
 googleAnalytics = "" # example : UA-123-45
 
+baseURL = "https://hacha.tw/" 
+
+
 [languages]
 ############################## ZH config ###############################
     [languages.zh]
-        baseURL = "https://hacha.tw/zh" 
         languageName = '中文'
         title='黑客茶舖'
         contentDir = "content/zh"
@@ -64,7 +66,6 @@ heading2 ="店內菜單"
 ############################## English config ###############################
 
     [languages.en]
-        baseURL = "https://hacha.tw/en" 
         languageName = 'English'
         title="hacker's casa de cha"
         contentDir = "content/en"
