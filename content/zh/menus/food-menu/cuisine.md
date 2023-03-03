@@ -52,7 +52,11 @@ image: images/estern-meal.jpg
 * 回鍋肉 NT 320 
 * 台式滷肉  NT360
 * 椒鹽里脊  NT360
+* 椒鹽排骨  NT480
 * 糖醋肉  NT360
+* 糖醋排骨  NT480
+
+
 
 ### 牛肉
 
