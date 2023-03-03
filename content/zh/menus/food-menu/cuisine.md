@@ -4,8 +4,6 @@ date: 2023-02-24T22:33:08.148Z
 description: 黑客茶舖主廚私房菜
 image: images/estern-meal.jpg
 ---
-
-
 ### 海鮮類seafood
 
 ### 海鮮類
@@ -21,6 +19,8 @@ image: images/estern-meal.jpg
 * 糖醋魚 NT360
 * 豆瓣魚  NT360
 * 清蒸鱈魚 NT 360
+* 蔥燒鱈魚 NT 390
+* 豆酥鱈魚 NT 460
 * 炒三鮮  NT 320 
 * 咖哩粉絲蝦  NT 460 (預定)
 * 鹹酥蝦  NT 360
