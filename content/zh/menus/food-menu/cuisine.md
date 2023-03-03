@@ -21,7 +21,7 @@ image: images/estern-meal.jpg
 * 清蒸鱈魚 NT 360
 * 蔥燒鱈魚 NT 390
 * 豆酥鱈魚 NT 460
-* 炒三鮮  NT 320 
+* 炒三鮮  NT 360
 * 咖哩粉絲蝦  NT 460 (預定)
 * 鹹酥蝦  NT 380
 * 蛤蜊薑絲湯  NT 220
