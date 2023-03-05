@@ -1,9 +1,11 @@
 ---
-title: "2023 黑客微醺品酒會"
+title: 2023 黑客微醺酒會
 date: 2023-01-30T20:03:59+08:00
-author: ["黑客茶舖"]
-image: "images/wine-party.png"
+author:
+  - 黑客茶舖
+image: images/wine-party.png
 draft: false
+description: "選擇5-6種不同的酒，包括紅酒和白酒等，並配有專業的酒評家進行解說。  活動流程: 酒評家先介紹每種酒，然後大家一起品酒並交流意見。"
 ---
 
 主題: 葡萄酒品酒會
