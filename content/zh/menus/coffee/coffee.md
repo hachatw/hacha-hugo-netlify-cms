@@ -4,7 +4,7 @@ tage:
   - coffee
 author:
   - Andy
-title: 咖啡
+title: 咖啡 / 手沖
 date: 2022-02-12T15:40:24+06:00
 weight: 6
 description: This is  coffee menu
