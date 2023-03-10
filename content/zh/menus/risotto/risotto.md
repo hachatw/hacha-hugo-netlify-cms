@@ -23,9 +23,7 @@ description: This is aeicafe risotto menu
 * 焗烤茄汁海鮮燉飯   NT380
 * 焗烤咖哩牛肉菘菇燉飯   NT320 
 * 焗烤咖哩豬肉菘菇燉飯   NT320 
-*  焗烤咖哩海鮮燉飯   NT380 
-
-
+* 焗烤咖哩海鮮燉飯   NT380 
 
 ## 蛋奶素
 
@@ -33,6 +31,4 @@ description: This is aeicafe risotto menu
 * 焗烤茄汁田園菘菇燉飯   NT320 
 * 焗烤咖哩田園菘菇燉飯   NT320
 
-
-
-#### 附湯 / 紅茶 / 美式咖啡 3選1
+\    附餐  湯 / 咖啡 / 紅茶（ 3選1 ）
