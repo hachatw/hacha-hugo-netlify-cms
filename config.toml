@@ -34,6 +34,12 @@ baseURL = "/"
         URL = "menus"
         weight = 2
 
+
+        [[languages.zh.menu.main]]
+        name = "活動"
+        URL = "event"
+        weight = 3
+
         [[languages.zh.menu.main]]
         name = "交通資訊"
         URL = "traffic"
@@ -80,6 +86,12 @@ heading2 ="店內菜單"
         name = "menus"
         URL = "menus"
         weight = 2
+
+
+        [[languages.en.menu.main]]
+        name = "event"
+        URL = "event"
+        weight = 3
 
         [[languages.en.menu.main]]
         name = "Traffic info"
