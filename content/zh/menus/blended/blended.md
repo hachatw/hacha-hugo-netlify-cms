@@ -1,7 +1,7 @@
 ---
-title: 冰沙/聖代/果汁
+title: 聖代/果汁
 date: 2022-02-12T18:46:00+08:00
-description: 冰沙/聖代/果汁
+description: 聖代/果汁
 image: images/blended-drink.jpg
 draft: false
 ---
