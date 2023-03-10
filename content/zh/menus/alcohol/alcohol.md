@@ -1,7 +1,7 @@
 ---
-title: 酒精飲料
+title: 啤酒 / 調酒
 date: 2022-02-12T18:42:26+08:00
-description: 酒精飲料
+description: 啤酒 / 調酒
 image: images/alcohol.jpg
 draft: false
 ---
