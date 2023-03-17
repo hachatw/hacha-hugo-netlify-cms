@@ -46,7 +46,7 @@ baseURL = "/"
         weight = 4
 
         [[languages.zh.menu.main]]
-        name = "聯絡資訊"
+        name = "QRcode 分享"
         URL = "contact"
         weight = 5
         
@@ -99,7 +99,7 @@ heading2 ="店內菜單"
         weight = 4
 
         [[languages.en.menu.main]]
-        name = "Contact"
+        name = "QR code"
         URL = "contact"
         weight = 5
 
