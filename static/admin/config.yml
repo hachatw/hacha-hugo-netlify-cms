@@ -1,24 +1,11 @@
 backend:
   name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  repo: hachatw/hacha-hugo-netlify-cms
+  branch: dev # Branch to update (optional; defaults to master)
 media_folder: static/img
 public_folder: /img
 collections:
     # zh editor exam 
-  - name: 'event-zh'
-    label: '活動'
-    folder: 'content/zh/event'
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    editor:
-      preview: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Image', name: 'image', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-
   - name: 'menus-zh'
     label: '菜單'
     folder: 'content/zh/menus/'
@@ -26,7 +13,7 @@ collections:
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
-      preview: true
+      preview: false
     fields: 
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
@@ -34,20 +21,21 @@ collections:
       - { label: 'Image', name: 'image', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
-    # EN editor exam 
-  - name: 'event-en'
-    label: 'Event'
-    folder: 'content/en/event'
+  - name: 'event-zh'
+    label: '活動'
+    folder: 'content/zh/event'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
-      preview: true
+      preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Image', name: 'image', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
+    # EN editor exam 
 
   - name: 'menus-en'
     label: 'Menus'
@@ -56,10 +44,25 @@ collections:
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
-      preview: true
+      preview: false
     fields: 
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Image', name: 'image', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'event-en'
+    label: 'Event'
+    folder: 'content/en/event'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Image', name: 'image', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      
