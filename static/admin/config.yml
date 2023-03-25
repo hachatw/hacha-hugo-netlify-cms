@@ -8,18 +8,23 @@ collections:
     # zh editor exam 
   - name: 'menus-zh'
     label: '菜單'
-    folder: 'content/zh/menus/'
-    path: '{{slug}}/index'
+    folder: 'content/zh/'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
-      preview: false
+     preview: false   
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    nested:
+      depth: 100 # max depth to show in the collection tree
+      summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
     fields: 
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Image', name: 'image', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+    # adding a meta object with a path property allows editing the path of entries
+    # moving an existing entry will move the entire sub tree of the entry to the new location
+    meta: { path: { widget: string, label: '菜單', index_file: 'index' } }
 
   - name: 'event-zh'
     label: '活動'
