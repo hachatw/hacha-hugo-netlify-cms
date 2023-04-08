@@ -2,8 +2,8 @@ backend:
   name: git-gateway
   repo: hachatw/hacha-hugo-netlify-cms
   branch: dev # Branch to update (optional; defaults to master)
-media_folder: static/img
-public_folder: /img
+media_folder: static/images
+public_folder: /images
 collections:
     # zh editor exam 
   - name: 'menus-zh'
@@ -20,7 +20,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Image', name: 'image', widget: 'string' }
+      - { label: 'Image', name: 'image', widget: 'image',required: 'false' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
     # adding a meta object with a path property allows editing the path of entries
     # moving an existing entry will move the entire sub tree of the entry to the new location
@@ -37,7 +37,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Image', name: 'image', widget: 'string' }
+      - { label: 'Image', name: 'image', widget: 'image',required: 'false' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
     # EN editor exam 
@@ -54,7 +54,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Image', name: 'image', widget: 'string' }
+      - { label: 'Image', name: 'image', widget: 'image',required: 'false' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: 'event-en'
@@ -68,6 +68,6 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Image', name: 'image', widget: 'string' }
+      - { label: 'Image', name: 'image', widget: 'image',required: 'false' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       
