@@ -6,7 +6,7 @@ media_folder: static/images
 public_folder: /images
 collections:
     # zh editor exam 
-  - name: 'menus-zh'
+  - name: 'zh-menus'
     label: '菜單'
     folder: 'content/zh/'
     create: true
@@ -20,11 +20,10 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Image', name: 'image', widget: 'image',required: 'false' }
+      - { label: 'Image', name: 'image', widget: 'image',required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
     # adding a meta object with a path property allows editing the path of entries
     # moving an existing entry will move the entire sub tree of the entry to the new location
-    meta: { path: { widget: string, label: '菜單', index_file: 'index' } }
 
   - name: 'event-zh'
     label: '活動'
@@ -37,7 +36,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Image', name: 'image', widget: 'image',required: 'false' }
+      - { label: 'Image', name: 'image', widget: 'image',required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
     # EN editor exam 
@@ -54,7 +53,7 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Image', name: 'image', widget: 'image',required: 'false' }
+      - { label: 'Image', name: 'image', widget: 'image',required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: 'event-en'
@@ -68,6 +67,6 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Image', name: 'image', widget: 'image',required: 'false' }
+      - { label: 'Image', name: 'image', widget: 'image',required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
       
