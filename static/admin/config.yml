@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: test-repo
   repo: hachatw/hacha-hugo-netlify-cms
   branch: dev # Branch to update (optional; defaults to master)
 media_folder: static/images
@@ -12,8 +12,6 @@ collections:
     create: true
     editor:
      preview: false   
-    slug: '{{slug}}'
-    path: '{{slug}}/index'
     nested:
       depth: 10 # max depth to show in the collection tree
       summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
@@ -23,13 +21,13 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Image', name: 'image', widget: 'image',required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-    meta: { path: { widget: string, label: 'Path', index_file: '{{dirname}}/index.md' } }
+    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
     # adding a meta object with a path property allows editing the path of entries
     # moving an existing entry will move the entire sub tree of the entry to the new location
 
 
   - name: 'event-zh'
-    label: '活動'
+    label: '活動 '
     folder: 'content/zh/event'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
