@@ -6,7 +6,7 @@ draft: false
 weight: 7
 description: 台灣茶 / 奶茶
 ---
-## 公主奶茶
+## 公主奶茶（熱）
 
 * 台東鹿野阿薩姆鮮奶茶 NT180
 * 日月潭頂級紅玉 no.18 鮮奶茶 NT180
