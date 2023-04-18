@@ -44,7 +44,7 @@ description: This is Refreshment
 * C 
 
   宮保雞丁     \
-  蔥爆牛柳    \
+  京醬肉絲     \
   時鮮蔬菜    \
   手工甜點 *2               NT 999\
   \
