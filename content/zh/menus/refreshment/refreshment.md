@@ -36,7 +36,7 @@ description: This is Refreshment
 * B  \
      \
   干絲牛柳\
-  塔香茄子      \
+  培根高麗菜      \
   時鮮蔬菜    \
   手工甜點 *1               NT 899\
   \
