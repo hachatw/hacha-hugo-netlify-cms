@@ -34,8 +34,8 @@ description: This is Refreshment
   附餐  湯 / 咖啡 / 紅茶（ 3選2 ）
 * B  \
      \
-  糖醋肉\
-  蔥花蛋      \
+  干絲牛柳\
+  塔香茄子      \
   時鮮蔬菜    \
   手工甜點 *1               NT 899\
   \
