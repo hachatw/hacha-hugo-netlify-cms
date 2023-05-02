@@ -13,6 +13,7 @@ collections:
     editor:
      preview: false   
     path: '{{category}}/index'
+    slug: '{{slug}}'
     nested:
       depth: 10 # max depth to show in the collection tree
       summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
@@ -20,12 +21,31 @@ collections:
       - { label: '標題', name: 'title', widget: 'string' }
       - { label: '發布日期', name: 'date', widget: 'datetime' }
       - { label: '種類', name: 'category', widget: 'string' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Image', name: 'image', widget: 'image',required: false }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: '描述', name: 'description', widget: 'string' }
+      - { label: '照片', name: 'image', widget: 'image',required: false }
+      - { label: '文字', name: 'body', widget: 'markdown' }
     # adding a meta object with a path property allows editing the path of entries
     # moving an existing entry will move the entire sub tree of the entry to the new location
-
+  - name: 'zh-menus-items'
+    label: '品項'
+    folder: 'content/zh/menus/items'
+    create: true
+    editor:
+     preview: false   
+    path: '{{category}}'
+    slug: '{{slug}}.md'
+    nested:
+      depth: 10 # max depth to show in the collection tree
+      summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
+    fields: 
+      - { label: '標題', name: 'title', widget: 'string' }
+      - { label: '發布日期', name: 'date', widget: 'datetime' }
+      - { label: '種類', name: 'category', widget: 'string' }
+      - { label: '描述', name: 'description', widget: 'string' }
+      - { label: '照片', name: 'image', widget: 'image',required: false }
+      - { label: '文字', name: 'body', widget: 'markdown' }
+    # adding a meta object with a path property allows editing the path of entries
+    # moving an existing entry will move the entire sub tree of the entry to the new location
 
   - name: 'event-zh'
     label: '活動 '
@@ -35,11 +55,12 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Image', name: 'image', widget: 'image',required: false }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: '標題', name: 'title', widget: 'string' }
+      - { label: '發布日期', name: 'date', widget: 'datetime' }
+      - { label: '種類', name: 'category', widget: 'string' }
+      - { label: '描述', name: 'description', widget: 'string' }
+      - { label: '照片', name: 'image', widget: 'image',required: false }
+      - { label: '文字', name: 'body', widget: 'markdown' }
 
     # EN editor exam 
 
