@@ -16,6 +16,7 @@ description: This is Refreshment
 * 麻婆豆腐飯  NT 280
 * 蛋炒牛蕃茄飯  NT 280
 * 油蔥水晶雞飯  NT 280
+* 芹菜肉絲飯   NT280
 * 宮保雞丁飯  NT 320
 * 辣味卡拉雞腿排飯   NT 280
 * 酥炸魚排飯佐塔塔醬   NT 280
@@ -32,10 +33,10 @@ description: This is Refreshment
   手工甜點*1                NT 799\
   \
   附餐  湯 / 咖啡 / 紅茶（ 3選2 ）
-* B  
-
-  滑蛋蝦仁    \
-  麻婆豆腐    \
+* B  \
+     \
+  干絲牛柳\
+  培根高麗菜      \
   時鮮蔬菜    \
   手工甜點 *1               NT 899\
   \
@@ -43,7 +44,7 @@ description: This is Refreshment
 * C 
 
   宮保雞丁     \
-  蔥爆牛柳    \
+  京醬肉絲     \
   時鮮蔬菜    \
   手工甜點 *2               NT 999\
   \

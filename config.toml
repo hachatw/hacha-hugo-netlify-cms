@@ -163,11 +163,11 @@ image = "images/favicon.png"
 # call to action
 [params.call_to_action]
 enable = true
-title = "黑客茶舖臉書社團"
+title = "蛋糕預定"
 picture = "images/traffic.png"
-content = "更多黑客茶舖相關活動，優惠，技術文章與討論，加入黑客茶舖臉書社團，獲得更多。"
-button_label = "點此加入"
-button_url = "https://www.facebook.com/groups/828300348362972"
+content = "送上一份甜蜜的禮物，讓您的最重要的人感受到愛和感激。我們為您準備了三款精美的蛋糕，口感綿密，香甜可口。每一口都是最真摯的祝福。現在下單，讓我們一起為您最重要的人送上最好的祝福！"
+button_label = "馬上下單"
+button_url = "https://junyi269333.typeform.com/to/ZHcRFfe9"
 
 # gallery
 [params.gallery]
