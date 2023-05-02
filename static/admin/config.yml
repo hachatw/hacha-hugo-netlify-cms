@@ -32,7 +32,7 @@ collections:
     create: true
     editor:
      preview: false   
-    path: '{{category}}/'
+    path: '{{category}}/{{slug}}'
     slug: '{{slug}}.md'
     nested:
       depth: 10 # max depth to show in the collection tree
