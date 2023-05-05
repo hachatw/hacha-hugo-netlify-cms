@@ -1,6 +1,7 @@
 ---
-title: "## Eating with the chefs"
+title: Eating with the chefs
 date: 2023-05-05T05:10:42.896Z
+description: Eating with the chefs
 ---
 
 ---
