@@ -71,7 +71,7 @@ description: Eating with the chefs
 * loofah with soybean milk film NT 280
 * bitter gourd & salted egg  NT 280
 * spicy (ma-po) tofu  NT 260
-* tofu with home style  NT 320
+* Stewed tofu with Taiwanese  home style  NT 320
 * tomato fry with tofu  NT280
 * egg cake with dried radish  NT 220
 * egg cake with green chives  NT220
