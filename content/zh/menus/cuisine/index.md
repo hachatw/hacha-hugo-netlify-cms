@@ -39,8 +39,6 @@ image: images/estern-meal.jpg
 * 玉米雞柳  NT 280
 * 青椒蘑菇炒雞柳 NT 320
 
-
-
 ### 豬肉
 
 * 螞蟻上樹 NT280
@@ -53,7 +51,8 @@ image: images/estern-meal.jpg
 * 黃瓜肉絲  NT280
 * 芹菜肉絲  NT280
 * 木須肉  NT320
-* 酸菜四季豆肉絲 NT320
+* 酸菜四季豆肉絲  NT320
+* 乾煸四季豆  NT320
 * 魚香肉絲  NT280 
 * 魚香茄子  NT280
 * 魚香烘蛋  NT280
