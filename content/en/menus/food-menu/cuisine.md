@@ -56,8 +56,8 @@ description: Eating with the chefs
 * egg cake with Szechuan style  NT280
 * spicy sliced meat & cabbage  NT 320 *
 * braised pork in Taiwanese style   NT360
-* peppered spareribs  NT360
-* sweet & sour sauce with spareribs   NT360
+* peppered spareribs  NT480
+* sweet & sour sauce with spareribs   NT480
 
 ### beef
 
@@ -69,7 +69,6 @@ description: Eating with the chefs
 
 ### tofu / vegetables（Vegetarian）
 
-* oldham bamboo shootoldham bamboo shoot
 * loofah with noodles  NT 280
 * loofah with soybean milk film NT 280
 * bitter gourd & salted egg  NT 280
