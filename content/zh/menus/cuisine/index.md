@@ -20,6 +20,7 @@ image: images/estern-meal.jpg
 * 糖醋魚 NT360
 * 豆瓣魚  NT360
 * 豉汁蒸皮刀魚   NT320（季節限定）
+* 鼓汁蒸小卷   NT320（季節限定）
 * 清蒸鱈魚 NT 360
 * 蔥燒鱈魚 NT 390
 * 豆酥鱈魚 NT 460
@@ -29,8 +30,6 @@ image: images/estern-meal.jpg
 * 蛤蜊薑絲湯  NT 220
 * 海鮮湯飯  NT 320
 * 海鮮炒麵  NT 320
-
-
 
 ### 雞肉
 
