@@ -49,7 +49,7 @@ description: Eating with the chefs
 * pork strips & tree Mushrooms & egg  NT320
 * Sauted french beans & pickled cabbage  NT320
 * pork strips & szechuan style  NT280 \* \*
-* eggplant ground pork with Szechuan style  NT280
+* eggplant Stir-fried minced pork  with Szechuan style   NT280
 * egg cake with Szechuan style  NT280
 * spicy sliced meat & cabbage  NT 320 *
 * braised pork in Taiwanese style   NT360
