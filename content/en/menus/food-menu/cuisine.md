@@ -12,9 +12,8 @@ description: Eating with the chefs
 * fried shrimp with vegetables   NT320
 * kong-pqo shrimp    NT320
 * deep fried shrimp with pineapple sala   NT460 (Reservations) 
-* Neritic Squid with fermented bean & soy sauce  NT 320
-* stir-fried oyster with fermented bean & tofu  NT 320
-* deep fried oyster    NT320
+* stir-fried oyster with fermented bean & tofu  NT 360 (Reservations) 
+* deep fried oyster    NT 360 (Reservations) 
 * stew in soy sauce with Taiwan tilapia   NT360
 * sweet & sour sauce with Taiwan tilapia   NT360
 * spicy yellow bean sauce with Taiwan tilapia    NT360
