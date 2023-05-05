@@ -28,6 +28,9 @@ image: images/estern-meal.jpg
 * 蛤蜊薑絲湯  NT 220
 * 海鮮湯飯  NT 320
 * 海鮮炒麵  NT 320
+* 經典台式「鹹蜆仔」 NT 150
+
+
 
 ### 雞肉
 
@@ -98,8 +101,6 @@ image: images/estern-meal.jpg
 * 水蓮 NT 120
 * 綜合青菜 NT 120
 * 涼拌小菜  NT 90
-
-
 * 白飯 NT 15
 * 奶汁濃湯 NT 30
 * 紅茶  NT 50
