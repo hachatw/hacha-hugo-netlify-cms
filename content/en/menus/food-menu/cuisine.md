@@ -3,18 +3,16 @@ title: Eating with the chefs
 date: 2023-05-05T05:10:42.896Z
 description: Eating with the chefs
 ---
-## Eating with the chefs
-
 ### seafood
 
 * clam with loofah  NT 280
 * scrambled eggs fry with shrimp NT 320
 * shrimp & tofu  NT 320
-* fried shrimp with cashew   NT380
+* fried shrimp with cashew   NT460
 * fried shrimp with vegetables   NT320
 * kong-pqo shrimp    NT320
-* deep fried shrimp with pineapple sala   NT460 (Reservations)
-* steamed Neritic Squid Neritic Squid with fermented bean & soy sauce  NT 320
+* deep fried shrimp with pineapple sala   NT460 (Reservations) 
+* Neritic Squid with fermented bean & soy sauce  NT 320
 * stir-fried oyster with fermented bean & tofu  NT 320
 * deep fried oyster    NT320
 * stew in soy sauce with Taiwan tilapia   NT360
