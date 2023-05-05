@@ -47,6 +47,7 @@ image: images/estern-meal.jpg
 * 瓜仔蒸肉餅 NT 320
 * 客家小炒 NT280 
 * 干絲豬柳 NT 320
+* 沙茶豬肉 NT 320 
 * 培根高麗菜  NT 260
 * 京醬肉絲 NT280
 * 黃瓜肉絲  NT280
