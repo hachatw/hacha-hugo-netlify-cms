@@ -83,6 +83,7 @@ image: images/estern-meal.jpg
 * 蛋炒牛番茄  NT 280
 * 塔香茄子 NT 260
 * 醬爆雙茄   NT280
+* 糖醋杏鮑菇  NT 320 
 * 宮保杏鮑菇  NT 320 
 * 宮保高麗菜  NT 260
 * 清炒苦瓜  NT 260
