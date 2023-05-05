@@ -28,6 +28,9 @@ image: images/estern-meal.jpg
 * 鹹酥蝦  NT 380
 * 蛤蜊薑絲湯  NT 220
 * 海鮮湯飯  NT 320
+* 海鮮炒麵  NT 320
+
+
 
 ### 雞肉
 
