@@ -101,7 +101,7 @@ image: images/estern-meal.jpg
 
 
 * 白飯 NT 15
-* 例湯 NT 30
+* 奶汁濃湯 NT 30
 * 紅茶  NT 50
 * 美式咖啡 NT 50
 * 可樂 NT 50
