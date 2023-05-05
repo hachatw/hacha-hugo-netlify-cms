@@ -20,7 +20,7 @@ description: Eating with the chefs
 * Steamed Moon-fish with Black Bean Sauce    NT 320（seasonal）
 * Steamed Neritic Squid with Black Bean Sauce    NT 320（seasonal）
 * steamed Cod Fish NT 360
-* Cod Fish NT 390
+* stew in soy sauce with Cod Fish  NT 390
 * steamed codfish with savory crisbean NT 460
 * fried 3 seafood   NT 320 
 * braised prawn & Chinese vermicelli with curry sauce  NT 460 (Reservations)
