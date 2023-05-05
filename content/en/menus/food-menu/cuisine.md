@@ -27,6 +27,10 @@ description: Eating with the chefs
 * Salty & spiced crispy shrimp    NT 380
 * soup with clam & ginger   NT 220
 * soup with Oyster &  Seaweed    NT 320 (Reservations) 
+* seafood porridge    NT 320 
+* seafood    NT 320 
+
+
 
 ### poultry
 
