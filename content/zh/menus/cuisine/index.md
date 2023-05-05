@@ -97,6 +97,9 @@ image: images/estern-meal.jpg
 * 菠菜 NT 120
 * 水蓮 NT 120
 * 綜合青菜 NT 120
+* 涼拌小菜  NT 90
+
+
 * 白飯 NT 15
 * 例湯 NT 30
 * 紅茶  NT 50
