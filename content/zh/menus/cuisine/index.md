@@ -1,6 +1,7 @@
 ---
 title: 私房菜
 date: 2023-02-24T22:33:08.148Z
+category: 私房菜
 description: 黑客茶舖主廚私房菜
 image: images/estern-meal.jpg
 ---
@@ -11,7 +12,7 @@ image: images/estern-meal.jpg
 * 蛤蜊絲瓜 NT 280
 * 滑蛋蝦仁 NT 320
 * 蝦仁豆腐 NT 320
-* 腰果蝦仁 NT380
+* 腰果蝦仁 NT460
 * 清炒蝦仁 NT320
 * 宮保蝦仁 NT320
 * 果律蝦球 NT460 (預定)
