@@ -20,6 +20,7 @@ description: Eating with the chefs
 * stew in soy sauce with Taiwan tilapia   NT360
 * sweet & sour sauce with Taiwan tilapia   NT360
 * spicy yellow bean sauce with Taiwan tilapia    NT360
+* Steamed Neritic Squid with Black Bean Sauce    NT 320
 * steamed Cod Fish NT 360
 * steamed codfish with savory crisbean NT 380
 * fried 3 seafood   NT 320 
