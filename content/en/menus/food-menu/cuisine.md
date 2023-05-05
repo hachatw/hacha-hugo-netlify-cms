@@ -105,16 +105,15 @@ description: "This is aeicafe cuisine menu"
 
 ### vegetables
 
-vwater celery NT 120
-
+* water celery NT 120
 * cabbage NT 120
 * Hydroponics  lettuce NT 120
 * spinach NT 120
-* 山茼蒿    NT 120
+* Garland Chrysanthemum   NT 120
 * white water snowflake  NT 120
-* 綜合青菜  NT 120
-* 白飯 NT 15
-* 例湯 NT 30
-* 紅茶  NT 50
-* 美式咖啡 NT 50
-* 可樂 NT 50
+* Comprehensive  vegetables  NT 120
+* rice NT 15
+* Soup  NT 30
+* Black tea  NT 50
+* Black Coffee  NT 50
+* Coke NT 50
