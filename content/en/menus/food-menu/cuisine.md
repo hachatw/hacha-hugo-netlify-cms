@@ -29,7 +29,7 @@ description: Eating with the chefs
 * soup with Oyster &  Seaweed    NT 320 (Reservations) 
 * seafood porridge    NT 320 
 * Seafood fried noodles    NT 320 
-* 
+* Salty small clam   NT 150 
 
 ### poultry
 
