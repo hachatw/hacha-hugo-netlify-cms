@@ -33,7 +33,7 @@ description: "This is aeicafe cuisine menu"
 * fried shrimp with cashew   NT380
 * fried shrimp with vegetables   NT320
 * kong-pqo shrimp    NT320
-* deep fried shrimp with pineapple sala   NT460 (預定)
+* deep fried shrimp with pineapple sala   NT460 (Reservations)
 * steamed Neritic Squid Neritic Squid with fermented bean & soy sauce  NT 320
 * stir-fried oyster with fermented bean & tofu  NT 320
 * deep fried oyster    NT320
@@ -43,7 +43,7 @@ description: "This is aeicafe cuisine menu"
 * steamed Cod Fish NT 360
 * steamed codfish with savory crisbean NT 380
 * fried 3 seafood   NT 320 
-* braised prawn & Chinese vermicelli with curry sauce  NT 460 (預定)
+* braised prawn & Chinese vermicelli with curry sauce  NT 460 (Reservations)
 * spiced salt fried shrimp    NT 360
 * soup with clam & ginger   NT 220
 * soup with Oyster &  Seaweed    NT 260
