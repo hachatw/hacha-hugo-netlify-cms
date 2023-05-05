@@ -85,7 +85,7 @@ image: images/estern-meal.jpg
 * 醬爆雙茄   NT280
 * 宮保杏鮑菇  NT 320 
 * 宮保高麗菜  NT 260
-* 清炒豆苗  NT 220
+* 清炒苦瓜  NT 260
 * 蕃茄時蔬豆腐湯  NT260
 * 台式炒米粉   NT 280
 
