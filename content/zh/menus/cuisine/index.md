@@ -30,8 +30,6 @@ image: images/estern-meal.jpg
 * 海鮮炒麵  NT 320
 * 經典台式「鹹蜆仔」 NT 150
 
-
-
 ### 雞肉
 
 * 宮保雞丁  NT 320 
@@ -39,6 +37,9 @@ image: images/estern-meal.jpg
 * 油蔥水晶雞 NT 280
 * 糖醋雞丁 NT 320
 * 玉米雞柳  NT 280
+* 青椒蘑菇炒雞柳 NT 320
+
+
 
 ### 豬肉
 
