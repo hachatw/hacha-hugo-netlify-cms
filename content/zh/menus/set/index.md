@@ -44,7 +44,7 @@ description: This is Refreshment
   附餐  湯 / 咖啡 / 紅茶（ 3選2 ）
 * C 
 
-  宮保雞丁     \
+  蝦仁豆腐     \
   京醬肉絲     \
   時鮮蔬菜    \
   手工甜點 *2               NT 999\
