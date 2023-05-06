@@ -33,10 +33,10 @@ categories:
 * Espresso Romano NT 160
 * Orange Espresso Romano  NT 180
 
-### Pour over coffee 
+### Pour over coffee
 
 * Guatemala Antigua「La Flor del Café」Washed / Medium baking NT 150
-* 衣索比亞 日曬 / 淺焙 希達馬 甜心桃可可  NT 150
+* Ethiopia Sidama G1 Natural 「Twakok 」 NT 150
   Sidama Twakok G1 
   水蜜桃/藍莓/芒果/百香果
 * 衣索比亞 水洗 / 淺焙 希達馬 甜心桃可可  NT 150
