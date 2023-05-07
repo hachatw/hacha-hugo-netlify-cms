@@ -16,7 +16,7 @@ description: Eating with the chefs
 * deep fried oyster    NT 360 (Reservations) 
 * scrambled eggs fry with  oyster  
 
-    NT 360 (Reservations) 
+    NT 320 (Reservations) 
 * stew in soy sauce with Taiwan tilapia   NT360
 * sweet & sour sauce with Taiwan tilapia   NT360
 * spicy yellow bean sauce with Taiwan tilapia    NT360
