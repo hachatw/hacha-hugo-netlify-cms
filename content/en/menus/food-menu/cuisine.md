@@ -24,6 +24,8 @@ description: Eating with the chefs
 * steamed codfish with savory crisbean NT 460
 * fried 3 seafood   NT 360
 * braised prawn & Chinese vermicelli with curry sauce  NT 460 (Reservations)
+*
+*
 * Salty & spiced crispy shrimp    NT 380
 * soup with clam & ginger   NT 220
 * soup with Oyster &  Seaweed    NT 320 (Reservations) 
