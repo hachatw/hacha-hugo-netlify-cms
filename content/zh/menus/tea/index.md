@@ -4,6 +4,7 @@ date: 2023-01-03T18:41:34+08:00
 image: images/tea.jpg
 draft: false
 weight: 7
+category: 台灣茶 / 奶茶
 description: 台灣茶 / 奶茶
 ---
 ## 公主熱奶茶
@@ -21,7 +22,6 @@ description: 台灣茶 / 奶茶
 
 ## 特選冰奶茶
 
-* 台東鹿野阿薩姆鮮奶茶 NT150
 * 木柵鐵觀音鮮奶茶 NT150
 * 香草鮮奶茶 NT150
 * 焦糖鮮奶茶 NT150

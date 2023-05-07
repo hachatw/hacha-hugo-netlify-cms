@@ -1,11 +1,12 @@
 ---
 draft: false
 title: 套餐
-date: 2022-02-12T15:40:24+06:00
+date: 2023-05-06T05:44:49.858Z
 weight: 4
 tags:
   - meal
   - Refreshment
+category: 套餐
 image: images/refreshment-6.jpg
 categories:
   - 點心
@@ -27,7 +28,7 @@ description: This is Refreshment
   ## 2人套餐
 * A   
 
-  油蔥水晶雞    \
+  玉米雞柳   \
   菜脯蛋    \
   時鮮蔬菜    \
   手工甜點*1                NT 799\
@@ -35,7 +36,7 @@ description: This is Refreshment
   附餐  湯 / 咖啡 / 紅茶（ 3選2 ）
 * B  \
      \
-  干絲牛柳\
+  宮保雞丁\
   培根高麗菜      \
   時鮮蔬菜    \
   手工甜點 *1               NT 899\
@@ -43,7 +44,7 @@ description: This is Refreshment
   附餐  湯 / 咖啡 / 紅茶（ 3選2 ）
 * C 
 
-  宮保雞丁     \
+  蝦仁豆腐     \
   京醬肉絲     \
   時鮮蔬菜    \
   手工甜點 *2               NT 999\

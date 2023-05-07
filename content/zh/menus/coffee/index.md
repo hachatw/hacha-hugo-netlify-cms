@@ -7,6 +7,7 @@ author:
 title: 咖啡 / 手沖
 date: 2022-02-12T15:40:24+06:00
 weight: 6
+category: 咖啡
 description: This is  coffee menu
 image: images/coffee.jpg
 categories:
@@ -29,6 +30,10 @@ categories:
 * 漂浮冰黑咖啡  NT160
 * 黑糖拿鐵  NT 140
 * 威士忌拿鐵  NT180
+* 西西里咖啡 NT160
+* 橙香西西里咖啡 NT180
+
+
 
 ### 手沖黑咖啡（熱）
 
@@ -84,10 +89,6 @@ categories:
 * 坦尚尼亞 AAA 吉利馬札羅     NT 120
 * 瓜地馬拉 安提瓜 花神   NT 120
 * 衣索比亞 90+耶加雪菲 杜莓索   NT 150
-
-
-
-
 
 ### 咖啡冰沙
 
