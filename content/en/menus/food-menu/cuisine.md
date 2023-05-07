@@ -14,6 +14,9 @@ description: Eating with the chefs
 * deep fried shrimp with pineapple sala   NT460 (Reservations) 
 * stir-fried oyster with fermented bean & tofu  NT 360 (Reservations) 
 * deep fried oyster    NT 360 (Reservations) 
+* scrambled eggs fry with  oyster  
+
+    NT 360 (Reservations) 
 * stew in soy sauce with Taiwan tilapia   NT360
 * sweet & sour sauce with Taiwan tilapia   NT360
 * spicy yellow bean sauce with Taiwan tilapia    NT360
@@ -24,8 +27,6 @@ description: Eating with the chefs
 * steamed codfish with savory crisbean NT 460
 * fried 3 seafood   NT 360
 * braised prawn & Chinese vermicelli with curry sauce  NT 460 (Reservations)
-*
-*
 * Salty & spiced crispy shrimp    NT 380
 * soup with clam & ginger   NT 220
 * soup with Oyster &  Seaweed    NT 320 (Reservations) 
