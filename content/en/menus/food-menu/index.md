@@ -2,6 +2,7 @@
 title: Eating with the chefs
 date: 2023-05-05T05:10:42.896Z
 description: Eating with the chefs
+image: 529fdf2b-ec2b-4264-ba1b-0eee665ae887.jpeg
 ---
 ### seafood
 
