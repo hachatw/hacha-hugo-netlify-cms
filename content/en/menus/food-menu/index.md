@@ -12,8 +12,7 @@ image: images/estern-meal2.jpeg
 * fried shrimp with cashew   NT460
 * fried shrimp with vegetables   NT320
 * kong-pqo shrimp    NT320
-* deep fried shrimp with pineapple sala   NT460 (Reservations) 
-* stir-fried oyster with fermented bean & tofu  NT 360 (Reservations) 
+* deep fried shrimp with pineapple sala   NT460 (Reservations)
 * deep fried oyster    NT 360 (Reservations) 
 * scrambled eggs fry with  oyster  
 
