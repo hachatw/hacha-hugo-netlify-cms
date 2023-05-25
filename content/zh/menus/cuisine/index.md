@@ -62,6 +62,7 @@ image: images/estern-meal2.jpeg
 * 魚香烘蛋  NT280
 * 回鍋肉 NT 320 
 * 台式滷肉  NT360
+* 古早味小封肉  NT360
 * 椒鹽里脊  NT360
 * 椒鹽排骨  NT480
 * 糖醋肉  NT360
