@@ -1,5 +1,5 @@
 ---
-title: 家常川味台菜
+title: 家常台菜
 date: 2023-02-24T22:33:08.148Z
 category: 家常台菜
 description: 黑客茶舖主廚私房菜
@@ -54,6 +54,7 @@ image: images/estern-meal2.jpeg
 * 黃瓜肉絲  NT280
 * 芹菜肉絲  NT280
 * 木須肉  NT320
+* 竹筍炒肉絲   NT320
 * 酸菜四季豆肉絲  NT320
 * 乾煸四季豆  NT320
 * 魚香肉絲  NT280 
