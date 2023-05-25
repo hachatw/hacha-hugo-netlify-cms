@@ -37,7 +37,7 @@ description: This is Refreshment
   附餐  湯 / 咖啡 / 紅茶（ 3選2 ）
 * B  \
      \
-  宮保雞丁\
+  蔥爆牛柳\
   培根高麗菜      \
   時鮮蔬菜    \
   手工甜點 *1               NT 899\
