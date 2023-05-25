@@ -74,6 +74,8 @@ image: images/estern-meal2.jpeg
 * 滑蛋牛柳 NT 320
 * 干絲牛柳 NT 320
 * 沙茶牛肉 NT 320 
+* 宮保牛肉 NT 320
+* 薑絲牛肉 NT 360
 * 青椒牛柳 NT 360
 
 ### 蔬菜/豆腐 （蛋奶素）
