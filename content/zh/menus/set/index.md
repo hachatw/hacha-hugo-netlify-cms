@@ -46,7 +46,8 @@ description: This is Refreshment
 * C 
 
   古早味小封肉\
-  時鮮蔬菜       \
+  油蔥水晶雞      \
+  時鮮蔬菜          \
   手工甜點 *2               NT 999\
   \
   附餐  湯 / 咖啡 / 紅茶（ 3選2 ）
