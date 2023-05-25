@@ -29,7 +29,7 @@ description: This is Refreshment
   ## 2人套餐
 * A   
 
-  玉米雞柳   \
+  客家小炒    \
   菜脯蛋    \
   時鮮蔬菜    \
   手工甜點*1                NT 799\
