@@ -26,7 +26,7 @@ description: This is Refreshment
 
   附餐  湯 / 咖啡 / 紅茶（ 3選1 ）
 
-  有機小油菊花茶 +NT50
+  有機菊花茶 +NT50
 
   ## 2人套餐
 * A   
@@ -37,7 +37,7 @@ description: This is Refreshment
   手工甜點*1                NT 799\
   \
   附餐  湯 / 咖啡 / 紅茶（ 3選2 ）\
-  有機小油菊花茶 +NT50
+  有機菊花茶 +NT50
 * B  \
      \
   蔥爆牛柳\
@@ -46,7 +46,7 @@ description: This is Refreshment
   手工甜點 *1               NT 899\
   \
   附餐  湯 / 咖啡 / 紅茶（ 3選2 ）\
-  有機小油菊花茶 +NT50
+  有機菊花茶 +NT50
 * C 
 
   古早味小封肉\
@@ -55,4 +55,4 @@ description: This is Refreshment
   手工甜點 *2               NT 999\
   \
   附餐  湯 / 咖啡 / 紅茶（ 3選2 ）\
-  有機小油菊花茶 +NT50
+  有機菊花茶 +NT50
