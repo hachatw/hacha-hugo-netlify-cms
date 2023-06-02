@@ -6,6 +6,7 @@ weight: 2
 tags:
   - meal
   - visit
+category: pasta
 image: images/pasta-1.jpg
 categories:
   - 西餐
@@ -18,6 +19,7 @@ description: This is aeicafe pasta menu
 * 奶油培根義大利麵  NT230
 * 奶油蛤蜊義大利麵  NT260
 * 奶油海鮮義大利麵  NT320
+* 番茄小肉丸義大利麵  NT260
 * 番茄蛤蜊義大利麵  NT260
 * 番茄海鮮義大利麵  NT320
 * 蒜椒橄欖油蛤蜊辣麵  NT260 
