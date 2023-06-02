@@ -58,4 +58,3 @@ description: This is Refreshment
   \
   附餐  湯 / 咖啡 / 紅茶（ 3選2 ）\
   有機菊花茶 +NT50
-*
