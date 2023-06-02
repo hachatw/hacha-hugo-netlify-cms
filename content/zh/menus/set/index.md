@@ -30,7 +30,7 @@ description: This is Refreshment
   ## 2人套餐
 * A   
 
-  客家小炒    \
+  京醬肉絲    \
   菜脯蛋    \
   時鮮蔬菜    \
   手工甜點*1                NT 799\
@@ -49,7 +49,7 @@ description: This is Refreshment
 * C 
 
   滑蛋蝦仁\
-  油蔥水晶雞      \
+  干絲豬柳       \
   時鮮蔬菜      \
   冰淇淋          \
   手工甜點 *1      
