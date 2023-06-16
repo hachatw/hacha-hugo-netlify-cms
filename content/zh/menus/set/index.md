@@ -42,7 +42,7 @@ description: This is Refreshment
   蔥爆牛柳\
   鹹蛋苦瓜       \
   時鮮蔬菜    \
-  手工甜點*1                NT 799\
+  手工甜點*1                NT 899\
   \
   附餐  湯 / 咖啡 / 紅茶（ 3選2 ）\
   有機菊花茶 +NT50
