@@ -30,7 +30,7 @@ description: This is Refreshment
   ## 2人套餐
 * A   
 
-  京醬肉絲    \
+  瓜仔蒸肉餅    \
   菜脯蛋    \
   時鮮蔬菜    \
   手工甜點*1                NT 799\
@@ -49,8 +49,8 @@ description: This is Refreshment
 * C 
 
   滑蛋蝦仁\
-  干絲豬柳       \
-  時鮮蔬菜      \
+  竹筍炒肉絲        \
+  時鮮竹筍炒肉絲 蔬菜      \
   冰淇淋          \
   手工甜點 *1      
 
