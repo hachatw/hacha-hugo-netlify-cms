@@ -17,7 +17,7 @@ description: This is Refreshment
 * 麻婆豆腐飯  NT 280
 * 蛋炒牛蕃茄飯  NT 280
 * 油蔥水晶雞飯  NT 280
-* 芹菜肉絲飯   NT280
+* 蛤蜊絲瓜飯   NT280
 * 蝦仁豆腐飯  NT 320
 * 古早味小封肉飯 NT320
 * 辣味卡拉雞腿排飯   NT 280
@@ -30,7 +30,7 @@ description: This is Refreshment
   ## 2人套餐
 * A   
 
-  瓜仔蒸肉餅    \
+  沙茶牛肉    \
   菜脯蛋    \
   時鮮蔬菜    \
   手工甜點*1                NT 799\
@@ -48,7 +48,7 @@ description: This is Refreshment
   有機菊花茶 +NT50
 * C 
 
-  滑蛋蝦仁\
+  瓜仔蒸肉餅\
   竹筍炒肉絲        \
   時鮮蔬菜      \
   冰淇淋          \
