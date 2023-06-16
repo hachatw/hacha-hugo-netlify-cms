@@ -40,7 +40,7 @@ description: This is Refreshment
 * B  \
      \
   蔥爆牛柳\
-  蛋炒牛番茄       \
+  鹹蛋苦瓜       \
   時鮮蔬菜    \
   手工甜點 *1               NT 899\
   \
