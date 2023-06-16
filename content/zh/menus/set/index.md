@@ -17,7 +17,7 @@ description: This is Refreshment
 * 麻婆豆腐飯  NT 280
 * 蛋炒牛蕃茄飯  NT 280
 * 油蔥水晶雞飯  NT 280
-* 沙茶牛肉飯   NT280
+* 沙茶牛肉飯   NT320
 * 蝦仁豆腐飯  NT 320
 * 古早味小封肉飯 NT320
 * 辣味卡拉雞腿排飯   NT 280
