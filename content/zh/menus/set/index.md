@@ -50,7 +50,7 @@ description: This is Refreshment
 
   滑蛋蝦仁\
   竹筍炒肉絲        \
-  時鮮竹筍炒肉絲 蔬菜      \
+  時鮮蔬菜      \
   冰淇淋          \
   手工甜點 *1      
 
