@@ -1,6 +1,6 @@
 ---
 draft: false
-tage:
+tags:
   - coffee
 author:
   - Andy

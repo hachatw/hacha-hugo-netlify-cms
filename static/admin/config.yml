@@ -18,6 +18,7 @@ collections:
       - { label: '標題', name: 'title', widget: 'string' }
       - { label: '發布日期', name: 'date', widget: 'datetime' }
       - { label: '種類', name: 'category', widget: 'string' }
+      - { label: '種類', name: 'category', widget: 'string' }
       - { label: '描述', name: 'description', widget: 'string',required: false }
       - { label: '照片', name: 'image', widget: 'image',required: false }
       - { label: '文字', name: 'body', widget: 'markdown' }
