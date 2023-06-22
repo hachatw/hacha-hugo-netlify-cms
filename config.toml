@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 
-theme ="twenty-twenty-hugo"
+theme ="cusine-menu-hugo"
 defaultContentLanguage = 'zh'
 # post pagination
 paginate = "6"
