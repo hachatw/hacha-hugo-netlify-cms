@@ -23,6 +23,15 @@ baseURL = "/"
         title='黑客茶舖'
         contentDir = "content/zh"
 
+# subtitles
+[languages.zh.params.cuisine]
+food = "義大利麵"
+drink ="茶"
+
+# subtitles
+[languages.zh.params.event]
+heading="活動"
+heading2 ="店內菜單"
 ############################## navigation zh ###############################
         [[languages.zh.menu.main]]
         name = "首頁"
@@ -55,10 +64,6 @@ baseURL = "/"
         URL = "../en"
         weight = 6
 
-# subtitles
-[languages.zh.params.event]
-heading="活動"
-heading2 ="店內菜單"
 
         # footer
         [languages.zh.params.footer]
