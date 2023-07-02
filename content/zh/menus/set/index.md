@@ -39,7 +39,7 @@ description: This is Refreshment
   有機菊花茶 +NT50
 * B  \
      \
-  蔥爆牛柳\
+  干絲豬柳 \
   鹹蛋苦瓜       \
   時鮮蔬菜    \
   手工甜點*1                NT 899\
