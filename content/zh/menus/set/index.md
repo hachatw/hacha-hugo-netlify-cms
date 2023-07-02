@@ -18,7 +18,7 @@ description: This is Refreshment
 * 蛋炒牛蕃茄飯  NT 280
 * 油蔥水晶雞飯  NT 280
 * 沙茶牛肉飯   NT 280
-* 蝦仁豆腐飯  NT 320
+* 瓜仔蒸肉餅飯  NT 320
 * 古早味小封肉飯 NT320
 * 辣味卡拉雞腿排飯   NT 280
 * 酥炸魚排飯佐塔塔醬   NT 280
@@ -48,7 +48,7 @@ description: This is Refreshment
   有機菊花茶 +NT50
 * C 
 
-  瓜仔蒸肉餅\
+  滑蛋蝦仁\
   竹筍炒肉絲        \
   時鮮蔬菜          \
   手工甜點*2               NT 999\
