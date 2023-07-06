@@ -25,8 +25,10 @@ baseURL = "/"
 
 # subtitles
 [languages.zh.params.cuisine]
-food = "義大利麵"
+food = "台菜"
+pasta = "義大利麵"
 drink ="茶"
+coffee="咖啡"
 
 # subtitles
 [languages.zh.params.event]

@@ -1,11 +1,11 @@
 [en]
-    title="Andy Ellen Icafe"
+    title="hacha"
     languageName = "English"
     weight=2
     languagedir = "ltr"
-    contentdir = "content"
+    contentdir = "content/en"
 [zh]
-    title = "安迪艾倫愛咖啡"
+    title = "黑客茶舖"
     languageName = "繁體中文"
     weight = 1
     languagedir = "ltr"
