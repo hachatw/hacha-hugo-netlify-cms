@@ -26,7 +26,7 @@ collections:
   - name: 'zh-menus-items'
     label: '品項'
     folder: 'content/zh/items'
-    path: '{{category}}/{{slug}}/index'
+    path: '{{category}}/{{slug}}'
     create: true
     editor:
      preview: false   
