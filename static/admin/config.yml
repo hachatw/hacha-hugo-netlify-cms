@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   repo: hachatw/hacha-hugo-netlify-cms
-  branch: dv # Branch to update (optional; defaults to master at testing remember to change to dev )
+  branch: dev # Branch to update (optional; defaults to master at testing remember to change to dev )
 media_folder: static/images
 public_folder: /images
 collections:
