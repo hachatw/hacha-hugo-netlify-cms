@@ -26,7 +26,7 @@ collections:
   - name: 'zh-items-cusine'
     label: '台菜'
     folder: 'content/zh/items/台菜'
-    path: '{{category}}/{{slug}}'
+    path: '{{slug}}'
     create: true
     editor:
      preview: false   
@@ -37,7 +37,7 @@ collections:
     fields: 
       - { label: '標題', name: 'title', widget: 'string' }
       - { label: '價格', name: 'price', widget: 'string' }
-      - { label: '種類', name: 'category', widget: 'string' }
+      - { label: '種類', name: 'category', widget: 'string', required: false }
       - { label: '描述', name: 'description', widget: 'string',required: false }
       - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../static/images', public_folder: 'images' ,required: false }
       - { label: '發布日期', name: 'date', widget: 'datetime' }
