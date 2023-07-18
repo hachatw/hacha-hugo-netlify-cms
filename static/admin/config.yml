@@ -31,17 +31,15 @@ collections:
     editor:
      preview: false   
     slug: '{{slug}}'
-    nested:
-      depth: 10 # max depth to show in the collection tree
-      summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
     fields: 
       - { label: '標題', name: 'title', widget: 'string' }
       - { label: '價格', name: 'price', widget: 'string' }
-      - { label: '種類', name: 'category', widget: 'string', required: false }
-      - { label: '描述', name: 'description', widget: 'string',required: false }
+      - { label: '副標題描述', name: 'description', widget: 'string',required: false }
+      - { label: '未上架', name: 'draft', widget: 'boolean' }
       - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../static/images', public_folder: 'images' ,required: false }
       - { label: '發布日期', name: 'date', widget: 'datetime' }
       - { label: '文字', name: 'body', widget: 'markdown' }
+      - { label: '種類', name: 'categories', widget: 'string', required: false }
     # adding a meta object with a path property allows editing the path of entries
     # moving an existing entry will move the entire sub tree of the entry to the new location
 
