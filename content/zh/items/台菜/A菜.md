@@ -12,5 +12,4 @@ image: images/img_1615.jpeg
 categories:
   - 台菜
 ---
-
-台菜簡介
+水耕A 菜，鮮嫩摘採，水耕栽培履歷管理，口感鮮脆
