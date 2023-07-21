@@ -8,7 +8,7 @@ tags:
   - 素食
   - 辣度
 description: 台菜
-image: images/df3f6a2b-db7c-4281-bc73-0db63829f78d.jpeg
+image: ""
 categories:
   - 台菜
 ---
