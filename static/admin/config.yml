@@ -34,7 +34,7 @@ collections:
     
     fields: 
       - { label: '品項標題', name: 'title', widget: 'string' }
-      - { label: '價格', name: 'price', widget: 'string' }
+      - { label: '價格', name: 'price', widget: 'list' }
       - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
       - { label: '未上架', name: 'draft', widget: 'boolean', default: true}
       - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
