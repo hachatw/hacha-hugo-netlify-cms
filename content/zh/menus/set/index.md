@@ -7,10 +7,10 @@ tags:
   - meal
   - Refreshment
 category: 套餐
-image: img_1923.jpeg
+description: This is Refreshment
+image: images/img_1923.jpeg
 categories:
   - 點心
-description: This is Refreshment
 ---
 ## 個人套餐
 
