@@ -3,6 +3,8 @@ title: A菜
 price:
   - 120
 draft: false
+weight:
+  - 20
 date: 2023-07-18T18:38:42+08:00
 tags:
   - 素食
