@@ -8,13 +8,16 @@ fi
 
 # Get the Markdown file path from the command-line argument
 markdown_file="$1"
-formated_folder="$2"
+target_directory="$2"
 
 # Check if the Markdown file exists
 if [ ! -f "$markdown_file" ]; then
   echo "File not found: $markdown_file"
   exit 1
 fi
+
+output_dir = "./content/zh/$target_directory"
+touch $output_dir/_index.html
 
 # Read each line of the Markdown file
 while IFS= read -r line
@@ -30,7 +33,7 @@ do
   if [ -z "$line" ]; then
     continue
   fi
-
+  ((count_line++))
   # Remove all spaces before "NT" using sed
   line="$(echo "$line" | sed -e 's/[[:space:]]*NT/NT/')"
   
@@ -43,18 +46,19 @@ do
 
   # Create temporary files for modification
   temp_file=$(mktemp)
-  target_directory=$formated_folder
   output_file="./content/zh/$target_directory/$line.md"
 
   # Execute the "hugo new" command with the current line as input
   if [[ -f $output_file ]];then
-  echo "this is $line updating"
+  echo "File exists, this is $line updating"
   else
-  hugo new "$formated_folder/$line.md"
-  echo " create $markdown_file at $formated_folder"
+  hugo new "$target_directory/$line.md"
+  echo " create $markdown_file at $target_directory"
   fi
 
-  # Check if "price:[]" exists in the file
+  echo "$count_line"
+
+  # Check if "price:" exists in the file
   if grep -q 'price:' "$output_file"; then
   # Replace "price:[]" with "price: "price_mark""
   echo "there is price tags"
@@ -67,4 +71,14 @@ do
   awk -v content="$formatted_content" 'NR==5 {print content} 1' "$output_file" > "$temp_file" && mv "$temp_file" "$output_file"
   fi
 
+  if grep -q 'weight:' "$output_file"; then
+  echo "there is weight tags"
+  sed -e "s/^weight:.*/weight: $count_line /" "$output_file" > "$temp_file" && mv "$temp_file" "$output_file"
+  else
+  # Format the part_after_nt content as "price: [part_after_nt]"
+  formatted_content="weight: [$count_line] "
+  # Insert the formatted content to the third line of the generated Markdown file
+  awk -v content="$formatted_content" 'NR==11 {print content} 1' "$output_file" > "$temp_file" && mv "$temp_file" "$output_file"
+  fi
+  
 done < "$markdown_file"

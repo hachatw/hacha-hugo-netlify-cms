@@ -8,7 +8,7 @@ description: "啤酒調酒 比利時 馬勒 **Malheur 12**  黑啤酒"
 # 圖片檔案目錄 diretory to store image file
 image : "images/estern-meal2.jpeg"
 # 排序
-weight: 
+weight: 11 
 # 上架開關 list product 
 draft: false
 # 菜單品項分類 menu item categories 

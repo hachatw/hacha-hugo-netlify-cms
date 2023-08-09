@@ -8,7 +8,7 @@ description: "啤酒調酒 鹹狗salty Dog"
 # 圖片檔案目錄 diretory to store image file
 image : "images/estern-meal2.jpeg"
 # 排序
-weight: 
+weight: 80 
 # 上架開關 list product 
 draft: false
 # 菜單品項分類 menu item categories 
