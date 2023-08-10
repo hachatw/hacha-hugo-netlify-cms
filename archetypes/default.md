@@ -6,11 +6,11 @@ price: ["120"]
 # 圖片檔案目錄 diretory to store image file
 image : "images/jrey.jpg"
 # 菜單品項分類 menu item categories 
-categories: ["義大利麵"]
+categories: ["餐點"]
 # 標籤 辣度 素食 甜食 冷熱 tags for spicy vegan sweet hot and cold 
 tags: ["素食","辣度", "直麵", "寬麵", "筆管麵"]
 # 菜單項目簡介 
-description: "形容義大利麵風味"
+description: "{{ replace .Name "-" " " | title }}"
 # 項目上傳日期 item upload date 
 date: {{ .Date }}
 # 上架開關 list product 

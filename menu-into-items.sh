@@ -16,9 +16,6 @@ if [ ! -f "$markdown_file" ]; then
   exit 1
 fi
 
-output_dir = "./content/zh/$target_directory"
-touch $output_dir/_index.html
-
 # Read each line of the Markdown file
 while IFS= read -r line
 do
@@ -55,7 +52,7 @@ do
   hugo new "$target_directory/$line.md"
   echo " create $markdown_file at $target_directory"
   fi
-
+  
   echo "$count_line"
 
   # Check if "price:" exists in the file
@@ -80,5 +77,8 @@ do
   # Insert the formatted content to the third line of the generated Markdown file
   awk -v content="$formatted_content" 'NR==11 {print content} 1' "$output_file" > "$temp_file" && mv "$temp_file" "$output_file"
   fi
-  
+
 done < "$markdown_file"
+
+
+  
