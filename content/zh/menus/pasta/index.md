@@ -7,7 +7,7 @@ tags:
   - meal
   - visit
 category: pasta
-image: images/pasta-1.jpg
+image: images/img_0006.jpeg
 categories:
   - 西餐
 description: This is aeicafe pasta menu
