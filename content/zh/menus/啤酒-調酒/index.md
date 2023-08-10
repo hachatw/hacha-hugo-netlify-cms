@@ -2,8 +2,9 @@
 title: 啤酒 / 調酒
 date: 2023-03-10T08:51:14.887Z
 description: 啤酒 / 調酒
-image: images/alcohol.jpg
+image: images/image.jpg
 draft: false
+category: 啤酒
 ---
 ## 啤酒
 
