@@ -7,7 +7,7 @@ description: "台菜 台菜"
 # 圖片檔案目錄 diretory to store image file
 image : "images/estern-meal2.jpeg"
 # 排序
-weight: 
+weight: 1
 # 上架開關 list product 
 draft: false
 # 菜單品項分類 menu item categories 
@@ -18,7 +18,7 @@ tags:
   - 素食
   - 辣度
 # 項目上傳日期 item upload date 
-date: 2023-08-11T23:34:07+08:00
+date: 2023-08-12T03:52:45+08:00
 ---
 
 台菜 台菜 簡介
