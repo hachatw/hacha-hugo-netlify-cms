@@ -49,7 +49,7 @@ description: This is Refreshment
 * C 
 
   古早味小封肉 \
-  京醬肉絲        \
+  蛤蜊絲瓜         \
   時鮮蔬菜          \
   手工甜點*2               NT 999\
   \
