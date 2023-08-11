@@ -49,7 +49,7 @@ description: This is Refreshment
 * C 
 
   滑蛋蝦仁\
-  竹筍炒肉絲        \
+  京醬肉絲        \
   時鮮蔬菜          \
   手工甜點*2               NT 999\
   \
