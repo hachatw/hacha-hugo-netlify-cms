@@ -16,6 +16,16 @@ if [ ! -f "$markdown_file" ]; then
   exit 1
 fi
 
+output_file="./content/zh/$target_directory/_index.md"
+
+# Execute the "hugo new" command with the current line as input
+if [[ -f $output_file ]];then
+echo "File exists, this is $output_file updating"
+else
+hugo new "$output_file"
+echo " create $output_file"
+fi
+
 # Read each line of the Markdown file
 while IFS= read -r line
 do
@@ -59,7 +69,7 @@ do
   if grep -q 'price:' "$output_file"; then
   # Replace "price:[]" with "price: "price_mark""
   echo "there is price tags"
-  sed -e "s/^price:.*/price: [$price_mark] /" "$output_file" > "$temp_file" && mv "$temp_file" "$output_file"
+#  sed -e "s/^price:.*/price: \n\ \ \- $price_mark /" "$output_file" > "$temp_file" && mv "$temp_file" "$output_file"
   else
   echo "no price create one "
   # Format the part_after_nt content as "price: [part_after_nt]"
