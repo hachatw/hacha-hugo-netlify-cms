@@ -3,7 +3,7 @@ title: 家常台菜
 date: 2023-02-24T22:33:08.148Z
 category: 家常台菜
 description: 黑客茶舖主廚私房菜
-image: images/estern-meal2.jpeg
+image: images/img_1627.jpeg
 ---
 ### 海鮮類
 
@@ -14,13 +14,9 @@ image: images/estern-meal2.jpeg
 * 清炒蝦仁 NT320
 * 宮保蝦仁 NT320
 * 果律蝦球 NT460 (預定)
-* 蚵仔酥 NT360 (預定)
-* 蚵仔蛋 NT320 (預定)
 * 紅燒魚 NT360
 * 糖醋魚 NT360
 * 豆瓣魚  NT360
-* 豉汁蒸皮刀魚   NT320（季節限定）
-* 鼓汁蒸小卷   NT320（季節限定）
 * 清蒸鱈魚 NT 360
 * 蔥燒鱈魚 NT 390
 * 豆酥鱈魚 NT 460
@@ -28,10 +24,8 @@ image: images/estern-meal2.jpeg
 * 咖哩粉絲蝦  NT 460 (預定)
 * 鹹酥蝦  NT 380
 * 蛤蜊薑絲湯  NT 220
-* 紫菜鮮蚵湯 NT 320 (預定)
 * 海鮮湯飯  NT 320
 * 海鮮炒麵  NT 320
-* 經典台式「鹹蜆仔」 NT 150
 
 ### 雞肉
 
@@ -64,9 +58,7 @@ image: images/estern-meal2.jpeg
 * 台式滷肉  NT360
 * 古早味小封肉  NT360
 * 椒鹽里脊  NT360
-* 椒鹽排骨  NT480
 * 糖醋肉  NT360
-* 糖醋排骨  NT480
 
 ### 牛肉
 

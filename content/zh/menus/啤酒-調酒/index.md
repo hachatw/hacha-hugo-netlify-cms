@@ -2,17 +2,15 @@
 title: 啤酒 / 調酒
 date: 2023-03-10T08:51:14.887Z
 description: 啤酒 / 調酒
-image: images/alcohol.jpg
+image: images/image.jpg
 draft: false
+category: 啤酒
 ---
 ## 啤酒
 
-* 台灣 金牌啤酒  600ml  5%  NT120
 * 墨西哥 可樂娜 330ml  4.6%   NT120
-* 荷蘭 海尼根 330ml  5%   NT120
 * 法國 可倫堡1664白啤酒 330 ml  5%   NT160
 * 比利時 豪格登 白啤酒 330ml  4.9%    NT 160
-* 德國 艾丁格 小麥啤酒 500ml  5.3%   NT 180
 * 德國 艾丁格 黑啤酒  500ml  5.6%   NT 180
 * 比利時 大象迷幻 三麥金啤酒 330ml  8.5%  NT 200
 * 比利時 杜瓦野酒花三麥金啤酒  330ml  9.5%   NT 200

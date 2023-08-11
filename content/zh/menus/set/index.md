@@ -7,7 +7,7 @@ tags:
   - meal
   - Refreshment
 category: 套餐
-image: images/refreshment-6.jpg
+image: images/img_0085.jpeg
 categories:
   - 點心
 description: This is Refreshment
@@ -17,9 +17,10 @@ description: This is Refreshment
 * 麻婆豆腐飯  NT 280
 * 蛋炒牛蕃茄飯  NT 280
 * 油蔥水晶雞飯  NT 280
-* 芹菜肉絲飯   NT280
-* 宮保雞丁飯  NT 320
+* 沙茶牛肉飯   NT 280
+* 瓜仔蒸肉餅飯  NT 320
 * 古早味小封肉飯 NT320
+* 台式筍絲滷肉飯 NT320
 * 辣味卡拉雞腿排飯   NT 280
 * 酥炸魚排飯佐塔塔醬   NT 280
 * 酥炸檸檬雞柳條飯   NT 280

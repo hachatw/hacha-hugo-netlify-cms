@@ -1,16 +1,16 @@
 ---
 draft: false
-title: 葡萄乾蜜處理 / 淺焙 
+title: 義大利麵
 date: 2020-03-14T15:40:24+06:00
 weight: 2
 tags:
   - meal
   - visit
 category: pasta
-image: images/pasta-1.jpg
+image: images/img_0006.jpeg
 categories:
   - 西餐
-description: This is aeicafe pasta menu This is aeicafe pasta menuThis is aeicafe pasta menuThis is aeicafe pasta menuThis is aeicafe pasta menu
+description: This is aeicafe pasta menu
 ---
 ###### 圓直面/ 寬麵/ 筆管麵
 
