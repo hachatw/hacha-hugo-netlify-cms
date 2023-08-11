@@ -23,6 +23,7 @@ collections:
       - { label: '文字', name: 'body', widget: 'markdown' }
     # adding a meta object with a path property allows editing the path of entries
     # moving an existing entry will move the entire sub tree of the entry to the new location
+
   - name: 'zh-items-cusine'
     label: '台菜'
     folder: 'content/zh/items/台菜'
@@ -115,7 +116,7 @@ collections:
     # adding a meta object with a path property allows editing the path of entries
     # moving an existing entry will move the entire sub tree of the entry to the new location
 
-    - name: 'zh-items-tea'
+  - name: 'zh-items-tea'
     label: '茶類'
     folder: 'content/zh/items/茶類'
     path: '{{slug}}'
