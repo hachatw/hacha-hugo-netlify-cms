@@ -7,10 +7,10 @@ tags:
   - meal
   - Refreshment
 category: 套餐
-description: This is Refreshment
 image: images/img_1923.jpeg
 categories:
   - 點心
+description: This is Refreshment
 ---
 ## 個人套餐
 
@@ -40,7 +40,7 @@ categories:
 * B  \
      \
   干絲豬柳 \
-  鹹蛋苦瓜       \
+  油蔥水晶雞      \
   時鮮蔬菜    \
   手工甜點*1                NT 899\
   \
