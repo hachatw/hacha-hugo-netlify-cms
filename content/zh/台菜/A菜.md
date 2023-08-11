@@ -1,25 +1,17 @@
 ---
-# 菜單品項標題 menu title 
-title: "A菜"
-# price 品項價錢標價 item price ,交給 shell 差入資料
-price: [120] 
-# 菜單項目簡介 
-description: "台菜 A菜"
-# 圖片檔案目錄 diretory to store image file
-image : "images/estern-meal2.jpeg"
-# 排序
-weight: 82 
-# 上架開關 list product 
+title: A菜
+price:
+  - 120
 draft: false
-# 菜單品項分類 menu item categories 
-categories:
-  - 台菜
-# 標籤 辣度 素食 甜食 冷熱 tags for spicy vegan sweet hot and cold 
+weight:
+  - 20
+date: 2023-07-18T18:38:42+08:00
 tags:
   - 素食
   - 辣度
-# 項目上傳日期 item upload date 
-date: 2023-08-09T04:32:38+08:00
+description: 台菜
+image: images/img_1615.jpeg
+categories:
+  - 台菜
 ---
-
-台菜簡介
+水耕A 菜，鮮嫩摘採，水耕栽培履歷管理，口感鮮脆
