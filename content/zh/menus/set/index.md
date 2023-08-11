@@ -48,7 +48,7 @@ description: This is Refreshment
   有機菊花茶 +NT50
 * C 
 
-  滑蛋蝦仁\
+  古早味小封肉 \
   京醬肉絲        \
   時鮮蔬菜          \
   手工甜點*2               NT 999\
