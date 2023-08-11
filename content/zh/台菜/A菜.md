@@ -1,9 +1,9 @@
 ---
 title: A菜
-price:
+price: [120] 
   - 120
 draft: false
-weight:
+weight: 82 
   - 20
 date: 2023-07-18T18:38:42+08:00
 tags:
