@@ -1,6 +1,7 @@
 ---
 title: A菜
-price: [120] 
+price: 
+  - 120 
   - 120
 draft: false
 weight: 82 
