@@ -30,7 +30,7 @@ description: This is Refreshment
   ## 2人套餐
 * A   
 
-  沙茶牛肉    \
+  京醬肉絲    \
   菜脯蛋    \
   時鮮蔬菜    \
   手工甜點*1                NT 799\
