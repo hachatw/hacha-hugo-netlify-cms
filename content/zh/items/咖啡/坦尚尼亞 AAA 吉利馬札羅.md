@@ -1,28 +1,19 @@
 ---
-# 菜單品項標題 menu title 
-title: "坦尚尼亞 AAA 吉利馬札羅"
-# price 品項價錢標價 item price ,交給 shell 差入資料
-price: [120] 
-# 菜單項目簡介 
-description: "啤酒調酒 坦尚尼亞 AAA 吉利馬札羅"
-# 圖片檔案目錄 diretory to store image file
-image : "images/coffee.jpg"
-# 排序
-weight: 29 
-# 上架開關 list product 
+title: 坦尚尼亞 AAA 吉利馬札羅
+price:
+  - 120
+description: TANZANIA   AAA  KILIMANJARO
 draft: false
-# 菜單品項分類 menu item categories 
+weight: 29
+image: images/coffee.jpg
 categories:
-  - 啤酒調酒 
-# 標籤 辣度 素食 甜食 冷熱 tags for spicy vegan sweet hot and cold 
+  - 啤酒調酒
 tags:
   - 咖啡
-  - 手沖咖啡 
+  - 手沖咖啡
   - 淺培火
   - 中培火
   - 深培火
-# 項目上傳日期 item upload date 
 date: 2023-08-11T23:15:05+08:00
 ---
-
- 坦尚尼亞 AAA 吉利馬札羅
+國家      坦尚尼亞 TANZANIA 產區      吉力馬扎羅 KILIMANJARO 品種      100% ARABICA 海拔      1,200 - 1,800 METERS 焙度      中烘焙 處理法  水洗  乾香為柑橘、葡萄柚、黑莓、焦糖與杏仁香氣。入口為橘子、橘皮、葡萄柚、黑李與黑莓風味,結尾為焦糖、堅果與可可香氣。
