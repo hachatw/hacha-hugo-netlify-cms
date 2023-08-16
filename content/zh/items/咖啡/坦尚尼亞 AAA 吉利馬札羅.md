@@ -1,10 +1,10 @@
 ---
 title: 坦尚尼亞 AAA 吉利馬札羅
 price:
-  - 120
+  - "150"
 description: TANZANIA   AAA  KILIMANJARO
 draft: false
-weight: 29
+weight: 19
 image: images/coffee.jpg
 categories:
   - 啤酒調酒
