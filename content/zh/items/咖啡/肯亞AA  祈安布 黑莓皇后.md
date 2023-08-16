@@ -1,28 +1,19 @@
 ---
-# 菜單品項標題 menu title 
-title: "肯亞AA  祈安布 黑莓皇后"
-# price 品項價錢標價 item price ,交給 shell 差入資料
-price: [180] 
-# 菜單項目簡介 
-description: "啤酒調酒 肯亞AA  祈安布 黑莓皇后"
-# 圖片檔案目錄 diretory to store image file
-image : "images/coffee.jpg"
-# 排序
-weight: 22 
-# 上架開關 list product 
+title: 肯亞AA  祈安布 黑莓皇后
+price:
+  - 180
+description: "Kenya  AA Kiambu Uklili "
 draft: false
-# 菜單品項分類 menu item categories 
+weight: 22
+image: images/coffee.jpg
 categories:
-  - 啤酒調酒 
-# 標籤 辣度 素食 甜食 冷熱 tags for spicy vegan sweet hot and cold 
+  - 啤酒調酒
 tags:
   - 咖啡
-  - 手沖咖啡 
+  - 手沖咖啡
   - 淺培火
   - 中培火
   - 深培火
-# 項目上傳日期 item upload date 
 date: 2023-08-11T23:15:05+08:00
 ---
-
- 肯亞AA  祈安布 黑莓皇后
+水洗處理法/淺中焙/ 乾香為黑莓、黑醋栗、洛神及花香。 入口為黑莓、黑醋栗、洛神花茶、柑橘、葡萄柚。 尾韻為黑嘉麗軟糖，質地綿密厚實，層次複雜多變。
