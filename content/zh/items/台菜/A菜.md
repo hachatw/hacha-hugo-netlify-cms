@@ -1,24 +1,16 @@
 ---
-# 菜單品項標題 menu title 
-title: "A菜"
-# price 品項價錢標價 item price ,交給 shell 差入資料
-price: [120] 
-# 菜單項目簡介 
-description: "台菜 A菜"
-# 圖片檔案目錄 diretory to store image file
-image: images/img_1615.jpeg
-# 排序
-weight: 82 
-# 上架開關 list product 
+title: 水耕A菜
+price:
+  - 120
+description: Hydroponics lettuce
 draft: false
-# 菜單品項分類 menu item categories 
+weight: 82
+image: images/img_1615.jpeg
 categories:
   - 台菜
-# 標籤 辣度 素食 甜食 冷熱 tags for spicy vegan sweet hot and cold 
 tags:
   - 素食
   - 辣度
-# 項目上傳日期 item upload date 
 date: 2023-08-12T03:52:50+08:00
 ---
 
