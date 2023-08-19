@@ -2,7 +2,7 @@
 title: 二人套餐 A
 price:
   - "799"
-description: Set meal for two A
+description: Package A for two
 draft: false
 weight: 21
 image: images/img_1593.jpeg
