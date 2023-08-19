@@ -4,7 +4,7 @@ price:
   - "799"
 description: Set meal for two A
 draft: false
-weight: 1
+weight: 21
 image: images/img_1593.jpeg
 categories:
   - 套餐
