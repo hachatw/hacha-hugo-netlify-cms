@@ -104,6 +104,6 @@ image: images/img_1627.jpeg
 * 涼拌小菜  NT 90
 * 白飯 NT 15
 * 紅茶  NT 50
-*
+* 熱綠茶  NT 50
 * 美式咖啡 NT 50
 * 可樂 NT 50
