@@ -102,7 +102,7 @@ image: images/img_1627.jpeg
 * 綜合青菜 NT 120
 * 涼拌小菜  NT 90
 * 白飯 NT 15
-* 奶汁濃湯 NT 30
 * 紅茶  NT 50
+*
 * 美式咖啡 NT 50
 * 可樂 NT 50
