@@ -4,7 +4,7 @@ price:
   - 120
 description: pasta
 draft: false
-weight: 0
+weight: 1
 image: images/pasta4.jpg
 categories:
   - 義大利麵

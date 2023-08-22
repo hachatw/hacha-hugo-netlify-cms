@@ -7,7 +7,7 @@ description: "冰品-果汁冰品 果汁"
 # 圖片檔案目錄 diretory to store image file
 image : "images/alcohol.jpg"
 # 排序
-weight: 
+weight: 9
 # 上架開關 list product 
 draft: false
 # 菜單品項分類 menu item categories 

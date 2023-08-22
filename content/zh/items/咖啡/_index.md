@@ -7,7 +7,7 @@ description: "啤酒調酒 咖啡"
 # 圖片檔案目錄 diretory to store image file
 image : "images/coffee.jpg"
 # 排序
-weight: 
+weight: 5
 # 上架開關 list product 
 draft: false
 # 菜單品項分類 menu item categories 

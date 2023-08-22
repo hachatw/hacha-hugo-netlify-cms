@@ -1,14 +1,14 @@
 ---
 # 菜單品項標題 menu title 
-title: "台灣 金牌啤酒  600ml  5%"
+title: "比利時勇敢亨利 Straffe Hendrik Quadrupel  四重發酵黑啤酒"
 # price 品項價錢標價 item price ,交給 shell 差入資料
-price: [120] 
+price: [200] 
 # 菜單項目簡介 
-description: "啤酒調酒 台灣 金牌啤酒  600ml  5%"
+description: "啤酒調酒 比利時勇敢亨利 Straffe Hendrik Quadrupel  四重發酵黑啤酒"
 # 圖片檔案目錄 diretory to store image file
 image : "images/wine-party.png"
 # 排序
-weight: 1 
+weight: 10 
 # 上架開關 list product 
 draft: false
 # 菜單品項分類 menu item categories 
@@ -20,7 +20,7 @@ tags:
   - 調酒 
   - 威士忌
 # 項目上傳日期 item upload date 
-date: 2023-08-11T23:14:53+08:00
+date: 2023-08-22T20:21:11+08:00
 ---
 
- 台灣 金牌啤酒  600ml  5%
+ 比利時勇敢亨利 Straffe Hendrik Quadrupel  四重發酵黑啤酒

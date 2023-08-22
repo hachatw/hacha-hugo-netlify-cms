@@ -9,7 +9,7 @@ image : "images/rissoto.jpg"
 # 上架開關 list product 
 draft: false
 # 排序
-weight:
+weight: 2
 # 菜單品項分類 menu item categories 
 categories:
   - 焗烤燉飯

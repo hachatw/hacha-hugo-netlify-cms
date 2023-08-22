@@ -5,6 +5,7 @@ title: "甜點"
 price: ["120"]
 # 圖片檔案目錄 diretory to store image file
 image : "images/jrey.jpg"
+weight: 4
 # 菜單品項分類 menu item categories 
 categories: ["餐點"]
 # 標籤 辣度 素食 甜食 冷熱 tags for spicy vegan sweet hot and cold 

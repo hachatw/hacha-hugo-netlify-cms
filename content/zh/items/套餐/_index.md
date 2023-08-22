@@ -9,7 +9,7 @@ image : "images/img_1593.jpeg"
 # 上架開關 list product 
 draft: false
 # 排序
-weight: 
+weight: 3
 # 菜單品項分類 menu item categories 
 categories:
   - 套餐

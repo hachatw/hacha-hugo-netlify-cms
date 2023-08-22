@@ -7,7 +7,7 @@ description: "茶類飲品 茶類"
 # 圖片檔案目錄 diretory to store image file
 image : "images/tea.jpg"
 # 排序
-weight: 
+weight: 6
 # 上架開關 list product 
 draft: false
 # 菜單品項分類 menu item categories 
