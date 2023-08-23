@@ -1,5 +1,5 @@
 ---
-title: 比利時海盜啤酒 Piraat
+title: "比利時海盜啤酒 "
 price:
   - 200
 description: Piraat
