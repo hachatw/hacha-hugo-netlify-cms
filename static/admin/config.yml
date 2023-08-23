@@ -41,7 +41,7 @@ collections:
       - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
       - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../static/images', public_folder: 'images' ,required: false }
       - { label: '文字', name: 'body', widget: 'string' }
-      - { label: '種類', name: 'categories', widget: 'string', required: false }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
       - { label: '標籤', name: 'tags', widget: 'list', required: false }
       - { label: '發布日期', name: 'date', widget: 'datetime' }
     # adding a meta object with a path property allows editing the path of entries
@@ -64,7 +64,7 @@ collections:
       - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
       - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../static/images', public_folder: 'images' ,required: false }
       - { label: '文字', name: 'body', widget: 'string' }
-      - { label: '種類', name: 'categories', widget: 'string', required: false }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
       - { label: '標籤', name: 'tags', widget: 'list', required: false }
       - { label: '發布日期', name: 'date', widget: 'datetime' }
     # adding a meta object with a path property allows editing the path of entries
@@ -87,7 +87,7 @@ collections:
       - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
       - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../static/images', public_folder: 'images' ,required: false }
       - { label: '文字', name: 'body', widget: 'string' }
-      - { label: '種類', name: 'categories', widget: 'string', required: false }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
       - { label: '標籤', name: 'tags', widget: 'list', required: false }
       - { label: '發布日期', name: 'date', widget: 'datetime' }
     # adding a meta object with a path property allows editing the path of entries
@@ -110,7 +110,7 @@ collections:
       - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
       - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../static/images', public_folder: 'images' ,required: false }
       - { label: '文字', name: 'body', widget: 'string' }
-      - { label: '種類', name: 'categories', widget: 'string', required: false }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
       - { label: '標籤', name: 'tags', widget: 'list', required: false }
       - { label: '發布日期', name: 'date', widget: 'datetime' }
     # adding a meta object with a path property allows editing the path of entries
@@ -134,7 +134,7 @@ collections:
       - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
       - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../static/images', public_folder: 'images' ,required: false }
       - { label: '文字', name: 'body', widget: 'string' }
-      - { label: '種類', name: 'categories', widget: 'string', required: false }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
       - { label: '標籤', name: 'tags', widget: 'list', required: false }
       - { label: '發布日期', name: 'date', widget: 'datetime' }
     # adding a meta object with a path property allows editing the path of entries
@@ -157,7 +157,7 @@ collections:
       - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
       - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../static/images', public_folder: 'images' ,required: false }
       - { label: '文字', name: 'body', widget: 'string' }
-      - { label: '種類', name: 'categories', widget: 'string', required: false }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
       - { label: '標籤', name: 'tags', widget: 'list', required: false }
       - { label: '發布日期', name: 'date', widget: 'datetime' }
     # adding a meta object with a path property allows editing the path of entries
@@ -180,7 +180,7 @@ collections:
       - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
       - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../static/images', public_folder: 'images' ,required: false }
       - { label: '文字', name: 'body', widget: 'string' }
-      - { label: '種類', name: 'categories', widget: 'string', required: false }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
       - { label: '標籤', name: 'tags', widget: 'list', required: false }
       - { label: '發布日期', name: 'date', widget: 'datetime' }
     # adding a meta object with a path property allows editing the path of entries
@@ -203,7 +203,7 @@ collections:
       - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
       - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../static/images', public_folder: 'images' ,required: false }
       - { label: '文字', name: 'body', widget: 'string' }
-      - { label: '種類', name: 'categories', widget: 'string', required: false }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
       - { label: '標籤', name: 'tags', widget: 'list', required: false }
       - { label: '發布日期', name: 'date', widget: 'datetime' }
     # adding a meta object with a path property allows editing the path of entries
@@ -226,7 +226,7 @@ collections:
       - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
       - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../static/images', public_folder: 'images' ,required: false }
       - { label: '文字', name: 'body', widget: 'string' }
-      - { label: '種類', name: 'categories', widget: 'string', required: false }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
       - { label: '標籤', name: 'tags', widget: 'list', required: false }
       - { label: '發布日期', name: 'date', widget: 'datetime' }
     # adding a meta object with a path property allows editing the path of entries
