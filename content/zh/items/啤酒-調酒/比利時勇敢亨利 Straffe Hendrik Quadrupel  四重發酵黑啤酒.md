@@ -1,26 +1,16 @@
 ---
-# 菜單品項標題 menu title 
-title: "比利時勇敢亨利 Straffe Hendrik Quadrupel  四重發酵黑啤酒"
-# price 品項價錢標價 item price ,交給 shell 差入資料
-price: [200] 
-# 菜單項目簡介 
-description: "啤酒調酒 比利時勇敢亨利 Straffe Hendrik Quadrupel  四重發酵黑啤酒"
-# 圖片檔案目錄 diretory to store image file
-image : "images/wine-party.png"
-# 排序
-weight: 10 
-# 上架開關 list product 
+title: 比利時勇敢亨利 四重發酵黑啤酒
+price:
+  - 200
+description: Straffe Hendrik Quadrupel
 draft: false
-# 菜單品項分類 menu item categories 
+weight: 10
+image: images/wine-party.png
 categories:
-  - 啤酒調酒 
-# 標籤 辣度 素食 甜食 冷熱 tags for spicy vegan sweet hot and cold 
+  - 啤酒調酒
 tags:
   - 啤酒
-  - 調酒 
-  - 威士忌
-# 項目上傳日期 item upload date 
+  - 黑啤酒
 date: 2023-08-22T20:21:11+08:00
 ---
-
- 比利時勇敢亨利 Straffe Hendrik Quadrupel  四重發酵黑啤酒
+ 330ml 11%
