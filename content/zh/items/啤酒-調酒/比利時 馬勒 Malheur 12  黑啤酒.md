@@ -1,26 +1,16 @@
 ---
-# 菜單品項標題 menu title 
-title: "比利時 馬勒 Malheur 12  黑啤酒"
-# price 品項價錢標價 item price ,交給 shell 差入資料
-price: [200] 
-# 菜單項目簡介 
-description: "啤酒調酒 比利時 馬勒 Malheur 12  黑啤酒"
-# 圖片檔案目錄 diretory to store image file
-image : "images/wine-party.png"
-# 排序
-weight: 8 
-# 上架開關 list product 
+title: 比利時 馬勒  12  黑啤酒
+price:
+  - 200
+description: MALHEUR 12 Belgian-Style Dark Strong ale
 draft: false
-# 菜單品項分類 menu item categories 
+weight: 8
+image: images/wine-party.png
 categories:
-  - 啤酒調酒 
-# 標籤 辣度 素食 甜食 冷熱 tags for spicy vegan sweet hot and cold 
+  - 啤酒調酒
 tags:
   - 啤酒
-  - 調酒 
-  - 威士忌
-# 項目上傳日期 item upload date 
+  - 黑啤酒
 date: 2023-08-22T20:21:10+08:00
 ---
-
- 比利時 馬勒 Malheur 12  黑啤酒
+ 330ml 12%
