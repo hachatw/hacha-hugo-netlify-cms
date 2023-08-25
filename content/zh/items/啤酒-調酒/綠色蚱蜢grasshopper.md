@@ -1,8 +1,8 @@
 ---
-title: 綠色蚱蜢grasshopper
+title: 綠色蚱蜢
 price:
   - 180
-description: 啤酒調酒 綠色蚱蜢grasshopper
+description: grasshopper
 draft: false
 weight: 87
 image: images/wine-party.png
@@ -12,9 +12,6 @@ tags:
   - 香甜酒
   - 調酒
   - 伏特加
-  - 龍舌蘭
-  - 果汁
 date: 2023-08-22T20:21:18+08:00
 ---
-
- 綠色蚱蜢grasshopper
+ 伏特加 ＋白可可酒 ＋綠薄荷酒
