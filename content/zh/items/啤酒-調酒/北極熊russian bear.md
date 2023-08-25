@@ -1,8 +1,8 @@
 ---
-title: 北極熊russian Bear
+title: 北極熊
 price:
   - 160
-description: 啤酒調酒 北極熊russian Bear
+description: russian Bear
 draft: false
 weight: 85
 image: images/wine-party.png
@@ -12,9 +12,7 @@ tags:
   - 香甜酒
   - 調酒
   - 伏特加
-  - 龍舌蘭
-  - 果汁
+  - 牛奶
 date: 2023-08-22T20:21:18+08:00
 ---
-
- 北極熊russian Bear
+ 伏特加 ＋白可可酒 ＋牛奶
