@@ -1,8 +1,8 @@
 ---
-title: 俄國佬russian
+title: 俄國佬
 price:
   - 180
-description: 啤酒調酒 俄國佬russian
+description: russian
 draft: false
 weight: 94
 image: images/wine-party.png
@@ -12,9 +12,7 @@ tags:
   - 香甜酒
   - 調酒
   - 伏特加
-  - 龍舌蘭
-  - 果汁
+  - 琴酒
 date: 2023-08-22T20:21:18+08:00
 ---
-
- 俄國佬russian
+ 伏特加＋白可可酒 ＋琴酒
