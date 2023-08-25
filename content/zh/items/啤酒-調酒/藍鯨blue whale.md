@@ -1,8 +1,8 @@
 ---
-title: 藍鯨blue Whale
+title: 藍鯨
 price:
   - 180
-description: 啤酒調酒 藍鯨blue Whale
+description: blue Whale
 draft: false
 weight: 96
 image: images/wine-party.png
@@ -12,9 +12,7 @@ tags:
   - 香甜酒
   - 調酒
   - 伏特加
-  - 龍舌蘭
-  - 果汁
+  - 牛奶
 date: 2023-08-22T20:21:18+08:00
 ---
-
- 藍鯨blue Whale
+ 伏特加 ＋紫羅蘭酒  ＋牛奶
