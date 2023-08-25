@@ -1,8 +1,8 @@
 ---
-title: 洪溝aqueduct
+title: 洪溝
 price:
   - 180
-description: 啤酒調酒 洪溝aqueduct
+description: aqueduct
 draft: false
 weight: 93
 image: images/wine-party.png
@@ -12,9 +12,7 @@ tags:
   - 香甜酒
   - 調酒
   - 伏特加
-  - 龍舌蘭
   - 果汁
 date: 2023-08-22T20:21:18+08:00
 ---
-
- 洪溝aqueduct
+ 伏特加 ＋白柑酒 ＋杏仁酒 ＋萊姆汁
