@@ -1,25 +1,19 @@
 ---
-# 菜單品項標題 menu title 
-title: "禁果red Apple"
-# price 品項價錢標價 item price ,交給 shell 差入資料
-price: [180] 
-# 菜單項目簡介 
-description: "啤酒調酒 禁果red Apple"
-# 圖片檔案目錄 diretory to store image file
-image : "images/wine-party.png"
-# 排序
-weight: 91 
-# 上架開關 list product 
+title: 禁果red Apple
+price:
+  - 180
+description: 啤酒調酒 禁果red Apple
 draft: false
-# 菜單品項分類 menu item categories 
+weight: 91
+image: images/wine-party.png
 categories:
-  - 啤酒調酒 
-# 標籤 辣度 素食 甜食 冷熱 tags for spicy vegan sweet hot and cold 
+  - 啤酒調酒
 tags:
-  - 啤酒
-  - 調酒 
-  - 威士忌
-# 項目上傳日期 item upload date 
+  - 香甜酒
+  - 調酒
+  - 伏特加
+  - 龍舌蘭
+  - 果汁
 date: 2023-08-22T20:21:18+08:00
 ---
 
