@@ -1,8 +1,8 @@
 ---
-title: 袋鼠男人vodka Martine／kangaroo Man
+title: 袋鼠男人
 price:
   - 180
-description: 啤酒調酒 袋鼠男人vodka Martine／kangaroo Man
+description: vodka Martine／kangaroo Man
 draft: false
 weight: 92
 image: images/wine-party.png
@@ -12,9 +12,6 @@ tags:
   - 香甜酒
   - 調酒
   - 伏特加
-  - 龍舌蘭
-  - 果汁
 date: 2023-08-22T20:21:18+08:00
 ---
-
- 袋鼠男人vodka Martine／kangaroo Man
+伏特加 ＋dry 苦艾酒 ＋白柑酒＋紅心橄欖
