@@ -1,4 +1,6 @@
 import sys
+import re
+
 
 def read_markdown_file(filename):
     lines = []
@@ -8,7 +10,7 @@ def read_markdown_file(filename):
     return lines
     
 def replace_section_with_list(directory, file_name, section_name, new_values):
-    file_path = f"{directory}/{file_name}"
+    file_path = f"{directory}/{file_name}.md"
     
     with open(file_path, 'r') as file:
         content = file.read()
@@ -18,7 +20,7 @@ def replace_section_with_list(directory, file_name, section_name, new_values):
         print(f"Section '{section_name}' not found in the file.")
         return
 
-    section_end = content.find('\n', section_start)
+    section_end = content.find('tags:', section_start)
     if section_end == -1:
         section_end = len(content)
 
@@ -33,6 +35,24 @@ def replace_section_with_list(directory, file_name, section_name, new_values):
 
 # Replace the "categories" section with values from a list
 
+def process_line(line):
+    # Remove leading and trailing whitespaces
+    line = line.strip()
+
+    # Remove asterisks * and hash # symbols
+    line = line.replace('* ', '')
+    # Remove any number of hash symbols followed by space
+    line = re.sub(r'#+\s', '', line)
+    # Remove text after NT
+    line = line.split(' NT')[0]
+
+    # Remove "title:" and keep the data
+    if line.startswith('category:'):
+        line = line.replace('category:', '').strip()
+
+    return line
+
+
 def main():
     if len(sys.argv) != 2:
         print("Usage: python script.py <markdown_file>")
@@ -40,19 +60,23 @@ def main():
 
     markdown_file = sys.argv[1]
     lines = read_markdown_file(markdown_file)
+    list_category=[]
 
     for line in lines:
-        if line.startswith("title"):
-            categories = line 
+        if line.startswith("category:"):
+            categories = process_line(line) 
             directory = 'content/zh/items/' + categories
             print(directory)  # Only print lines that start with #
         if line.startswith("#"):
-            categories_append = line 
+            categories_append = process_line(line) 
+            list_category.append(categories_append)
             print(categories_append)  # Only print lines that start with #
         if line.startswith("*"):
-            items_file_name = line
-            new_values = ['categories', 'categories_append']
+            items_file_name = process_line(line)
+            new_values = [categories, categories_append]
             replace_section_with_list(directory, items_file_name, 'categories:', new_values)
+            print(items_file_name)
             print(new_values)  # Only print lines that start with *
+    print(list_category)
 if __name__ == '__main__':
     main()
