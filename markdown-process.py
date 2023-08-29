@@ -2,7 +2,6 @@ import sys
 import re
 import subprocess
 
-
 def read_markdown_file(filename):
     lines = []
     with open(filename, 'r') as file:
@@ -51,6 +50,8 @@ def process_line(line):
     if line.startswith('category:'):
         line = line.replace('category:', '').strip()
 
+    if line.startswith('categories:'):
+        line = line.replace('categories:', '').strip()
     return line
 
 
@@ -64,24 +65,34 @@ def main():
     list_category=[]
 
     for line in lines:
-        if line.startswith("category:"):
+        if line.startswith(("categories:"):
             categories = process_line(line) 
             directory = 'content/zh/items/' + categories
             hugo_dir ='items/' + categories 
             print(directory)  # Only print lines that start with #
+        if line.startswith(("category:"):
+            categories = process_line(line) 
+            directory = 'content/zh/items/' + categories
+            hugo_dir ='items/' + categories 
+            print(directory)  # Only print lines that start with #
+
         if line.startswith("#"):
             categories_append = process_line(line) 
             list_category.append(categories_append)
             command = ['hugo', 'new', f'{directory}/{categories_append}/_index.md']
             subprocess.run(command, capture_output=True, text=True)
+
         if line.startswith("*"):
-            items_file_name = process_line(line)
-            new_values = [categories, categories_append]
-            replace_section_with_list(directory, items_file_name, 'categories:', new_values)
-            command = ['mv', f'{directory}/{items_file_name}.md' , f'{directory}/{categories_append}/{items_file_name}.md']
-            subprocess.run(command, capture_output=True, text=True)
-            print(items_file_name)
-            print(new_values)  # Only print lines that start with *
+            try:
+                items_file_name = process_line(line)
+                new_values = [categories, categories_append]
+                replace_section_with_list(directory, items_file_name, 'categories:', new_values)
+                command = ['mv', f'{directory}/{items_file_name}.md' , f'{directory}/{categories_append}/{items_file_name}.md']
+                subprocess.run(command, capture_output=True, text=True)
+                print(items_file_name)
+                print(new_values)  # Only print lines that start with *
+            except FileNotFoundError:
+                print(items_file_name + "not found")
     print(list_category)
 if __name__ == '__main__':
     main()
