@@ -1,5 +1,6 @@
 import sys
 import re
+import subprocess
 
 
 def read_markdown_file(filename):
@@ -66,15 +67,19 @@ def main():
         if line.startswith("category:"):
             categories = process_line(line) 
             directory = 'content/zh/items/' + categories
+            hugo_dir ='items/' + categories 
             print(directory)  # Only print lines that start with #
         if line.startswith("#"):
             categories_append = process_line(line) 
             list_category.append(categories_append)
-            print(categories_append)  # Only print lines that start with #
+            command = ['hugo', 'new', f'{directory}/{categories_append}/_index.md']
+            subprocess.run(command, capture_output=True, text=True)
         if line.startswith("*"):
             items_file_name = process_line(line)
             new_values = [categories, categories_append]
             replace_section_with_list(directory, items_file_name, 'categories:', new_values)
+            command = ['mv', f'{directory}/{items_file_name}.md' , f'{directory}/{categories_append}/{items_file_name}.md']
+            subprocess.run(command, capture_output=True, text=True)
             print(items_file_name)
             print(new_values)  # Only print lines that start with *
     print(list_category)
