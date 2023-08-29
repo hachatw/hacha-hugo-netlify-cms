@@ -14,6 +14,9 @@ def replace_section_with_list(directory, file_name, section_name, new_values):
     
     with open(file_path, 'r') as file:
         content = file.read()
+    
+    if "category" in content:
+       content = content.replace("category:","categories:") 
 
     section_start = content.find(section_name)
     if section_start == -1:
@@ -52,6 +55,7 @@ def process_line(line):
 
     if line.startswith('categories:'):
         line = line.replace('categories:', '').strip()
+
     return line
 
 
@@ -64,28 +68,27 @@ def main():
     lines = read_markdown_file(markdown_file)
     list_category=[]
 
+    main_category=""
+
     for line in lines:
-        if line.startswith(("categories:"):
-            categories = process_line(line) 
-            directory = 'content/zh/items/' + categories
-            hugo_dir ='items/' + categories 
-            print(directory)  # Only print lines that start with #
-        if line.startswith(("category:"):
-            categories = process_line(line) 
-            directory = 'content/zh/items/' + categories
-            hugo_dir ='items/' + categories 
-            print(directory)  # Only print lines that start with #
+        if line.startswith("category:"):
+            main_category = process_line(line) 
+
+        directory = 'content/zh/items/' + main_category
+        print (directory + line)  # Only print lines that start with #
 
         if line.startswith("#"):
             categories_append = process_line(line) 
             list_category.append(categories_append)
+            print("\n" +categories_append+"\n")
+            print( directory + "/" + categories_append)
             command = ['hugo', 'new', f'{directory}/{categories_append}/_index.md']
             subprocess.run(command, capture_output=True, text=True)
 
         if line.startswith("*"):
             try:
                 items_file_name = process_line(line)
-                new_values = [categories, categories_append]
+                new_values = [main_category, categories_append]
                 replace_section_with_list(directory, items_file_name, 'categories:', new_values)
                 command = ['mv', f'{directory}/{items_file_name}.md' , f'{directory}/{categories_append}/{items_file_name}.md']
                 subprocess.run(command, capture_output=True, text=True)
