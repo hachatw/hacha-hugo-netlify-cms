@@ -1,26 +1,18 @@
 ---
-# 菜單品項標題 menu title 
-title: "香瓜球melon Ball"
-# price 品項價錢標價 item price ,交給 shell 差入資料
-price: [220] 
-# 菜單項目簡介 
-description: "啤酒調酒 香瓜球melon Ball"
-# 圖片檔案目錄 diretory to store image file
-image : "images/wine-party.png"
-# 排序
-weight: 86 
-# 上架開關 list product 
+title: 香瓜球
+price:
+  - 220
+description: melon Ball
 draft: false
-# 菜單品項分類 menu item categories 
+weight: 86
+image: images/wine-party.png
 categories:
-  - 啤酒調酒 
-# 標籤 辣度 素食 甜食 冷熱 tags for spicy vegan sweet hot and cold 
+  - 啤酒調酒
 tags:
-  - 啤酒
-  - 調酒 
-  - 威士忌
-# 項目上傳日期 item upload date 
+  - 香甜酒
+  - 調酒
+  - 伏特加
+  - 果汁
 date: 2023-08-22T20:21:18+08:00
 ---
-
- 香瓜球melon Ball
+ 伏特加 ＋香瓜酒 ＋柳橙汁
