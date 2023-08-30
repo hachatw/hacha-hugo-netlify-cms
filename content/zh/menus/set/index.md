@@ -29,7 +29,6 @@ description: This is Refreshment
   有機菊花茶 +NT50
 
   ## 2人套餐
-    ## 2人套餐
 * A   
 
   京醬肉絲    \
@@ -55,11 +54,5 @@ description: This is Refreshment
   時鮮蔬菜          \
   手工甜點*2               NT 999\
   \
-<<<<<<< HEAD
-  附餐  湯 / 咖啡 / 紅茶（ 3選2 ）\
-  有機菊花茶 +NT50
-  
-=======
   附餐     咖啡 / 紅茶/ 熱綠茶（ 3選2 ）\
   有機菊花茶 +NT50
->>>>>>> master
