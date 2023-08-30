@@ -7,7 +7,7 @@ draft: false
 weight: 2
 image: images/img_1475.jpeg
 categories:
-  - 茶類
+  - 茶類/鮮奶茶
 tags:
   - 茶類
   - 鮮奶
