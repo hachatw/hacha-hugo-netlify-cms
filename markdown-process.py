@@ -1,4 +1,5 @@
 import sys
+import os
 import re
 import subprocess
 
@@ -70,11 +71,23 @@ def replace_section_with_list(directory, file_name, section_name, new_values):
 
 def main():
     if len(sys.argv) != 2:
-        print("Usage: python script.py <markdown_file>")
+        print("Usage: python script.py <menu_directory>")
         sys.exit(1)
 
-    markdown_file = sys.argv[1]
-    lines = read_markdown_file(markdown_file)
+    menu_directory = sys.argv[1]
+    if not os.path.isdir(menu_directory):
+        print(f"Error: {menu_directory} is not a valid directory.")
+        sys.exit(1)
+
+    for root, dirs, files in os.walk(menu_directory):
+        for filename in files:
+            if filename == "index.md":
+                markdown_file = os.path.join(root, filename)
+                lines = read_markdown_file(markdown_file)
+                process_markdown_file(lines)
+                # Perform your processing on 'lines' here
+
+def process_markdown_file(lines):
     main_category=""
     categories_append=""
     list_category=[]
@@ -120,5 +133,6 @@ def main():
             except FileNotFoundError:
                 print(items_file_name + "not found")
     print(list_category)
+
 if __name__ == '__main__':
     main()
