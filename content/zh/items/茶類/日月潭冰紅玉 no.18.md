@@ -1,5 +1,5 @@
 ---
-title: 日月潭冰紅玉 No.18
+title: 日月潭冷泡紅玉 No.18
 price:
   - 120
 description: Sun moon Lake Ruby No.18 iced tea
