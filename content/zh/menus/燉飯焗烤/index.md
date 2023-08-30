@@ -6,7 +6,7 @@ weight: 3
 tags:
   - meal
   - visit
-category: 焗烤
+category: 焗烤燉飯
 image: images/img_1435.jpeg
 categories:
   - 西餐

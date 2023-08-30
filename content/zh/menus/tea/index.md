@@ -4,7 +4,7 @@ date: 2023-01-03T18:41:34+08:00
 image: images/tea.jpg
 draft: false
 weight: 7
-category: 台灣茶 / 奶茶
+category: 茶類
 description: 台灣茶 / 奶茶
 ---
 ## 公主熱奶茶
