@@ -7,10 +7,15 @@ draft: false
 weight: 11
 image: images/tea.jpg
 categories:
-  - 茶類
+  - 茶類/鮮奶茶
 tags:
   - 茶類
-  - 手奉 台灣茶
+  - 鮮奶
+  - 台灣茶
+  - 條索
+  - 全發酵
+  - 紅玉
+  - 紅茶
 date: 2023-08-11T23:15:07+08:00
 ---
 
