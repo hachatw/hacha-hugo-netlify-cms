@@ -5,7 +5,7 @@ title: "啤酒 調酒"
 # 菜單項目簡介 
 description: "啤酒調酒 啤酒 調酒"
 # 圖片檔案目錄 diretory to store image file
-image : "images/wine-party.png"
+image: images/image.jpg
 # 排序
 weight: 
 # 上架開關 list product 

@@ -5,7 +5,7 @@ title: "焗烤燉飯"
 # 菜單項目簡介 
 description: "焗烤燉飯 焗烤燉飯"
 # 圖片檔案目錄 diretory to store image file
-image : "images/rissoto.jpg" 
+image: images/img_1435.jpeg
 # 上架開關 list product 
 draft: false
 # 排序

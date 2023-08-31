@@ -4,7 +4,7 @@ title: "甜點"
 # 品項價錢標價 item price 
 price: ["120"]
 # 圖片檔案目錄 diretory to store image file
-image : "images/jrey.jpg"
+image: images/img_1651.jpeg
 weight: 4
 # 菜單品項分類 menu item categories 
 categories: ["餐點"]

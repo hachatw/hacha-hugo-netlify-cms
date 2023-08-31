@@ -5,7 +5,7 @@ title: "台菜"
 # 菜單項目簡介 
 description: "台菜 台菜"
 # 圖片檔案目錄 diretory to store image file
-image : "images/estern-meal2.jpeg"
+image: images/img_1627.jpeg
 # 排序
 weight: 8
 # 上架開關 list product 

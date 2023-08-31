@@ -3,7 +3,7 @@ title: 咖啡
 description: Coffee
 draft: false
 weight: 5
-image: images/coffee.jpg
+image: images/img_1316.jpeg
 categories:
   - 咖啡
 tags:

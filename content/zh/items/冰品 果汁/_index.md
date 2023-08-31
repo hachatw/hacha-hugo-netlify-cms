@@ -3,7 +3,7 @@ title: 牛奶果汁
 description: Milk juice
 draft: false
 weight: 9
-image: images/alcohol.jpg
+image: images/blended-drink.jpg
 categories:
   - 牛奶/果汁
 tags:

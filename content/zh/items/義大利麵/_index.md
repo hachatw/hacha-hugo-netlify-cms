@@ -5,7 +5,7 @@ price:
 description: pasta
 draft: false
 weight: 1
-image: images/pasta4.jpg
+image: images/img_0006.jpeg
 categories:
   - 義大利麵
 tags:
