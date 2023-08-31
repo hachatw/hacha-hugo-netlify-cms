@@ -6,7 +6,7 @@ weight: 3
 tags:
   - meal
   - visit
-category: 焗烤
+category: 焗烤燉飯
 image: images/img_1435.jpeg
 categories:
   - 西餐
@@ -30,8 +30,7 @@ description: This is aeicafe risotto menu
 
 * 焗烤奶汁田園菘菇燉飯   NT320
 * 焗烤茄汁田園菘菇燉飯   NT320 
-* 焗烤咖哩田園菘菇燉飯   NT320
+* 焗烤咖哩田園菘菇燉飯   NT320 
 
-
-
-\    附餐  湯 / 咖啡 / 紅茶（ 3選1 ）
+  附餐     咖啡 / 紅茶/ 熱綠茶（ 3選1 ）\
+  有機菊花茶 +NT50

@@ -8,8 +8,6 @@ tags:
   - Refreshment
 category: 套餐
 image: images/img_0085.jpeg
-categories:
-  - 點心
 description: This is Refreshment
 ---
 ## 個人套餐
@@ -25,11 +23,10 @@ description: This is Refreshment
 * 酥炸魚排飯佐塔塔醬   NT 280
 * 酥炸檸檬雞柳條飯   NT 280
 
-  附餐  湯 / 咖啡 / 紅茶（ 3選1 ）\
+  附餐     咖啡 / 紅茶/ 熱綠茶（ 3選1 ）\
   有機菊花茶 +NT50
 
   ## 2人套餐
-    ## 2人套餐
 * A   
 
   京醬肉絲    \
@@ -37,7 +34,7 @@ description: This is Refreshment
   時鮮蔬菜    \
   手工甜點*1                NT 799\
   \
-  附餐  湯 / 咖啡 / 紅茶（ 3選2 ）\
+  附餐     咖啡 / 紅茶/ 熱綠茶（ 3選2 ）\
   有機菊花茶 +NT50
 * B  \
      \
@@ -46,7 +43,7 @@ description: This is Refreshment
   時鮮蔬菜    \
   手工甜點*1                NT 899\
   \
-  附餐  湯 / 咖啡 / 紅茶（ 3選2 ）\
+  附餐     咖啡 / 紅茶/ 熱綠茶（ 3選2 ）\
   有機菊花茶 +NT50
 * C 
 
@@ -55,6 +52,5 @@ description: This is Refreshment
   時鮮蔬菜          \
   手工甜點*2               NT 999\
   \
-  附餐  湯 / 咖啡 / 紅茶（ 3選2 ）\
+  附餐     咖啡 / 紅茶/ 熱綠茶（ 3選2 ）\
   有機菊花茶 +NT50
-  
