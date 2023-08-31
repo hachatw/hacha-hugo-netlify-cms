@@ -2,7 +2,7 @@
 # 菜單品項標題 menu title 
 title: "蛋奶素"
 # 菜單項目簡介 
-description: "蛋奶素"
+description: "蛋奶素 vegetarian"
 # 品項價錢標價 item price 
 price: ["120"]
 # 圖片檔案目錄 diretory to store image file
