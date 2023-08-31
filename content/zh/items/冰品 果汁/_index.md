@@ -1,5 +1,5 @@
 ---
-title: 牛奶果汁
+title: 特調飲料
 description: Milk juice
 draft: false
 weight: 9
