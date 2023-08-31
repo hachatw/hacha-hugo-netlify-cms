@@ -1,6 +1,6 @@
 ---
 # 菜單品項標題 menu title 
-title: "甜點"
+title: "點心"
 # 品項價錢標價 item price 
 price: ["120"]
 # 圖片檔案目錄 diretory to store image file

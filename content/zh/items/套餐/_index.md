@@ -5,7 +5,7 @@ title: "套餐"
 # 菜單項目簡介 
 description: "套餐套餐"
 # 圖片檔案目錄 diretory to store image file
-image : "images/img_1593.jpeg"
+image: images/img_0085.jpeg
 # 上架開關 list product 
 draft: false
 # 排序
