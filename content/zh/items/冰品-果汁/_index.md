@@ -1,23 +1,14 @@
 ---
-# 菜單品項標題 menu title 
-title: "冰品 果汁"
-# price 品項價錢標價 item price ,交給 shell 差入資料
-# 菜單項目簡介 
-description: "冰品-果汁冰品 果汁"
-# 圖片檔案目錄 diretory to store image file
-image : "images/alcohol.jpg"
-# 排序
-weight: 9
-# 上架開關 list product 
+title: 牛奶果汁
+description: Milk juice
 draft: false
-# 菜單品項分類 menu item categories 
+weight: 9
+image: images/alcohol.jpg
 categories:
-  - 冰品-果汁
-# 標籤 辣度 素食 甜食 冷熱 tags for spicy vegan sweet hot and cold 
+  - 牛奶/果汁
 tags:
-  - 冰品
+  - 牛奶
   - 果汁
-# 項目上傳日期 item upload date 
 date: 2023-08-11T23:16:33+08:00
 ---
 
