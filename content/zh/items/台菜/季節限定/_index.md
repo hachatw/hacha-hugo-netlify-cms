@@ -1,6 +1,6 @@
 ---
 # 菜單品項標題 menu title 
-title: "季節限定"
+title: "季節"
 # 菜單項目簡介 
 description: "季節限定"
 # 品項價錢標價 item price 

@@ -1,6 +1,6 @@
 ---
 # 菜單品項標題 menu title 
-title: "伏特加Vodka"
+title: "伏特加"
 # 菜單項目簡介 
 description: "伏特加Vodka"
 # 品項價錢標價 item price 

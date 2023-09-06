@@ -1,6 +1,6 @@
 ---
 # 菜單品項標題 menu title 
-title: "琴gin"
+title: "琴"
 # 菜單項目簡介 
 description: "琴gin"
 # 品項價錢標價 item price 

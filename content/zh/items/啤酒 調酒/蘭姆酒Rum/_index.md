@@ -1,6 +1,6 @@
 ---
 # 菜單品項標題 menu title 
-title: "蘭姆酒Rum"
+title: "蘭姆酒"
 # 菜單項目簡介 
 description: "蘭姆酒Rum"
 # 品項價錢標價 item price 

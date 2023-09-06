@@ -1,6 +1,6 @@
 ---
 # 菜單品項標題 menu title 
-title: "焗烤燉飯"
+title: "燉飯"
 # price 品項價錢標價 item price ,交給 shell 差入資料
 # 菜單項目簡介 
 description: "焗烤燉飯 焗烤燉飯"

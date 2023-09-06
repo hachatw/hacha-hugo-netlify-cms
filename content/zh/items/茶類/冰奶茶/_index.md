@@ -1,6 +1,6 @@
 ---
 # 菜單品項標題 menu title 
-title: "特選冰奶茶"
+title: "冰奶茶"
 # 菜單項目簡介 
 description: "特選冰奶茶"
 # 品項價錢標價 item price 

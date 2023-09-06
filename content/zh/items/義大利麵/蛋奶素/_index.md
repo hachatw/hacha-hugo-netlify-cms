@@ -1,6 +1,6 @@
 ---
 # 菜單品項標題 menu title 
-title: "蛋奶素  Vegetarian"
+title: "蛋奶素麵"
 # 菜單項目簡介 
 description: "蛋奶素 vegetarian"
 # 品項價錢標價 item price 

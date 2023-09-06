@@ -1,6 +1,6 @@
 ---
 # 菜單品項標題 menu title 
-title: "西洋茶  冷／熱"
+title: "西洋茶"
 # 菜單項目簡介 
 description: "西洋茶  冷／熱"
 # 品項價錢標價 item price 

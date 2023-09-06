@@ -1,6 +1,6 @@
 ---
 # 菜單品項標題 menu title 
-title: "冰沙 聖代"
+title: "冰品"
 # 菜單項目簡介 
 description: "特調冰沙 聖代"
 # 品項價錢標價 item price 

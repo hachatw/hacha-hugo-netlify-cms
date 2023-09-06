@@ -1,5 +1,5 @@
 ---
-title: 圓直面/ 寬麵/ 筆管麵
+title: 義大利麵
 price:
   - 120
 description: pasta

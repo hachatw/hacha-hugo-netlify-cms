@@ -1,6 +1,6 @@
 ---
 # 菜單品項標題 menu title 
-title: "海鮮類"
+title: "海鮮"
 # 菜單項目簡介 
 description: "海鮮類"
 # 品項價錢標價 item price 

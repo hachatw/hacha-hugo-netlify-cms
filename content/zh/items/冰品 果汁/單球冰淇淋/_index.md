@@ -1,6 +1,6 @@
 ---
 # 菜單品項標題 menu title 
-title: "單球冰淇淋"
+title: "冰淇淋"
 # 菜單項目簡介 
 description: "果汁 牛奶"
 # 品項價錢標價 item price 

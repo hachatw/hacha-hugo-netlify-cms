@@ -1,8 +1,8 @@
 ---
 # 菜單品項標題 menu title 
-title: "手奉 台灣茶（熱）"
+title: "熱奶茶"
 # 菜單項目簡介 
-description: "手奉 台灣茶（熱）"
+description: "公主熱奶茶"
 # 品項價錢標價 item price 
 price: ["120"]
 # 圖片檔案目錄 diretory to store image file
