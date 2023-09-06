@@ -1,10 +1,8 @@
 ---
 # 菜單品項標題 menu title 
-title: "蛋奶素麵"
+title: "義大利麵"
 # 菜單項目簡介 
-description: "蛋奶素"
-# 品項價錢標價 item price 
-price: ["120"]
+description: "義大利麵"
 # 圖片檔案目錄 diretory to store image file
 image : "images/jrey.jpg"
 # 菜單品項分類 menu item categories 
