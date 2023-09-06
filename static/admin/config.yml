@@ -48,7 +48,7 @@ collections:
     # moving an existing entry will move the entire sub tree of the entry to the new location
 
   - name: 'zh-items-set'
-    label: '套餐'
+    label: '2人套餐'
     folder: 'content/zh/items/套餐/2人套餐'
     path: '{{slug}}'
     create: true
@@ -72,7 +72,7 @@ collections:
 
 
   - name: 'zh-items-set'
-    label: '套餐'
+    label: '個人套餐'
     folder: 'content/zh/items/套餐/個人套餐'
     path: '{{slug}}'
     create: true
