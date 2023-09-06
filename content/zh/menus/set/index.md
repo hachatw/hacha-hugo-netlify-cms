@@ -19,7 +19,7 @@ description: This is Refreshment
 * 油蔥水晶雞飯  NT 280
 * 沙茶牛肉飯   NT 280
 * 瓜仔蒸肉餅飯  NT 320
-* 古早味小封肉飯 NT320
+* 海鮮豆腐飯 NT320
 * 台式筍絲滷肉飯 NT320
 * 辣味卡拉雞腿排飯   NT 280
 * 酥炸魚排飯佐塔塔醬   NT 280
@@ -49,7 +49,7 @@ description: This is Refreshment
   有機菊花茶 +NT50
 * C 
 
-  古早味小封肉 \
+  台式筍絲滷肉 \
   蛤蜊絲瓜         \
   時鮮蔬菜          \
   手工甜點*2               NT 999\
