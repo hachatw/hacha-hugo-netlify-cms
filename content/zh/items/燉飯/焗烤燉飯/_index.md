@@ -1,6 +1,6 @@
 ---
 # 菜單品項標題 menu title 
-title: "焗烤"
+title: "燉飯"
 # 菜單項目簡介 
 description: "燉飯"
 # 品項價錢標價 item price 
