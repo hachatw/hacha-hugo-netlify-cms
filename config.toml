@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 
-theme ="twenty-twenty-hugo"
+theme ="cusine-menu-hugo"
 defaultContentLanguage = 'zh'
 # post pagination
 paginate = "6"
@@ -23,6 +23,17 @@ baseURL = "/"
         title='黑客茶舖'
         contentDir = "content/zh"
 
+# subtitles
+[languages.zh.params.cuisine]
+food = "台菜"
+pasta = "義大利麵"
+drink ="茶"
+coffee="咖啡"
+
+# subtitles
+[languages.zh.params.event]
+heading="活動"
+heading2 ="店內菜單"
 ############################## navigation zh ###############################
         [[languages.zh.menu.main]]
         name = "首頁"
@@ -55,10 +66,6 @@ baseURL = "/"
         URL = "../en"
         weight = 6
 
-# subtitles
-[languages.zh.params.event]
-heading="活動"
-heading2 ="店內菜單"
 
         # footer
         [languages.zh.params.footer]

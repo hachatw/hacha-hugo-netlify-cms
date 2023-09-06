@@ -3,6 +3,7 @@ title: 冰品 / 果汁
 date: 2022-02-12T18:46:00+08:00
 description: 冰品/果汁
 image: images/blended-drink.jpg
+category: 冰品 果汁 
 draft: false
 ---
 
@@ -18,7 +19,7 @@ draft: false
 - 可可奶冰沙  NT 160
 - 抹茶拿鐵冰沙  NT160
 
-### 特調冰沙/聖代 
+### 特調冰沙 聖代 
 
 - 水蜜桃冰砂 NT 120
 - 情人果冰砂  NT 120
@@ -39,7 +40,7 @@ draft: false
 - 巧克力冰淇淋(單球)  NT 90
 
 
-### 果汁/牛奶 
+### 果汁 牛奶 
 
 - 台灣高山野淬蜂蜜檸檬汁    NT 150
 - 金桔檸檬汁  NT 150

@@ -6,13 +6,12 @@ weight: 2
 tags:
   - meal
   - visit
-category: pasta
+category: 義大利麵
 image: images/img_0006.jpeg
 categories:
   - 西餐
 description: This is aeicafe pasta menu
 ---
-###### 圓直面/ 寬麵/ 筆管麵
 
 * 白酒蛤蜊義大利麵  NT230 
 * 白酒海鮮義大利麵  NT290
@@ -26,11 +25,13 @@ description: This is aeicafe pasta menu
 * 蒜椒橄欖油蛤蜊辣麵  NT260 
 * 蒜椒橄欖油海鮮辣麵  NT320 
 * 拿坡里小肉丸海鮮義大利麵 NT360
-* 奶汁田園菘菇義大利麵 （蛋奶素） NT260
-* 茄汁田園菘菇義大利麵 （蛋奶素） NT260
 * 香蒜培根時蔬義大利麵  NT260
 * 奶油玉米雞柳義大利麵  NT260
 * 奶汁起司鮭魚義大利麵  NT320
+
+## 蛋奶素
+* 奶汁田園菘菇義大利麵 （蛋奶素） NT260
+* 茄汁田園菘菇義大利麵 （蛋奶素） NT260
 
   附餐     咖啡 / 紅茶/ 熱綠茶（ 3選1 ）\
   + 有機菊花茶 +NT50\

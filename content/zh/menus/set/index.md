@@ -8,8 +8,6 @@ tags:
   - Refreshment
 category: 套餐
 image: images/img_0085.jpeg
-categories:
-  - 點心
 description: This is Refreshment
 ---
 ## 個人套餐

@@ -1,3 +1,7 @@
 [submodule "themes/twenty-twenty-hugo"]
 	path = themes/twenty-twenty-hugo
 	url = git@github.com:hachatw/twenty-twenty-hugo.git
+
+[submodule "themes/cusine-menu-hugo"]
+	path = themes/cusine-menu-hugo
+	url = git@github.com:hachatw/cusine-menu-hugo.git

@@ -7,7 +7,7 @@ date: 2022-02-12T15:40:24+06:00
 weight: 5
 tags:
   - dessert
-category: 甜點
+category: 點心 
 description: This is aeicafe dessert menu
 image: images/img_1651.jpeg
 categories:
@@ -35,9 +35,13 @@ categories:
 
 * 巧克力布朗尼     NT90
 * 焦糖烤布丁    NT90
+* 紐約都會重乳酪蛋糕   NT90
+
+### 預定
+
 * 法式檸檬塔   NT120
 * 威尼斯蛋糕     NT120
 * 奶油鬆糕     NT120
-* 紐約都會重乳酪蛋糕   NT90
 * 巴斯克乳酪蛋糕      NT120
 * 小山園抹茶巴斯克乳酪蛋糕　   NT140
+* 抹茶巴斯克乳酪蛋糕 NT140
