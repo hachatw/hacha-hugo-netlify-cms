@@ -1,6 +1,6 @@
 ---
 # 菜單品項標題 menu title 
-title: "啤酒 調酒"
+title: "調酒"
 # price 品項價錢標價 item price ,交給 shell 差入資料
 # 菜單項目簡介 
 description: "啤酒調酒 啤酒 調酒"
