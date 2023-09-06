@@ -8,6 +8,7 @@ price: ["120"]
 # 圖片檔案目錄 diretory to store image file
 image : "images/jrey.jpg"
 # 菜單品項分類 menu item categories 
+weight: 4
 frame: s 
 categories: 
     - 餐點

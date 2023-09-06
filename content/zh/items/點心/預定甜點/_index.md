@@ -1,6 +1,6 @@
 ---
 # 菜單品項標題 menu title 
-title: "個人獨享限量手工甜點"
+title: "預定甜點"
 # 菜單項目簡介 
 description: "個人獨享限量手工甜點"
 # 品項價錢標價 item price 
@@ -8,6 +8,7 @@ price: ["120"]
 # 圖片檔案目錄 diretory to store image file
 image : "images/jrey.jpg"
 # 菜單品項分類 menu item categories 
+weight: 4
 frame: s
 categories: 
     - 餐點
