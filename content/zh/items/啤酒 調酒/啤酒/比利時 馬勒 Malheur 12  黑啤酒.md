@@ -1,5 +1,5 @@
 ---
-title: 比利時 馬勒  12  黑啤酒
+title: 馬勒  12  黑啤酒
 price:
   - 200
 description: MALHEUR 12 Belgian-Style Dark Strong ale

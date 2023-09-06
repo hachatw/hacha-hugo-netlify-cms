@@ -1,6 +1,6 @@
 ---
 # 菜單品項標題 menu title 
-title: "手沖黑咖啡
+title: "手沖
 "
 # 菜單項目簡介 
 description: "手沖黑咖啡（熱）"
@@ -9,6 +9,7 @@ price: ["120"]
 # 圖片檔案目錄 diretory to store image file
 image: images/img_1316.jpeg
 # 菜單品項分類 menu item categories 
+weight: 7
 frame: s 
 categories: 
     - 餐點

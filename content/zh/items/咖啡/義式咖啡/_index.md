@@ -1,13 +1,14 @@
 ---
 # 菜單品項標題 menu title 
-title: "義式咖啡"
+title: "義式"
 # 菜單項目簡介 
 description: "義式咖啡"
 # 品項價錢標價 item price 
 price: ["120"]
 # 圖片檔案目錄 diretory to store image file
-image : "images/jrey.jpg"
+image: images/img_1316.jpeg
 # 菜單品項分類 menu item categories 
+weight: 7
 categories: 
     - 餐點
 # 標籤 辣度 素食 甜食 冷熱 tags for spicy vegan sweet hot and cold 
