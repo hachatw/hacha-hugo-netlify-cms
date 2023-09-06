@@ -50,7 +50,7 @@ description: This is Refreshment
 * C 
 
   台式筍絲滷肉 \
-  蛤蜊絲瓜         \
+  黃瓜肉絲         \
   時鮮蔬菜          \
   手工甜點*2               NT 999\
   \
