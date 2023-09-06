@@ -51,7 +51,7 @@ description: This is Refreshment
 
   家常豆腐 \
   黃瓜肉絲         \
-  時鮮蔬菜          \
+  九層塔烘蛋          \
   手工甜點*1                NT 999\
   \
   附餐     咖啡 / 紅茶/ 熱綠茶（ 3選2 ）\
