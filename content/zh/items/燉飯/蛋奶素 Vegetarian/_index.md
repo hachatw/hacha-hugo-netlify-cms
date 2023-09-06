@@ -7,6 +7,7 @@ description: "蛋奶素"
 price: ["120"]
 # 圖片檔案目錄 diretory to store image file
 image : "images/jrey.jpg"
+weight: 2
 # 菜單品項分類 menu item categories 
 frame: s
 categories: 
