@@ -1,5 +1,5 @@
 ---
-title: 二人套餐 B
+title:  B 套餐
 price:
   - "899"
 description: Package B for two

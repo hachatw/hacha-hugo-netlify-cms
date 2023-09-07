@@ -1,5 +1,5 @@
 ---
-title: 二人套餐 C
+title:  C 套餐
 price:
   - "999"
 description: Package C for two
