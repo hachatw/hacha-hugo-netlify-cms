@@ -1,9 +1,9 @@
 ---
-title: 涼拌小菜
+title: 新增 涼拌小菜
 price:
-  - 90
+  - 200
 description: cold dishes
-draft: false
+draft: true
 weight: 10
 image: images/img_0343.jpeg
 categories:
