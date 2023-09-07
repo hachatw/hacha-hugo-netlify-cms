@@ -2,7 +2,7 @@
 # 菜單品項標題 menu title 
 title: "冰淇淋"
 # 菜單項目簡介 
-description: "果汁 牛奶"
+description: "冰淇淋"
 # 品項價錢標價 item price 
 price: ["120"]
 # 圖片檔案目錄 diretory to store image file
