@@ -1,15 +1,15 @@
 ---
-title: 宮保雞丁飯
+title: 新增套餐
 price:
-  - 320
-description: kong -pao chicken Package
+  - 500
+description: new item sets
 draft: true
-weight: 5
-image: images/img_1593.jpeg
+weight: 1
+image: 
 categories:
   - 套餐
 tags:
-date: 2023-08-11T23:15:03+08:00
+date: 2023-09-7T23:15:03+08:00
 ---
 
   熱綠茶 / 咖啡 / 紅茶   

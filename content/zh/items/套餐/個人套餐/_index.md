@@ -4,8 +4,6 @@ title: "個人套餐"
 # 菜單項目簡介 
 description: "個人套餐"
 # 品項價錢標價 item price 
-price: ["120"]
-# 圖片檔案目錄 diretory to store image file
 image : "images/jrey.jpg"
 # 菜單品項分類 menu item categories 
 weight: 3
