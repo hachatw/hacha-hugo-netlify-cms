@@ -1,15 +1,14 @@
 ---
 # 菜單品項標題 menu title 
-title: "蛋奶素燉飯"
+title: "燉飯"
 # 菜單項目簡介 
-description: "蛋奶素"
+description: "燉飯"
 # 品項價錢標價 item price 
 price: ["120"]
 # 圖片檔案目錄 diretory to store image file
-image : "images/jrey.jpg"
 weight: 2
+image : "images/jrey.jpg"
 # 菜單品項分類 menu item categories 
-frame: s
 categories: 
     - 餐點
 # 標籤 辣度 素食 甜食 冷熱 tags for spicy vegan sweet hot and cold 

@@ -1,5 +1,5 @@
 ---
-title: 義大利麵
+title: 西式料理
 price:
   - 120
 description: pasta
@@ -8,6 +8,7 @@ weight: 1
 image: images/img_0006.jpeg
 categories:
   - 義大利麵
+  - 西式料理
 tags:
   - 素食
   - 辣度
