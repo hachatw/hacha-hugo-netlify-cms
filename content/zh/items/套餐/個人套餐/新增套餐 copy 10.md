@@ -1,14 +1,17 @@
 ---
-title: 新增套餐
+title: 蝦仁豆腐飯
 price:
-  - 500
-description: new item sets
-draft: true
+  - "320"
+description: shrimp & tofu
+draft: false
 weight: 1
-image: 
+image: images/img_1562.jpeg
 categories:
   - 套餐
+  - 個人套餐
 tags:
+  - 蝦
+  - 豆腐
 date: 2023-09-7T23:15:03+08:00
 ---
 
