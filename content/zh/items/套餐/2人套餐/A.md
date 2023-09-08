@@ -1,7 +1,7 @@
 ---
 title: A 套餐
 price:
-  - "799"
+  - "899"
 description: Package A for two
 draft: false
 weight: 21
