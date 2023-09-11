@@ -62,7 +62,7 @@ collections:
       - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
       - { label: '未上架', name: 'draft', widget: 'boolean', default: true}
       - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
-      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '照片', name: 'image', widget: 'image', media_folder: 'static/images', public_folder: 'images' ,required: false }
       - { label: '文字', name: 'body', widget: 'string' }
       - { label: '種類', name: 'categories', widget: 'list', required: false }
       - { label: '標籤', name: 'tags', widget: 'list', required: false }
