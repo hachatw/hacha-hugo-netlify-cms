@@ -42,7 +42,7 @@ heading2 ="店內菜單"
 
         [[languages.zh.menu.main]]
         name = "菜單"
-        URL = "menus"
+        URL = "items"
         weight = 2
 
 
