@@ -1,7 +1,6 @@
 backend:
   name: git-gateway
-  repo: hachatw/hacha-hugo-netlify-cms
-  branch: master # Branch to update (optional; defaults to master at testing remember to change to dev )
+  branch: dev # Branch to update (optional; defaults to master at testing remember to change to dev )
 media_folder: static/images
 public_folder: images
 collections:
@@ -27,12 +26,15 @@ collections:
   - name: 'zh-items-cusine'
     label: '台菜'
     folder: 'content/zh/items/台菜'
-    path: '{{slug}}'
     create: true
+    nested:
+      depth: 500 # max depth to show in the collection tree
+      summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
+      # adding a path object allows editing the path of entries
+      # moving an existing entry will move the entire sub tree of the entry to the new location
+      path: { label: 'Path', index_file: _index.md }
     editor:
      preview: false   
-    slug: '{{slug}}'
-    
     fields: 
       - { label: '品項標題', name: 'title', widget: 'string' }
       - { label: '價格', name: 'price', widget: 'list' }
