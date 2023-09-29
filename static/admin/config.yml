@@ -111,6 +111,7 @@ collections:
       - { label: '發布日期', name: 'date', widget: 'datetime' }
     # adding a meta object with a path property allows editing the path of entries
     # moving an existing entry will move the entire sub tree of the entry to the new location
+
   - name: 'zh-items-cusine-chicken'
     label: '雞肉'
     folder: 'content/zh/items/台菜/雞肉'
@@ -199,7 +200,7 @@ collections:
     # adding a meta object with a path property allows editing the path of entries
     # moving an existing entry will move the entire sub tree of the entry to the new location
 
- - name: 'zh-items-cusine-special'
+  - name: 'zh-items-cusine-special'
     label: '預定'
     folder: 'content/zh/items/台菜/預定'
     create: true
@@ -242,7 +243,6 @@ collections:
       - { label: '發布日期', name: 'date', widget: 'datetime' }
     # adding a meta object with a path property allows editing the path of entries
     # moving an existing entry will move the entire sub tree of the entry to the new location
-
 
   - name: 'zh-items-set'
     label: '個人套餐'
