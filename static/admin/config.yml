@@ -178,8 +178,8 @@ collections:
     # moving an existing entry will move the entire sub tree of the entry to the new location
 
   - name: 'zh-items-cusine-veg-tofu'
-    label: '蔬菜 豆腐'
-    folder: 'content/zh/items/台菜/蔬菜 豆腐'
+    label: '蔬菜豆腐'
+    folder: 'content/zh/items/台菜/蔬菜豆腐'
     create: true
     editor:
      preview: false   
@@ -220,6 +220,7 @@ collections:
       - { label: '發布日期', name: 'date', widget: 'datetime' }
     # adding a meta object with a path property allows editing the path of entries
     # moving an existing entry will move the entire sub tree of the entry to the new location
+
   - name: 'zh-items-set-2'
     label: '2人套餐'
     folder: 'content/zh/items/套餐/2人套餐'
