@@ -302,7 +302,6 @@ collections:
   - name: 'zh-items-tea-ice-milk-tea'
     label: '茶類 冰奶茶'
     folder: 'content/zh/items/茶類/冰奶茶'
-    path: 'content/zh/items/茶類/冰奶茶'
     create: true
     editor:
      preview: false   
@@ -325,7 +324,6 @@ collections:
   - name: 'zh-items-tea-ice-tea'
     label: '茶類 冷泡茶'
     folder: 'content/zh/items/茶類/冷泡茶'
-    path: 'content/zh/items/茶類/冷泡茶'
     create: true
     editor:
      preview: false   
@@ -348,7 +346,6 @@ collections:
   - name: 'zh-items-tea-taiwan'
     label: '茶類 台灣茶'
     folder: 'content/zh/items/茶類/台灣茶'
-    path: 'content/zh/items/茶類/台灣茶'
     create: true
     editor:
      preview: false   
@@ -371,7 +368,6 @@ collections:
   - name: 'zh-items-tea-hot-milk-tea'
     label: '茶類 熱奶茶'
     folder: 'content/zh/items/茶類/熱奶茶'
-    path: 'content/zh/items/茶類/熱奶茶'
     create: true
     editor:
      preview: false   
@@ -394,7 +390,6 @@ collections:
   - name: 'zh-items-tea-hot-western-tea'
     label: '茶類 西洋茶'
     folder: 'content/zh/items/茶類/西洋茶'
-    path: 'content/zh/items/茶類/西洋茶'
     create: true
     editor:
      preview: false   
