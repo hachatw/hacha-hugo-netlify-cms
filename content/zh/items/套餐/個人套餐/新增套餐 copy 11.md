@@ -2,7 +2,7 @@
 title: 蒜泥二層肉
 price:
   - "280"
-description: new item sets
+description: Pork False Lean
 draft: true
 weight: 1
 image: null
