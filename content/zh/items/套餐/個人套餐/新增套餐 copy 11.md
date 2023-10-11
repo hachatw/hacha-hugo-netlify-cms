@@ -1,8 +1,8 @@
 ---
-title: 蒜泥二層肉
+title: 蒜泥二層肉飯
 price:
   - "280"
-description: Pork False Lean
+description: Sliced Boiled Pork False Lean with Garlic Sauce
 draft: true
 weight: 1
 image: null
