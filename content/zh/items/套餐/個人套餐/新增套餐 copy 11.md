@@ -8,6 +8,7 @@ weight: 1
 image: null
 categories:
   - 套餐
+  - 個人套餐
 tags:
   - 豬肉
   - 薑絲
