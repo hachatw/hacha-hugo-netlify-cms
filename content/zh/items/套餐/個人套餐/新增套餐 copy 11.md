@@ -1,14 +1,14 @@
 ---
-title: 新增套餐
+title: 蒜泥二層肉
 price:
-  - 500
+  - "280"
 description: new item sets
 draft: true
 weight: 1
-image: 
+image: null
 categories:
   - 套餐
-tags:
+tags: null
 date: 2023-09-7T23:15:03+08:00
 ---
 
