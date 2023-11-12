@@ -578,6 +578,7 @@ collections:
     # adding a meta object with a path property allows editing the path of entries
     # moving an existing entry will move the entire sub tree of the entry to the new location
 
+
   - name: 'zh-items-blended-drink-ice-cream'
     label: '單球冰淇淋'
     folder: 'content/zh/items/冰品 果汁/單球冰淇淋'
