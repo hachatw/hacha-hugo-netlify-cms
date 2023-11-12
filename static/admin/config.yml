@@ -24,27 +24,6 @@ collections:
     # adding a meta object with a path property allows editing the path of entries
     # moving an existing entry will move the entire sub tree of the entry to the new location
 
-  - name: 'zh-items-cusine'
-    label: '台菜'
-    folder: 'content/zh/items/台菜'
-    create: true
-    editor:
-     preview: false   
-    slug: '{{slug}}'
-    
-    fields: 
-      - { label: '品項標題', name: 'title', widget: 'string' }
-      - { label: '價格', name: 'price', widget: 'list' }
-      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
-      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
-      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
-      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../static/images', public_folder: 'images' ,required: false }
-      - { label: '文字', name: 'body', widget: 'string' }
-      - { label: '種類', name: 'categories', widget: 'list', required: false }
-      - { label: '標籤', name: 'tags', widget: 'list', required: false }
-      - { label: '發布日期', name: 'date', widget: 'datetime' }
-    # adding a meta object with a path property allows editing the path of entries
-    # moving an existing entry will move the entire sub tree of the entry to the new location
 
   - name: 'zh-items-cusine-side'
     label: '台菜副餐加點'
@@ -333,8 +312,8 @@ collections:
     # moving an existing entry will move the entire sub tree of the entry to the new location
 
   - name: 'zh-items-甜點'
-    label: '甜點'
-    folder: 'content/zh/items/甜點'
+    label: '蛋糕'
+    folder: 'content/zh/items/蛋糕/甜點'
     create: true
     editor:
      preview: false   
@@ -346,7 +325,76 @@ collections:
       - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
       - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
       - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
-      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '文字', name: 'body', widget: 'string' }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
+      - { label: '標籤', name: 'tags', widget: 'list', required: false }
+      - { label: '發布日期', name: 'date', widget: 'datetime' }
+    # adding a meta object with a path property allows editing the path of entries
+    # moving an existing entry will move the entire sub tree of the entry to the new location
+
+
+  - name: 'zh-items-預定甜點'
+    label: '預定甜點'
+    folder: 'content/zh/items/蛋糕/預定甜點'
+    create: true
+    editor:
+     preview: false   
+    slug: '{{slug}}'
+    
+    fields: 
+      - { label: '品項標題', name: 'title', widget: 'string' }
+      - { label: '價格', name: 'price', widget: 'list' }
+      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
+      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
+      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '文字', name: 'body', widget: 'string' }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
+      - { label: '標籤', name: 'tags', widget: 'list', required: false }
+      - { label: '發布日期', name: 'date', widget: 'datetime' }
+    # adding a meta object with a path property allows editing the path of entries
+    # moving an existing entry will move the entire sub tree of the entry to the new location
+
+
+  - name: 'zh-items-sandwich'
+    label: '三明治'
+    folder: 'content/zh/items/點心/三明治'
+    create: true
+    editor:
+     preview: false   
+    slug: '{{slug}}'
+    
+    fields: 
+      - { label: '品項標題', name: 'title', widget: 'string' }
+      - { label: '價格', name: 'price', widget: 'list' }
+      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
+      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
+      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '文字', name: 'body', widget: 'string' }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
+      - { label: '標籤', name: 'tags', widget: 'list', required: false }
+      - { label: '發布日期', name: 'date', widget: 'datetime' }
+    # adding a meta object with a path property allows editing the path of entries
+    # moving an existing entry will move the entire sub tree of the entry to the new location
+
+
+  - name: 'zh-items-fried-food'
+    label: '炸物'
+    folder: 'content/zh/items/點心/炸物'
+    create: true
+    editor:
+     preview: false   
+    slug: '{{slug}}'
+    
+    fields: 
+      - { label: '品項標題', name: 'title', widget: 'string' }
+      - { label: '價格', name: 'price', widget: 'list' }
+      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
+      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
+      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
       - { label: '文字', name: 'body', widget: 'string' }
       - { label: '種類', name: 'categories', widget: 'list', required: false }
       - { label: '標籤', name: 'tags', widget: 'list', required: false }
@@ -661,7 +709,7 @@ collections:
     # moving an existing entry will move the entire sub tree of the entry to the new location
 
   - name: 'zh-items-alchol-wisky'
-    label: '啤酒 調酒'
+    label: '威士忌'
     folder: 'content/zh/items/啤酒 調酒/威士忌'
     create: true
     editor:
@@ -811,6 +859,21 @@ collections:
 
   - name: 'menus-en'
     label: 'Menus'
+    folder: 'content/en/menus/'
+    path: '{{slug}}/index'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
+    fields: 
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'string',required: false  }
+      - { label: 'Image', name: 'image', widget: 'image',required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'menus-en-second-for-ui'
+    label: 'Menus for ui'
     folder: 'content/en/menus/'
     path: '{{slug}}/index'
     create: true
