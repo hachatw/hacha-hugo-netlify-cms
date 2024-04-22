@@ -8,6 +8,7 @@ weight: 1
 image: images/img_0006.jpeg
 categories:
   - 義大利麵
+  - 焗烤燉飯
   - 西式料理
 tags:
   - 素食
