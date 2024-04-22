@@ -1,9 +1,0 @@
-./menu-into-items.sh ./content/zh/menus/燉飯焗烤/index.md 焗烤燉飯
-./menu-into-items.sh ./content/zh/menus/啤酒-調酒/index.md 啤酒-調酒
-./menu-into-items.sh ./content/zh/menus/blended/index.md 冰品-果汁
-./menu-into-items.sh ./content/zh/menus/set/index.md 套餐
-./menu-into-items.sh ./content/zh/menus/pasta/index.md 義大利麵
-./menu-into-items.sh ./content/zh/menus/coffee/index.md  咖啡
-./menu-into-items.sh ./content/zh/menus/tea/index.md "茶類"
-./menu-into-items.sh ./content/zh/menus/dessert/index.md 甜點
-./menu-into-items.sh ./content/zh/menus/cuisine/index.md 台菜
