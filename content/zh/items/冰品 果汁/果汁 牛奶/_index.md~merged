@@ -1,0 +1,39 @@
+---
+# 菜單品項標題 menu title 
+<<<<<<< HEAD
+<<<<<<< HEAD:content/zh/items/冰品 果汁/果汁 牛奶/_index.md
+title: "果汁 牛奶"
+# 菜單項目簡介 
+description: "果汁 牛奶"
+=======
+title: "牛奶冰沙"
+# 菜單項目簡介 
+description: "牛奶冰沙"
+>>>>>>> master:content/zh/items/冰品 果汁/牛奶冰沙/_index.md
+=======
+title: "果汁 牛奶"
+# 菜單項目簡介 
+description: "果汁 牛奶"
+>>>>>>> master
+# 品項價錢標價 item price 
+price: ["120"]
+# 圖片檔案目錄 diretory to store image file
+image : "images/jrey.jpg"
+# 菜單品項分類 menu item categories 
+categories: 
+    - 餐點
+# 標籤 辣度 素食 甜食 冷熱 tags for spicy vegan sweet hot and cold 
+tags: 
+# 項目上傳日期 item upload date 
+<<<<<<< HEAD
+<<<<<<< HEAD:content/zh/items/冰品 果汁/果汁 牛奶/_index.md
+date: 2023-08-31T03:57:38+08:00
+=======
+date: 2023-08-31T20:42:55+08:00
+>>>>>>> master:content/zh/items/冰品 果汁/牛奶冰沙/_index.md
+=======
+date: 2023-08-31T20:42:55+08:00
+>>>>>>> master
+# 上架開關 list product 
+draft: false
+---
