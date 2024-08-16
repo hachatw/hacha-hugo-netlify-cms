@@ -2,7 +2,7 @@
 draft: false
 price:
   - "120"
-title: "伏特加 feat test "
+title: 伏特加
 date: 2023-08-31T20:42:56+08:00
 tags: null
 category: vodka
