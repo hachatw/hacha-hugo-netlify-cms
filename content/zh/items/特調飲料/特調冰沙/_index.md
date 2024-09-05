@@ -1,15 +1,16 @@
 ---
 # 菜單品項標題 menu title 
-title: "冰品"
+title: "特調冰沙"
 # 菜單項目簡介 
-description: "特調冰沙 聖代"
+description: "特調冰沙"
 # 品項價錢標價 item price 
 price: ["120"]
 # 圖片檔案目錄 diretory to store image file
 image : "images/jrey.jpg"
 # 菜單品項分類 menu item categories 
 categories: 
-    - 餐點
+    - 特調冰沙
+    - 飲料
 # 標籤 辣度 素食 甜食 冷熱 tags for spicy vegan sweet hot and cold 
 tags: 
 # 項目上傳日期 item upload date 
