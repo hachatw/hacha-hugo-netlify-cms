@@ -1,46 +1,46 @@
 backend:
   name: git-gateway
-  repo: hachatw/hacha-hugo-netlify-cms
-  branch: dev # Branch to update (optional; defaults to master at testing remember to change to dev )
+  branch: master # Branch to update (optional; defaults to master at testing remember to change to dev )
 media_folder: static/images
 public_folder: images
 collections:
-  - name: pages
-    label: Nested Pages 咖啡 local 
-    label_singular: 'Page'
-    folder: content/zh/items/咖啡
+  - name: 'zh-items-beer'
+    label: '啤酒'
+    folder: 'content/zh/items/酒單/啤酒'
     create: true
     # adding a nested object will show the collection folder structure
-    nested:
-      path: { widget: string, index_file: '_index.md ' }
-      depth: 100 # max depth to show in the collection tree
-      summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
-      # adding a path object allows editing the path of entries
-      # moving an existing entry will move the entire sub tree of the entry to the new location
-    fields:
-      - label: Title
-        name: title
-        widget: string
-      - label: Body
-        name: body
-        widget: markdown
 
-    # zh editor exam 
-  - name: 'zh-menus'
-    label: '菜單'
-    folder: 'content/zh/menus'
-    path: '{{slug}}/index'
-    create: true
-    editor:
-     preview: false   
-    slug: '{{slug}}'
     fields: 
-      - { label: '標題', name: 'title', widget: 'string' }
+      - { label: '品項標題', name: 'title', widget: 'string' }
+      - { label: '價格', name: 'price', widget: 'list' }
+      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
+      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
+      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '文字', name: 'body', widget: 'string' }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
+      - { label: '標籤', name: 'tags', widget: 'list', required: false }
       - { label: '發布日期', name: 'date', widget: 'datetime' }
-      - { label: '種類', name: 'category', widget: 'string' }
-      - { label: '描述', name: 'description', widget: 'string',required: false }
-      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../static/images', public_folder: 'images' ,required: false }
-      - { label: '文字', name: 'body', widget: 'markdown' }
+    # adding a meta object with a path property allows editing the path of entries
+    # moving an existing entry will move the entire sub tree of the entry to the new location
+
+  - name: 'zh-items-beer-750ml'
+    label: '啤酒750ml'
+    folder: 'content/zh/items/酒單/大瓶啤酒'
+    create: true
+    # adding a nested object will show the collection folder structure
+
+    fields: 
+      - { label: '品項標題', name: 'title', widget: 'string' }
+      - { label: '價格', name: 'price', widget: 'list' }
+      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
+      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
+      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '文字', name: 'body', widget: 'string' }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
+      - { label: '標籤', name: 'tags', widget: 'list', required: false }
+      - { label: '發布日期', name: 'date', widget: 'datetime' }
     # adding a meta object with a path property allows editing the path of entries
     # moving an existing entry will move the entire sub tree of the entry to the new location
 
@@ -88,31 +88,9 @@ collections:
     # adding a meta object with a path property allows editing the path of entries
     # moving an existing entry will move the entire sub tree of the entry to the new locationo
 
-  - name: 'zh-items-cusine'
-    label: '台菜'
-    folder: 'content/zh/items/台菜'
-    create: true
-    editor:
-     preview: false   
-    slug: '{{slug}}'
-    
-    fields: 
-      - { label: '品項標題', name: 'title', widget: 'string' }
-      - { label: '價格', name: 'price', widget: 'list' }
-      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
-      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
-      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
-      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../static/images', public_folder: 'images' ,required: false }
-      - { label: '文字', name: 'body', widget: 'string' }
-      - { label: '種類', name: 'categories', widget: 'list', required: false }
-      - { label: '標籤', name: 'tags', widget: 'list', required: false }
-      - { label: '發布日期', name: 'date', widget: 'datetime' }
-    # adding a meta object with a path property allows editing the path of entries
-    # moving an existing entry will move the entire sub tree of the entry to the new location
-
   - name: 'zh-items-cusine-side'
     label: '台菜副餐加點'
-    folder: 'content/zh/items/台菜/副餐'
+    folder: 'content/zh/extras'
     create: true
     editor:
      preview: false   
@@ -396,9 +374,9 @@ collections:
     # adding a meta object with a path property allows editing the path of entries
     # moving an existing entry will move the entire sub tree of the entry to the new location
 
-  - name: 'zh-items-甜點'
-    label: '甜點'
-    folder: 'content/zh/items/甜點'
+  - name: 'zh-items-ice-cream'
+    label: '冰淇淋品項'
+    folder: 'content/zh/items/甜點/冰淇淋品項'
     create: true
     editor:
      preview: false   
@@ -410,7 +388,51 @@ collections:
       - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
       - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
       - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
-      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '文字', name: 'body', widget: 'string' }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
+      - { label: '標籤', name: 'tags', widget: 'list', required: false }
+      - { label: '發布日期', name: 'date', widget: 'datetime' }
+    # adding a meta object with a path property allows editing the path of entries
+    # moving an existing entry will move the entire sub tree of the entry to the new location
+
+  - name: 'zh-items-dessert'
+    label: '甜點'
+    folder: 'content/zh/items/甜點/手工甜點'
+    create: true
+    editor:
+     preview: false   
+    slug: '{{slug}}'
+    
+    fields: 
+      - { label: '品項標題', name: 'title', widget: 'string' }
+      - { label: '價格', name: 'price', widget: 'list' }
+      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
+      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
+      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '文字', name: 'body', widget: 'string' }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
+      - { label: '標籤', name: 'tags', widget: 'list', required: false }
+      - { label: '發布日期', name: 'date', widget: 'datetime' }
+    # adding a meta object with a path property allows editing the path of entries
+    # moving an existing entry will move the entire sub tree of the entry to the new location
+
+  - name: 'zh-items-pre-order-dessert'
+    label: '甜點'
+    folder: 'content/zh/items/甜點/預定甜點'
+    create: true
+    editor:
+     preview: false   
+    slug: '{{slug}}'
+    
+    fields: 
+      - { label: '品項標題', name: 'title', widget: 'string' }
+      - { label: '價格', name: 'price', widget: 'list' }
+      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
+      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
+      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
       - { label: '文字', name: 'body', widget: 'string' }
       - { label: '種類', name: 'categories', widget: 'list', required: false }
       - { label: '標籤', name: 'tags', widget: 'list', required: false }
@@ -595,8 +617,8 @@ collections:
     # moving an existing entry will move the entire sub tree of the entry to the new location
 
   - name: 'zh-items-blended-drink'
-    label: '冰品-果汁'
-    folder: 'content/zh/items/冰品-果汁'
+    label: '特調冰沙'
+    folder: 'content/zh/items/特調飲料/特調冰沙'
     create: true
     editor:
      preview: false   
@@ -608,7 +630,7 @@ collections:
       - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
       - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
       - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
-      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
       - { label: '文字', name: 'body', widget: 'string' }
       - { label: '種類', name: 'categories', widget: 'list', required: false }
       - { label: '標籤', name: 'tags', widget: 'list', required: false }
@@ -616,21 +638,44 @@ collections:
     # adding a meta object with a path property allows editing the path of entries
     # moving an existing entry will move the entire sub tree of the entry to the new location
 
-  - name: 'zh-items-alchol'
-    label: '啤酒-調酒'
-    folder: 'content/zh/items/啤酒-調酒'
+  - name: 'zh-items-milk-blended-drink'
+    label: '牛奶冰沙'
+    folder: 'content/zh/items/特調飲料/牛奶冰沙'
     create: true
     editor:
      preview: false   
     slug: '{{slug}}'
-      
+    
     fields: 
       - { label: '品項標題', name: 'title', widget: 'string' }
       - { label: '價格', name: 'price', widget: 'list' }
       - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
       - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
       - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
-      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '文字', name: 'body', widget: 'string' }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
+      - { label: '標籤', name: 'tags', widget: 'list', required: false }
+      - { label: '發布日期', name: 'date', widget: 'datetime' }
+    # adding a meta object with a path property allows editing the path of entries
+    # moving an existing entry will move the entire sub tree of the entry to the new location
+
+ 
+  - name: 'zh-items-milk-and-juice'
+    label: '果汁與牛奶'
+    folder: 'content/zh/items/特調飲料/果汁與牛奶'
+    create: true
+    editor:
+     preview: false   
+    slug: '{{slug}}'
+    
+    fields: 
+      - { label: '品項標題', name: 'title', widget: 'string' }
+      - { label: '價格', name: 'price', widget: 'list' }
+      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
+      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
+      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
       - { label: '文字', name: 'body', widget: 'string' }
       - { label: '種類', name: 'categories', widget: 'list', required: false }
       - { label: '標籤', name: 'tags', widget: 'list', required: false }

@@ -1,5 +1,5 @@
 ---
-title: 日月潭頂級紅玉 No.18 鮮奶茶
+title: 日月潭紅玉 18 鮮奶茶
 price:
   - 180
 description: Sun-moon Lake Ruby milk tea
