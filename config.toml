@@ -70,6 +70,7 @@ heading2 ="店內菜單"
         title = ""
         content = ""
         # move 2 above value to coc section for better manage
+        subheading = "關於店家"
         addressTitle = "地址"
         address = "新北市淡水區北新路117-2號"
         hoursTitle = "營業時間"
