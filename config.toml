@@ -70,9 +70,11 @@ heading2 ="店內菜單"
         title = ""
         content = ""
         # move 2 above value to coc section for better manage
+        addressTitle = "地址"
         address = "新北市淡水區北新路117-2號"
-        hours = "Monday–Friday: 12:30AM–9:00PM <br> Saturday & Sunday: 12:30AM–9:00PM"
-        copyright = "Copyright &copy; 2022 黑客茶舖 "
+        hoursTitle = "營業時間"
+        hours = "中午12:30-晚上9:00  <br> 最後點餐晚上8:30"
+        copyright = "Copyright &copy; 2024 黑客茶舖 "
 
 
 ############################## English config ###############################
