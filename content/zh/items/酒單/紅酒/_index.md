@@ -1,12 +1,12 @@
 ---
 # 菜單品項標題 menu title 
-title: "紅酒"
+title: "紅酒 單杯/瓶"
 # 菜單項目簡介 
-description: "紅酒"
+description: "red wine"
 # 品項價錢標價 item price 
-price: ["400"]
+price: ["2000"]
 # 圖片檔案目錄 diretory to store image file
-image : "images/jrey.jpg"
+image : "images/wine-party.png"
 # 菜單品項分類 menu item categories 
 weight: 4
 categories: 
