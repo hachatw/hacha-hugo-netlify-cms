@@ -7,6 +7,8 @@ description: "威士忌"
 price: ["120"]
 # 圖片檔案目錄 diretory to store image file
 image : "images/jrey.jpg"
+# 排序
+weight: 3
 # 菜單品項分類 menu item categories 
 categories: 
     - 餐點

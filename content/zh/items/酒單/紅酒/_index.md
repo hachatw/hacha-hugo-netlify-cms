@@ -8,7 +8,7 @@ price: ["2000"]
 # 圖片檔案目錄 diretory to store image file
 image : "images/wine-party.png"
 # 菜單品項分類 menu item categories 
-weight: 4
+weight: 9
 categories: 
     - 餐點
 # 標籤 辣度 素食 甜食 冷熱 tags for spicy vegan sweet hot and cold 
