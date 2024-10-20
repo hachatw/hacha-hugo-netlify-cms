@@ -1,11 +1,8 @@
 ---
-title: "關於店家"
-# meta description
-description: "This is code of conduct"
-# save as draft
+title: 關於店家
+description: This is code of conduct
 draft: false
 ---
-
 店內低消飲料一杯（包含副餐）
 
 包廂低消 3000 / 3 小時
@@ -23,3 +20,17 @@ draft: false
 請控制音量！勿打擾其他客人！
 
 幼童煩請自行約束保護! 謝謝!!
+
+
+
+t﻿esting code on 
+
+m﻿arkdown  
+
+
+
+
+
+t﻿esting code on 
+
+t﻿esting code on t﻿esting code on t﻿esting code on t﻿esting code on t﻿esting code on t﻿esting code on t﻿esting code on t﻿esting code on t﻿esting code on
