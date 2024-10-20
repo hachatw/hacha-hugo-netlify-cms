@@ -10,8 +10,8 @@ collections:
     create: true 
 
     fields: 
-      - { label: '品項標題', name: 'title', widget: 'string' }
-      - { label: '文字', name: 'body', widget: 'markdown' }
+      - { label: '關於店家標題', name: 'title', widget: 'string' }
+      - { label: '關於店家文字', name: 'body', widget: 'markdown' }
       
   - name: 'zh-items-beer'
     label: '啤酒'
