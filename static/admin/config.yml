@@ -1,9 +1,17 @@
 backend:
   name: git-gateway
-  branch: master # Branch to update (optional; defaults to master at testing remember to change to dev )
+  branch: dev # Branch to update (optional; defaults to master at testing remember to change to dev )
 media_folder: static/images
 public_folder: images
 collections:
+  - name: 'zh-about'
+    label: '關於店家'
+    folder: 'content/zh/about'
+    create: true 
+
+    fields: 
+      - { label: '品項標題', name: 'title', widget: 'string' }
+      - { label: '文字', name: 'body', widget: 'markdown' }
   - name: 'zh-items-beer'
     label: '啤酒'
     folder: 'content/zh/items/酒單/啤酒'
