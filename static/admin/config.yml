@@ -10,9 +10,10 @@ collections:
     create: true 
 
     fields: 
-      - { label: '關於店家標題', name: 'title', widget: 'string' }
-      - { label: '關於店家文字', name: 'body', widget: 'markdown' }
-      
+      - { label: '關於標題', name: 'title', widget: 'string' }
+      - { label: '關於', name: 'body', widget: 'markdown' }
+      - { label: '開關', name: 'draft', widget: 'boolean', default: false}
+ 
   - name: 'zh-items-beer'
     label: '啤酒'
     folder: 'content/zh/items/酒單/啤酒'
