@@ -5,7 +5,7 @@ price:
 description: Straffe Hendrik Quadrupel
 draft: true
 weight: 10
-image: images/img_1472.jpeg
+image: images/img_1541.jpeg
 categories:
   - 啤酒調酒
 tags:
