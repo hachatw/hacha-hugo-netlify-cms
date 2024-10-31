@@ -1,11 +1,8 @@
 ---
-title: "公休時間公告"
-# meta description
-description: "This is holiday time announcement"
-# save as draft
+title: 公休時間公告
+description: This is holiday time announcement
 draft: false
 ---
+十月三十一日 10/31 星期 2024
 
-十月二十三日 10/23 星期三 2024
-
-本店公休
+因風雨過大，本店公休
