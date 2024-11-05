@@ -1,5 +1,5 @@
 ---
-title: 水耕A菜
+title: A菜
 price:
   - 120
 description: Hydroponics lettuce
