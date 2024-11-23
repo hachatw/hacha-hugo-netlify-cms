@@ -1,8 +1,8 @@
 ---
-title: "颱風 公休公告 "
+title: " 公休公告 "
 description: This is holiday time announcement
 draft: false
 ---
-十月三十一日 10/31 星期 2024
+2024年12月09（一）～13（五）
 
-因風雨過大，本店公休
+本店公休
