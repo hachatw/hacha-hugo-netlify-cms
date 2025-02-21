@@ -3,8 +3,11 @@ title: " 公休公告 "
 description: This is holiday time announcement
 draft: false
 ---
-2025年2月13（四）
+2025年2月22（六）
 
-本店公休一天！
+店主有事！
+公休半天！
 
-謝謝
+下午五點開始營業
+
+謝謝🙏
