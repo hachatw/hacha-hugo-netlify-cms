@@ -3,7 +3,7 @@ title: 勇敢亨利黑啤
 price:
   - 200
 description: Straffe Hendrik Quadrupel
-draft: true
+draft: false
 weight: 10
 image: images/img_1541.jpeg
 categories:
