@@ -5,6 +5,7 @@ price:
 description: ORION DRAFT BEER
 draft: false
 weight: 5
+image: images/img_3120.jpeg
 categories:
   - 啤酒調酒
 date: 2025-02-26T08:40:07.436Z
