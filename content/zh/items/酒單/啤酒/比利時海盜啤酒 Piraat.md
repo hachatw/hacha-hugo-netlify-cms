@@ -3,7 +3,7 @@ title: "海盜啤酒 "
 price:
   - 200
 description: Piraat
-draft: true
+draft: false
 weight: 9
 image: images/img_1474.jpeg
 categories:
