@@ -1,5 +1,5 @@
 ---
-title: 沖繩ORION500ml生啤酒
+title: 沖繩ORION500ml生啤
 price:
   - "180"
 description: ORION DRAFT BEER
