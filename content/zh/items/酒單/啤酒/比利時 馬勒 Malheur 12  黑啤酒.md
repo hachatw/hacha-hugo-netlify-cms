@@ -2,7 +2,7 @@
 title: 馬勒  12  黑啤酒
 price:
   - 200
-description: MALHEUR 12 Belgian-Style Dark Strong ale
+description: Malheur 12 Belgian-Style Dark Strong ale
 draft: false
 weight: 13
 image: images/img_1477.jpeg
