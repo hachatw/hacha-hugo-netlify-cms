@@ -1,3 +1,4 @@
+import os
 import yaml
 
 def generate_hugo_yaml(config_data, output_file):
@@ -39,11 +40,29 @@ collections:
     print(f"YAML config saved to {output_file}")
 
 # Example key-value mapping
-config_data = {
-    "item_name": "item_dir",
-    "wisky": "威士忌",
-    "gin": "琴"
-}
+def generate_config_data(folder_path):
+    config_data = {
+        "item_name": "item_dir",
+        "wisky": "威士忌",
+        "gin": "琴"
+    }
+
+    # Check if the folder exists before proceeding
+    if not os.path.exists(folder_path):
+        print(f"Folder '{folder_path}' does not exist.")
+        return config_data  # Return empty dictionary if folder is missing
+
+    # Loop through all items and collect only directories
+    for folder_name in os.listdir(folder_path):
+        full_path = os.path.join(folder_path, folder_name)  # Get full path
+
+        # Ensure it's a folder (not a file)
+        if os.path.isdir(full_path):  
+            config_data[folder_name] = folder_name  # Store { "item_name": "item_dir" }
+
+    return(config_data)
 
 # Generate the YAML file
+directories_path = "../content/zh/items/酒單"
+config_data = generate_config_data(directories_path)
 generate_hugo_yaml(config_data, "config.yml")

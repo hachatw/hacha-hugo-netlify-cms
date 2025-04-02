@@ -1,0 +1,263 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master at testing remember to change to dev )
+
+media_folder: static/images
+public_folder: images
+
+collections:
+
+  - name: 'zh-item-item_name'
+    label: 'item_dir'
+    folder: 'content/zh/items/酒單/item_dir'
+    create: true
+
+    fields: 
+      - { label: '品項標題', name: 'title', widget: 'string' }
+      - { label: '價格', name: 'price', widget: 'list' }
+      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
+      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
+      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '文字', name: 'body', widget: 'string' }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
+      - { label: '標籤', name: 'tags', widget: 'list', required: false }
+      - { label: '發布日期', name: 'date', widget: 'datetime' }
+
+  - name: 'zh-item-wisky'
+    label: '威士忌'
+    folder: 'content/zh/items/酒單/威士忌'
+    create: true
+
+    fields: 
+      - { label: '品項標題', name: 'title', widget: 'string' }
+      - { label: '價格', name: 'price', widget: 'list' }
+      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
+      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
+      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '文字', name: 'body', widget: 'string' }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
+      - { label: '標籤', name: 'tags', widget: 'list', required: false }
+      - { label: '發布日期', name: 'date', widget: 'datetime' }
+
+  - name: 'zh-item-gin'
+    label: '琴'
+    folder: 'content/zh/items/酒單/琴'
+    create: true
+
+    fields: 
+      - { label: '品項標題', name: 'title', widget: 'string' }
+      - { label: '價格', name: 'price', widget: 'list' }
+      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
+      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
+      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '文字', name: 'body', widget: 'string' }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
+      - { label: '標籤', name: 'tags', widget: 'list', required: false }
+      - { label: '發布日期', name: 'date', widget: 'datetime' }
+
+  - name: 'zh-item-大瓶啤酒'
+    label: '大瓶啤酒'
+    folder: 'content/zh/items/酒單/大瓶啤酒'
+    create: true
+
+    fields: 
+      - { label: '品項標題', name: 'title', widget: 'string' }
+      - { label: '價格', name: 'price', widget: 'list' }
+      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
+      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
+      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '文字', name: 'body', widget: 'string' }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
+      - { label: '標籤', name: 'tags', widget: 'list', required: false }
+      - { label: '發布日期', name: 'date', widget: 'datetime' }
+
+  - name: 'zh-item-龍舌蘭'
+    label: '龍舌蘭'
+    folder: 'content/zh/items/酒單/龍舌蘭'
+    create: true
+
+    fields: 
+      - { label: '品項標題', name: 'title', widget: 'string' }
+      - { label: '價格', name: 'price', widget: 'list' }
+      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
+      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
+      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '文字', name: 'body', widget: 'string' }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
+      - { label: '標籤', name: 'tags', widget: 'list', required: false }
+      - { label: '發布日期', name: 'date', widget: 'datetime' }
+
+  - name: 'zh-item-白酒'
+    label: '白酒'
+    folder: 'content/zh/items/酒單/白酒'
+    create: true
+
+    fields: 
+      - { label: '品項標題', name: 'title', widget: 'string' }
+      - { label: '價格', name: 'price', widget: 'list' }
+      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
+      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
+      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '文字', name: 'body', widget: 'string' }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
+      - { label: '標籤', name: 'tags', widget: 'list', required: false }
+      - { label: '發布日期', name: 'date', widget: 'datetime' }
+
+  - name: 'zh-item-香甜酒'
+    label: '香甜酒'
+    folder: 'content/zh/items/酒單/香甜酒'
+    create: true
+
+    fields: 
+      - { label: '品項標題', name: 'title', widget: 'string' }
+      - { label: '價格', name: 'price', widget: 'list' }
+      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
+      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
+      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '文字', name: 'body', widget: 'string' }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
+      - { label: '標籤', name: 'tags', widget: 'list', required: false }
+      - { label: '發布日期', name: 'date', widget: 'datetime' }
+
+  - name: 'zh-item-蘭姆酒'
+    label: '蘭姆酒'
+    folder: 'content/zh/items/酒單/蘭姆酒'
+    create: true
+
+    fields: 
+      - { label: '品項標題', name: 'title', widget: 'string' }
+      - { label: '價格', name: 'price', widget: 'list' }
+      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
+      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
+      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '文字', name: 'body', widget: 'string' }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
+      - { label: '標籤', name: 'tags', widget: 'list', required: false }
+      - { label: '發布日期', name: 'date', widget: 'datetime' }
+
+  - name: 'zh-item-威士忌'
+    label: '威士忌'
+    folder: 'content/zh/items/酒單/威士忌'
+    create: true
+
+    fields: 
+      - { label: '品項標題', name: 'title', widget: 'string' }
+      - { label: '價格', name: 'price', widget: 'list' }
+      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
+      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
+      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '文字', name: 'body', widget: 'string' }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
+      - { label: '標籤', name: 'tags', widget: 'list', required: false }
+      - { label: '發布日期', name: 'date', widget: 'datetime' }
+
+  - name: 'zh-item-啤酒'
+    label: '啤酒'
+    folder: 'content/zh/items/酒單/啤酒'
+    create: true
+
+    fields: 
+      - { label: '品項標題', name: 'title', widget: 'string' }
+      - { label: '價格', name: 'price', widget: 'list' }
+      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
+      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
+      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '文字', name: 'body', widget: 'string' }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
+      - { label: '標籤', name: 'tags', widget: 'list', required: false }
+      - { label: '發布日期', name: 'date', widget: 'datetime' }
+
+  - name: 'zh-item-琴'
+    label: '琴'
+    folder: 'content/zh/items/酒單/琴'
+    create: true
+
+    fields: 
+      - { label: '品項標題', name: 'title', widget: 'string' }
+      - { label: '價格', name: 'price', widget: 'list' }
+      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
+      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
+      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '文字', name: 'body', widget: 'string' }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
+      - { label: '標籤', name: 'tags', widget: 'list', required: false }
+      - { label: '發布日期', name: 'date', widget: 'datetime' }
+
+  - name: 'zh-item-葡萄酒'
+    label: '葡萄酒'
+    folder: 'content/zh/items/酒單/葡萄酒'
+    create: true
+
+    fields: 
+      - { label: '品項標題', name: 'title', widget: 'string' }
+      - { label: '價格', name: 'price', widget: 'list' }
+      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
+      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
+      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '文字', name: 'body', widget: 'string' }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
+      - { label: '標籤', name: 'tags', widget: 'list', required: false }
+      - { label: '發布日期', name: 'date', widget: 'datetime' }
+
+  - name: 'zh-item-紅酒'
+    label: '紅酒'
+    folder: 'content/zh/items/酒單/紅酒'
+    create: true
+
+    fields: 
+      - { label: '品項標題', name: 'title', widget: 'string' }
+      - { label: '價格', name: 'price', widget: 'list' }
+      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
+      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
+      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '文字', name: 'body', widget: 'string' }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
+      - { label: '標籤', name: 'tags', widget: 'list', required: false }
+      - { label: '發布日期', name: 'date', widget: 'datetime' }
+
+  - name: 'zh-item-伏特加Vodka'
+    label: '伏特加Vodka'
+    folder: 'content/zh/items/酒單/伏特加Vodka'
+    create: true
+
+    fields: 
+      - { label: '品項標題', name: 'title', widget: 'string' }
+      - { label: '價格', name: 'price', widget: 'list' }
+      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
+      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
+      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '文字', name: 'body', widget: 'string' }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
+      - { label: '標籤', name: 'tags', widget: 'list', required: false }
+      - { label: '發布日期', name: 'date', widget: 'datetime' }
+
+  - name: 'zh-item-白蘭地'
+    label: '白蘭地'
+    folder: 'content/zh/items/酒單/白蘭地'
+    create: true
+
+    fields: 
+      - { label: '品項標題', name: 'title', widget: 'string' }
+      - { label: '價格', name: 'price', widget: 'list' }
+      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
+      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
+      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '文字', name: 'body', widget: 'string' }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
+      - { label: '標籤', name: 'tags', widget: 'list', required: false }
+      - { label: '發布日期', name: 'date', widget: 'datetime' }
