@@ -13,7 +13,41 @@ collections:
       - { label: '關於標題', name: 'title', widget: 'string' }
       - { label: '關於', name: 'body', widget: 'markdown' }
       - { label: '開關', name: 'draft', widget: 'boolean', default: false}
- 
+
+  - name: 'zh-item-wisky'
+    label: '威士忌'
+    folder: 'content/zh/items/酒單/威士忌'
+    create: true
+
+    fields: 
+      - { label: '品項標題', name: 'title', widget: 'string' }
+      - { label: '價格', name: 'price', widget: 'list' }
+      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
+      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
+      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '文字', name: 'body', widget: 'string' }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
+      - { label: '標籤', name: 'tags', widget: 'list', required: false }
+      - { label: '發布日期', name: 'date', widget: 'datetime' }
+
+  - name: 'zh-item-gin'
+    label: '琴'
+    folder: 'content/zh/items/酒單/琴'
+    create: true
+
+    fields: 
+      - { label: '品項標題', name: 'title', widget: 'string' }
+      - { label: '價格', name: 'price', widget: 'list' }
+      - { label: '副標題簡介描述', name: 'description', widget: 'string',required: false }
+      - { label: '未上架', name: 'draft', widget: 'boolean', default: false}
+      - { label: '上架順序', name: 'weight', widget: 'number', default: 10}
+      - { label: '照片', name: 'image', widget: 'image', media_folder: '../../../../../static/images', public_folder: 'images' ,required: false }
+      - { label: '文字', name: 'body', widget: 'string' }
+      - { label: '種類', name: 'categories', widget: 'list', required: false }
+      - { label: '標籤', name: 'tags', widget: 'list', required: false }
+      - { label: '發布日期', name: 'date', widget: 'datetime' }
+      
   - name: 'zh-items-beer'
     label: '啤酒'
     folder: 'content/zh/items/酒單/啤酒'
