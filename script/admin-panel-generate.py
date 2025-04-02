@@ -12,11 +12,11 @@ public_folder: images
 collections:
 """
     
-    for item_name, item_label in config_data.items():
+    for item_name, item_dir in config_data.items():
         section = f"""
-  - name: 'zh-about-{item_name}'
-    label: '{item_label}'
-    folder: 'content/zh/{item_name}'
+  - name: 'zh-item-{item_name}'
+    label: '{item_dir}'
+    folder: 'content/zh/items/酒單/{item_dir}'
     create: true
 
     fields: 
@@ -40,9 +40,9 @@ collections:
 
 # Example key-value mapping
 config_data = {
-    "item_name": "item_label",
-    "history": "歷史",
-    "values": "核心價值"
+    "item_name": "item_dir",
+    "wisky": "威士忌",
+    "gin": "琴"
 }
 
 # Generate the YAML file
