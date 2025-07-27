@@ -4,7 +4,7 @@ description: This is code of conduct
 draft: false
 ---
 店內低消飲料一杯或是主食一份！
-炸物/蛋糕是加點的項目！
+炸物/炒青菜/蛋糕是加點的項目！
 
 包廂低消 3000 / 3 小時
 
