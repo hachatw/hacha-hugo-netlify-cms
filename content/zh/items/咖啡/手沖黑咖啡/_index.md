@@ -4,7 +4,7 @@ price:
   - "200"
 description: Baby Geisha
 draft: false
-weight: 10
+weight: 9
 categories:
   - 咖啡
   - 手沖黑咖啡（熱）
