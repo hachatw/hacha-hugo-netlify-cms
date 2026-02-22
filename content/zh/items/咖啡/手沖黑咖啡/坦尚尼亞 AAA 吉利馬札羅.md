@@ -1,7 +1,7 @@
 ---
 title: 吉利馬札羅
 price:
-  - "150"
+  - "180"
 description: TANZANIA   AAA  KILIMANJARO
 draft: false
 weight: 19
