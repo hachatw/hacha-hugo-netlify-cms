@@ -1,7 +1,7 @@
 ---
 title: 日月潭紅玉 No.18
 price:
-  - 150
+  - "160"
 description: Sun moon Lake Ruby No.18 Black tea
 draft: false
 weight: 30
