@@ -3,7 +3,7 @@ title: A菜
 price:
   - "150"
 description: Hydroponics lettuce
-draft: false
+draft: true
 weight: 82
 image: images/img_1615.jpeg
 categories:
