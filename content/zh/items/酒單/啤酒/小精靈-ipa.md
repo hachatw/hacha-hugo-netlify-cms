@@ -1,8 +1,9 @@
 ---
-title: 小精靈 IPA
+title: 小精靈啤酒花 IPA
 price:
   - "200"
-draft: true
+description: Chouffe, IPA
+draft: false
 weight: 10
 image: images/img_6846.png
 categories:
