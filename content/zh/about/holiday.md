@@ -3,7 +3,8 @@ title: " 公休公告 "
 description: This is holiday time announcement
 draft: false
 ---
-2026年5月20（三）
+2026年06月09（二）-2026年06月17（三）
 
-店主有事！ 公休1天！
+公休！
+
 謝謝🙏
