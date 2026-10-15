@@ -3,7 +3,7 @@ title: 吉利馬札羅
 price:
   - "180"
 description: TANZANIA   AAA  KILIMANJARO
-draft: false
+draft: true
 weight: 19
 image: images/coffee.jpg
 categories:
